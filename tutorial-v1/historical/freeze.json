@@ -1,0 +1,12 @@
+{
+  "frozen_at_utc": "2026-10-16T19:36:47.953407+00:00",
+  "sha256": {
+    "corpus.json": "ec265866c8ea14a1d3030d8650da4c690c14fe12cb7d9bd83de2c0423753fcb4",
+    "questions.json": "ca41dccf8eef35c527be4c73d3dee6ae33d190d0285abca47bb484082899fa78",
+    "PROTOCOL.md": "b4070f13bb91764605d22838e1e1b0502ef45a39a657e2eaaf1e389bcb521bc9",
+    "SOURCES.md": "1be28e08f79758f4daa24fdfdf9df21f17737debc4fc5ded5f84900eeb2a7432",
+    "atlas.py": "e1bee9c57c81e669401b8b481bf6c7502477bf0242dc3261b903d87c5b5f74ed",
+    "lexical_legacy.py": "db8309ec38d46abc594f428a57547ddb25b76691257ea1ef4c13dd30bf6c1bdc",
+    "evaluate.py": "e69080b22564170a1a91635b25c9778a7d455522beeb532981c61e4d8682ed27"
+  }
+}

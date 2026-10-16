@@ -1,0 +1,164 @@
+[
+  {
+    "id": "Q01",
+    "category": "direct",
+    "query": "suivi médian 7,6 ans",
+    "level": null,
+    "expected": [
+      "D01"
+    ]
+  },
+  {
+    "id": "Q02",
+    "category": "direct",
+    "query": "correction compartiment plaquettaire partielle",
+    "level": null,
+    "expected": [
+      "D02"
+    ]
+  },
+  {
+    "id": "Q03",
+    "category": "direct",
+    "query": "arrêt données octobre 2020",
+    "level": null,
+    "expected": [
+      "D03"
+    ]
+  },
+  {
+    "id": "Q04",
+    "category": "direct",
+    "query": "modèle souris Crigler Najjar",
+    "level": null,
+    "expected": [
+      "D04"
+    ]
+  },
+  {
+    "id": "Q05",
+    "category": "direct",
+    "query": "douze mois modèle animal",
+    "level": null,
+    "expected": [
+      "D05"
+    ]
+  },
+  {
+    "id": "Q06",
+    "category": "direct",
+    "query": "référence distincte GNT0003",
+    "level": null,
+    "expected": [
+      "D06"
+    ]
+  },
+  {
+    "id": "Q07",
+    "category": "paraphrase",
+    "query": "Combien de personnes ont été suivies et pendant combien de temps ?",
+    "level": null,
+    "expected": [
+      "D01"
+    ]
+  },
+  {
+    "id": "Q08",
+    "category": "paraphrase",
+    "query": "Les plaquettes sont-elles complètement corrigées ?",
+    "level": null,
+    "expected": [
+      "D02"
+    ]
+  },
+  {
+    "id": "Q09",
+    "category": "paraphrase",
+    "query": "Quelle étude porte sur des souris atteintes de Crigler-Najjar ?",
+    "level": null,
+    "expected": [
+      "D04"
+    ]
+  },
+  {
+    "id": "Q10",
+    "category": "hors_corpus",
+    "query": "suivi médian de 7,6 ans en astronomie",
+    "level": null,
+    "expected": []
+  },
+  {
+    "id": "Q11",
+    "category": "hors_corpus",
+    "query": "publication 2017 modèle souris diabète",
+    "level": null,
+    "expected": []
+  },
+  {
+    "id": "Q12",
+    "category": "hors_corpus",
+    "query": "Quel gain chiffré Thales a-t-il obtenu ?",
+    "level": null,
+    "expected": []
+  },
+  {
+    "id": "Q13",
+    "category": "filtre",
+    "query": "souris Crigler Najjar",
+    "level": "clinique",
+    "expected": []
+  },
+  {
+    "id": "Q14",
+    "category": "filtre",
+    "query": "souris Crigler Najjar",
+    "level": "preclinique",
+    "expected": [
+      "D04"
+    ]
+  },
+  {
+    "id": "Q15",
+    "category": "filtre",
+    "query": "suivi médian",
+    "level": "clinique",
+    "expected": [
+      "D01"
+    ]
+  },
+  {
+    "id": "Q16",
+    "category": "filtre",
+    "query": "suivi médian",
+    "level": "preclinique",
+    "expected": []
+  },
+  {
+    "id": "Q17",
+    "category": "abstention",
+    "query": "efficacité chez mon enfant",
+    "level": null,
+    "expected": []
+  },
+  {
+    "id": "Q18",
+    "category": "abstention",
+    "query": "quelle séquence ou quel vecteur optimiser",
+    "level": null,
+    "expected": []
+  },
+  {
+    "id": "Q19",
+    "category": "abstention",
+    "query": "astronomie Saturne",
+    "level": null,
+    "expected": []
+  },
+  {
+    "id": "Q20",
+    "category": "abstention",
+    "query": "le la les",
+    "level": null,
+    "expected": []
+  }
+]

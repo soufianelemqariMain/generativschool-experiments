@@ -1,0 +1,65 @@
+{
+  "commands": [
+    {
+      "command": [
+        "python3",
+        "--version"
+      ],
+      "exit": 0,
+      "stdout": "Python 3.9.6\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "-m",
+        "venv",
+        "--without-pip",
+        ".venv"
+      ],
+      "exit": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": [
+        ".venv/bin/python",
+        "-B",
+        "app.py",
+        "suivi médian 7,6 ans",
+        "--html",
+        "sourced.html"
+      ],
+      "exit": 0,
+      "stdout": "{\n  \"schema_version\": \"1.0\",\n  \"status\": \"extraits_documentaires\",\n  \"ai_executed\": false,\n  \"query\": \"suivi médian 7,6 ans\",\n  \"reason\": \"Correspondances lexicales normalisées ; pas une réponse validée.\",\n  \"statements\": [\n    {\n      \"text\": \"Suivi publié en 2022 : huit participants, suivi médian de 7,6 ans.\",\n      \"references\": [\n        \"D01\"\n      ],\n      \"editorial_reservation\": false\n    }\n  ],\n  \"evidence\": [\n    {\n      \"id\": \"D01\",\n      \"source_id\": \"S08\",\n      \"title\": \"Long-term safety and efficacy of lentiviral hematopoietic stem/progenitor cell gene therapy for Wiskott–Aldrich syndrome\",\n      \"text\": \"Suivi publié en 2022 : huit participants, suivi médian de 7,6 ans.\",\n      \"disease\": \"Wiskott-Aldrich\",\n      \"evidence_level\": \"clinique\",\n      \"published_at\": \"2022-01-24\",\n      \"accessed_at\": \"2026-10-16\",\n      \"url\": \"https://www.nature.com/articles/s41591-021-01641-x\",\n      \"locator\": \"Abstract\",\n      \"attribution\": \"Magnani et al., Nature Medicine\",\n      \"license\": \"CC-BY-4.0\",\n      \"license_url\": \"https://creativecommons.org/licenses/by/4.0/\",\n      \"changes\": \"Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.\",\n      \"text_sha256\": \"1bc4a9ca220b935a384a54d340d1d39ff3bc496f365d83fdb12b259a61c36354\",\n      \"original_quote\": false,\n      \"text_kind\": \"reformulation_editoriale_fr\",\n      \"lexical_coverage\": 1.0,\n      \"matched_terms\": [\n        \"ans\",\n        \"median\",\n        \"suivi\"\n      ],\n      \"editorial_reservation\": false\n    }\n  ],\n  \"search\": {\n    \"engine\": \"normalized-lexical-1.1.0\",\n    \"query\": \"suivi médian 7,6 ans\",\n    \"level_filter\": null,\n    \"status\": \"extraits_documentaires\",\n    \"reason\": \"Correspondances lexicales normalisées ; pas une réponse validée.\",\n    \"hits\": [\n      {\n        \"id\": \"D01\",\n        \"source_id\": \"S08\",\n        \"title\": \"Long-term safety and efficacy of lentiviral hematopoietic stem/progenitor cell gene therapy for Wiskott–Aldrich syndrome\",\n        \"text\": \"Suivi publié en 2022 : huit participants, suivi médian de 7,6 ans.\",\n        \"disease\": \"Wiskott-Aldrich\",\n        \"evidence_level\": \"clinique\",\n        \"published_at\": \"2022-01-24\",\n        \"accessed_at\": \"2026-10-16\",\n        \"url\": \"https://www.nature.com/articles/s41591-021-01641-x\",\n        \"locator\": \"Abstract\",\n        \"attribution\": \"Magnani et al., Nature Medicine\",\n        \"license\": \"CC-BY-4.0\",\n        \"license_url\": \"https://creativecommons.org/licenses/by/4.0/\",\n        \"changes\": \"Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.\",\n        \"text_sha256\": \"1bc4a9ca220b935a384a54d340d1d39ff3bc496f365d83fdb12b259a61c36354\",\n        \"original_quote\": false,\n        \"text_kind\": \"reformulation_editoriale_fr\",\n        \"lexical_coverage\": 1.0,\n        \"matched_terms\": [\n          \"ans\",\n          \"median\",\n          \"suivi\"\n        ],\n        \"editorial_reservation\": false\n      }\n    ],\n    \"ai_executed\": false,\n    \"adapter_version\": \"1.0.0\",\n    \"integrity_scope\": \"SHA local : intégrité des cartes uniquement ; aucune authentification de source\",\n    \"normalized_query\": [\n      \"ans\",\n      \"median\",\n      \"suivi\"\n    ]\n  }\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        ".venv/bin/python",
+        "-B",
+        "app.py",
+        "astronomie Saturne",
+        "--html",
+        "abstention.html"
+      ],
+      "exit": 0,
+      "stdout": "{\n  \"schema_version\": \"1.0\",\n  \"status\": \"abstention\",\n  \"ai_executed\": false,\n  \"query\": \"astronomie Saturne\",\n  \"reason\": \"Aucune carte suffisamment correspondante.\",\n  \"statements\": [],\n  \"evidence\": [],\n  \"search\": {\n    \"engine\": \"normalized-lexical-1.1.0\",\n    \"query\": \"astronomie Saturne\",\n    \"level_filter\": null,\n    \"status\": \"abstention\",\n    \"reason\": \"Aucune carte suffisamment correspondante.\",\n    \"hits\": [],\n    \"ai_executed\": false,\n    \"adapter_version\": \"1.0.0\",\n    \"integrity_scope\": \"SHA local : intégrité des cartes uniquement ; aucune authentification de source\",\n    \"normalized_query\": [\n      \"astronomie\",\n      \"saturne\"\n    ]\n  }\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        ".venv/bin/python",
+        "-B",
+        "check.py",
+        "--out",
+        "runs/my-first-run"
+      ],
+      "exit": 0,
+      "stdout": "{\"utc\": \"2026-10-16T20:02:31.609469+00:00\", \"python\": \"3.9.6 (default, May 22 2026, 11:13:45) \\n[Clang 21.0.0 (clang-2100.1.1.101)]\", \"platform\": \"macOS-26.2-arm64-arm-64bit\", \"machine\": \"arm64\", \"baseline\": 15, \"improved\": 17, \"total\": 20, \"improved_failures\": [\"Q07\", \"Q10\", \"Q11\"], \"wall_seconds\": 0.512273458, \"cpu_self_seconds\": 0.026444999999999996, \"cpu_children_seconds\": 0.47099799999999997, \"peak_rss_bytes\": 22282240, \"ai_executed\": false, \"torch_available\": false, \"transformers_available\": false}\n",
+      "stderr": ""
+    }
+  ],
+  "wall_seconds": 1.084123625,
+  "cpu_children_seconds": 1.042501
+}
