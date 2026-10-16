@@ -1,0 +1,28 @@
+{
+  "version": "integration-1",
+  "source_manifest": "SOURCE_MANIFEST.json",
+  "sha256": {
+    "PROTOCOL.md": "b4070f13bb91764605d22838e1e1b0502ef45a39a657e2eaaf1e389bcb521bc9",
+    "README.md": "0bc617297c8f67b768909664d67287d122d6e8dd70dae2ce3826fad6abd0b5f7",
+    "REPORT.md": "bfa500d1b43616eaf01b48f6eda05987aeda9a9964dd611a26a92a10c4b2899b",
+    "SOURCES.md": "1be28e08f79758f4daa24fdfdf9df21f17737debc4fc5ded5f84900eeb2a7432",
+    "SOURCE_MANIFEST.json": "4bc4035c799ebc45e91b781f4a01ca0cfbcd2bd7a526ca31a9bb61a7a929c605",
+    "THIRD_PARTY_NOTICES.md": "6c12c2ff392b1912057c6da0d81bb9a7175c61b277817abeba7fd581ac009cbf",
+    "atlas.py": "e1bee9c57c81e669401b8b481bf6c7502477bf0242dc3261b903d87c5b5f74ed",
+    "corpus.json": "ec265866c8ea14a1d3030d8650da4c690c14fe12cb7d9bd83de2c0423753fcb4",
+    "evaluate.py": "e69080b22564170a1a91635b25c9778a7d455522beeb532981c61e4d8682ed27",
+    "freeze.json": "08b2e02d15f96e663b23ffbb9665a8c37b7a141f6faa75738b217dfdecc37658",
+    "lexical_legacy.py": "db8309ec38d46abc594f428a57547ddb25b76691257ea1ef4c13dd30bf6c1bdc",
+    "questions.json": "ca41dccf8eef35c527be4c73d3dee6ae33d190d0285abca47bb484082899fa78",
+    "reproduction/atlas.html": "d3174fad8daa9acb84de286da36b5d4759db08246fd05e4b7d63c3518e3b6af0",
+    "reproduction/cards.json": "bbcba25fa25c1e2a0f4266049e7bf9e8309999ddba12ad27671eb6e6cd2542b9",
+    "reproduction/controls.json": "b271f49293ef803dc3946acc8d71f0d0492b343df8aac52aa1061fc2e094f551",
+    "reproduction/execution.json": "63d33188c7d3cf3e88378c964e6becd12eb0ca611a9f6e11afec8716a42b697a",
+    "reproduction/queries.json": "a69aac93ad467af1f8dc37986ffe0758e5f02e6be0b7da0a3687cb7579373828",
+    "results/atlas.html": "d3174fad8daa9acb84de286da36b5d4759db08246fd05e4b7d63c3518e3b6af0",
+    "results/cards.json": "bbcba25fa25c1e2a0f4266049e7bf9e8309999ddba12ad27671eb6e6cd2542b9",
+    "results/controls.json": "b271f49293ef803dc3946acc8d71f0d0492b343df8aac52aa1061fc2e094f551",
+    "results/execution.json": "bebd0ad2e34b013446af07529aac0b3304ef1fba0689086d2594d5b2a13d9718",
+    "results/queries.json": "59f32adfd0c8e9a3685e90f5d54d0ec14ce80b89db1fa95189bbdcfbdbc05236"
+  }
+}

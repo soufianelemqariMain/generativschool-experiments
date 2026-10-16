@@ -1,0 +1,734 @@
+[
+  {
+    "case": {
+      "id": "Q01",
+      "category": "direct",
+      "query": "suivi médian 7,6 ans",
+      "level": null,
+      "expected": [
+        "D01"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "suivi médian 7,6 ans",
+      "level_filter": null,
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D01",
+          "title": "Long-term safety and efficacy of lentiviral hematopoietic stem/progenitor cell gene therapy for Wiskott–Aldrich syndrome",
+          "url": "https://www.nature.com/articles/s41591-021-01641-x",
+          "published_at": "2022-01-24",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "clinique",
+          "synthetic": false,
+          "lexical_coverage": 1.0,
+          "source_id": "S08",
+          "text": "Suivi publié en 2022 : huit participants, suivi médian de 7,6 ans.",
+          "disease": "Wiskott-Aldrich",
+          "locator": "Abstract",
+          "attribution": "Magnani et al., Nature Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "1bc4a9ca220b935a384a54d340d1d39ff3bc496f365d83fdb12b259a61c36354",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": 1,
+    "recall_at_3": 1.0,
+    "wall_seconds": 0.0010197910000000199
+  },
+  {
+    "case": {
+      "id": "Q02",
+      "category": "direct",
+      "query": "correction compartiment plaquettaire partielle",
+      "level": null,
+      "expected": [
+        "D02"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "correction compartiment plaquettaire partielle",
+      "level_filter": null,
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D02",
+          "title": "Long-term safety and efficacy of lentiviral hematopoietic stem/progenitor cell gene therapy for Wiskott–Aldrich syndrome",
+          "url": "https://www.nature.com/articles/s41591-021-01641-x",
+          "published_at": "2022-01-24",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "clinique",
+          "synthetic": false,
+          "lexical_coverage": 1.0,
+          "source_id": "S08",
+          "text": "La correction du compartiment plaquettaire reste partielle. Ces observations ne constituent pas une garantie de guérison.",
+          "disease": "Wiskott-Aldrich",
+          "locator": "Abstract",
+          "attribution": "Magnani et al., Nature Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "29b13a101a24442eb9c20f6875351bb7367f337980040c75b7689ebb3f30bb44",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": 1,
+    "recall_at_3": 1.0,
+    "wall_seconds": 0.00014875000000000305
+  },
+  {
+    "case": {
+      "id": "Q03",
+      "category": "direct",
+      "query": "arrêt données octobre 2020",
+      "level": null,
+      "expected": [
+        "D03"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "arrêt données octobre 2020",
+      "level_filter": null,
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D03",
+          "title": "Long-term safety and efficacy of lentiviral hematopoietic stem/progenitor cell gene therapy for Wiskott–Aldrich syndrome",
+          "url": "https://www.nature.com/articles/s41591-021-01641-x",
+          "published_at": "2022-01-24",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "clinique",
+          "synthetic": false,
+          "lexical_coverage": 1.0,
+          "source_id": "S08",
+          "text": "Analyse intermédiaire avec arrêt des données au 1 octobre 2020 ; études ouvertes non randomisées. La date de publication diffère de la date des données.",
+          "disease": "Wiskott-Aldrich",
+          "locator": "Main ; Clinical outcomes",
+          "attribution": "Magnani et al., Nature Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "2b8b2bf72ffb48a69ddaba5253d749b4211c838d8214151b8db4dc134ef5665a",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": 1,
+    "recall_at_3": 1.0,
+    "wall_seconds": 0.00012545799999999496
+  },
+  {
+    "case": {
+      "id": "Q04",
+      "category": "direct",
+      "query": "modèle souris Crigler Najjar",
+      "level": null,
+      "expected": [
+        "D04"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "modèle souris Crigler Najjar",
+      "level_filter": null,
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D04",
+          "title": "Promoterless gene targeting without nucleases rescues lethality of a Crigler-Najjar syndrome mouse model",
+          "url": "https://link.springer.com/article/10.15252/emmm.201707601",
+          "published_at": "2017-07-27",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "preclinique",
+          "synthetic": false,
+          "lexical_coverage": 1.0,
+          "source_id": "S09",
+          "text": "Publication de 2017 portant sur un modèle de souris de Crigler-Najjar. Il ne s’agit pas d’un essai clinique humain.",
+          "disease": "Crigler-Najjar",
+          "locator": "Abstract",
+          "attribution": "Porro et al., EMBO Molecular Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "15939f90bfab9c058bc0ea2e5927eccecc1684269642230c6b3bb5ce3f9e1234",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": 1,
+    "recall_at_3": 1.0,
+    "wall_seconds": 0.00012162500000001408
+  },
+  {
+    "case": {
+      "id": "Q05",
+      "category": "direct",
+      "query": "douze mois modèle animal",
+      "level": null,
+      "expected": [
+        "D05"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "douze mois modèle animal",
+      "level_filter": null,
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D05",
+          "title": "Promoterless gene targeting without nucleases rescues lethality of a Crigler-Najjar syndrome mouse model",
+          "url": "https://link.springer.com/article/10.15252/emmm.201707601",
+          "published_at": "2017-07-27",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "preclinique",
+          "synthetic": false,
+          "lexical_coverage": 1.0,
+          "source_id": "S09",
+          "text": "Les auteurs rapportent un effet observé jusqu’à au moins douze mois dans leur modèle animal. Cela ne démontre pas une efficacité chez l’humain.",
+          "disease": "Crigler-Najjar",
+          "locator": "Abstract",
+          "attribution": "Porro et al., EMBO Molecular Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "754d5b374549cbcf777a762f7ca4ee9857b8fe556a8bb94f8ec5ee174208831c",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": 1,
+    "recall_at_3": 1.0,
+    "wall_seconds": 0.0001224169999999858
+  },
+  {
+    "case": {
+      "id": "Q06",
+      "category": "direct",
+      "query": "référence distincte GNT0003",
+      "level": null,
+      "expected": [
+        "D06"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "référence distincte GNT0003",
+      "level_filter": null,
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D06",
+          "title": "Promoterless gene targeting without nucleases rescues lethality of a Crigler-Najjar syndrome mouse model",
+          "url": "https://link.springer.com/article/10.15252/emmm.201707601",
+          "published_at": "2017-07-27",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "preclinique",
+          "synthetic": false,
+          "lexical_coverage": 1.0,
+          "source_id": "S09",
+          "text": "Cette étude animale est une référence distincte de la publication clinique GNT0003 ; aucune continuité expérimentale n’est affirmée ici.",
+          "disease": "Crigler-Najjar",
+          "locator": "Abstract ; qualification éditoriale",
+          "attribution": "Porro et al., EMBO Molecular Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "69d46df317db0b85d7b2e7e124b6e7d033b9440597455c91b0a6d371436cdc4e",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": 1,
+    "recall_at_3": 1.0,
+    "wall_seconds": 0.00011895799999997458
+  },
+  {
+    "case": {
+      "id": "Q07",
+      "category": "paraphrase",
+      "query": "Combien de personnes ont été suivies et pendant combien de temps ?",
+      "level": null,
+      "expected": [
+        "D01"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "Combien de personnes ont été suivies et pendant combien de temps ?",
+      "level_filter": null,
+      "status": "abstention",
+      "reason": "Aucun extrait suffisamment correspondant dans ce corpus.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": false,
+    "first_relevant_rank": null,
+    "recall_at_3": 0.0,
+    "wall_seconds": 0.00012141699999998479
+  },
+  {
+    "case": {
+      "id": "Q08",
+      "category": "paraphrase",
+      "query": "Les plaquettes sont-elles complètement corrigées ?",
+      "level": null,
+      "expected": [
+        "D02"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "Les plaquettes sont-elles complètement corrigées ?",
+      "level_filter": null,
+      "status": "abstention",
+      "reason": "Aucun extrait suffisamment correspondant dans ce corpus.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": false,
+    "first_relevant_rank": null,
+    "recall_at_3": 0.0,
+    "wall_seconds": 0.00011745800000001472
+  },
+  {
+    "case": {
+      "id": "Q09",
+      "category": "paraphrase",
+      "query": "Quelle étude porte sur des souris atteintes de Crigler-Najjar ?",
+      "level": null,
+      "expected": [
+        "D04"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "Quelle étude porte sur des souris atteintes de Crigler-Najjar ?",
+      "level_filter": null,
+      "status": "abstention",
+      "reason": "Aucun extrait suffisamment correspondant dans ce corpus.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": false,
+    "first_relevant_rank": null,
+    "recall_at_3": 0.0,
+    "wall_seconds": 0.00012333300000000325
+  },
+  {
+    "case": {
+      "id": "Q10",
+      "category": "hors_corpus",
+      "query": "suivi médian de 7,6 ans en astronomie",
+      "level": null,
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "suivi médian de 7,6 ans en astronomie",
+      "level_filter": null,
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D01",
+          "title": "Long-term safety and efficacy of lentiviral hematopoietic stem/progenitor cell gene therapy for Wiskott–Aldrich syndrome",
+          "url": "https://www.nature.com/articles/s41591-021-01641-x",
+          "published_at": "2022-01-24",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "clinique",
+          "synthetic": false,
+          "lexical_coverage": 0.75,
+          "source_id": "S08",
+          "text": "Suivi publié en 2022 : huit participants, suivi médian de 7,6 ans.",
+          "disease": "Wiskott-Aldrich",
+          "locator": "Abstract",
+          "attribution": "Magnani et al., Nature Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "1bc4a9ca220b935a384a54d340d1d39ff3bc496f365d83fdb12b259a61c36354",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": false,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 0.00012254100000000379
+  },
+  {
+    "case": {
+      "id": "Q11",
+      "category": "hors_corpus",
+      "query": "publication 2017 modèle souris diabète",
+      "level": null,
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "publication 2017 modèle souris diabète",
+      "level_filter": null,
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D04",
+          "title": "Promoterless gene targeting without nucleases rescues lethality of a Crigler-Najjar syndrome mouse model",
+          "url": "https://link.springer.com/article/10.15252/emmm.201707601",
+          "published_at": "2017-07-27",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "preclinique",
+          "synthetic": false,
+          "lexical_coverage": 0.8,
+          "source_id": "S09",
+          "text": "Publication de 2017 portant sur un modèle de souris de Crigler-Najjar. Il ne s’agit pas d’un essai clinique humain.",
+          "disease": "Crigler-Najjar",
+          "locator": "Abstract",
+          "attribution": "Porro et al., EMBO Molecular Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "15939f90bfab9c058bc0ea2e5927eccecc1684269642230c6b3bb5ce3f9e1234",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": false,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 0.00012579200000001345
+  },
+  {
+    "case": {
+      "id": "Q12",
+      "category": "hors_corpus",
+      "query": "Quel gain chiffré Thales a-t-il obtenu ?",
+      "level": null,
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "Quel gain chiffré Thales a-t-il obtenu ?",
+      "level_filter": null,
+      "status": "abstention",
+      "reason": "Aucun extrait suffisamment correspondant dans ce corpus.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 0.00013729200000001107
+  },
+  {
+    "case": {
+      "id": "Q13",
+      "category": "filtre",
+      "query": "souris Crigler Najjar",
+      "level": "clinique",
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "souris Crigler Najjar",
+      "level_filter": "clinique",
+      "status": "abstention",
+      "reason": "Aucun extrait suffisamment correspondant dans ce corpus.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 7.24169999999913e-05
+  },
+  {
+    "case": {
+      "id": "Q14",
+      "category": "filtre",
+      "query": "souris Crigler Najjar",
+      "level": "preclinique",
+      "expected": [
+        "D04"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "souris Crigler Najjar",
+      "level_filter": "preclinique",
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D04",
+          "title": "Promoterless gene targeting without nucleases rescues lethality of a Crigler-Najjar syndrome mouse model",
+          "url": "https://link.springer.com/article/10.15252/emmm.201707601",
+          "published_at": "2017-07-27",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "preclinique",
+          "synthetic": false,
+          "lexical_coverage": 1.0,
+          "source_id": "S09",
+          "text": "Publication de 2017 portant sur un modèle de souris de Crigler-Najjar. Il ne s’agit pas d’un essai clinique humain.",
+          "disease": "Crigler-Najjar",
+          "locator": "Abstract",
+          "attribution": "Porro et al., EMBO Molecular Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "15939f90bfab9c058bc0ea2e5927eccecc1684269642230c6b3bb5ce3f9e1234",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": 1,
+    "recall_at_3": 1.0,
+    "wall_seconds": 7.799999999999474e-05
+  },
+  {
+    "case": {
+      "id": "Q15",
+      "category": "filtre",
+      "query": "suivi médian",
+      "level": "clinique",
+      "expected": [
+        "D01"
+      ]
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "suivi médian",
+      "level_filter": "clinique",
+      "status": "extraits_documentaires",
+      "reason": "Correspondances lexicales ; elles ne constituent pas une réponse validée.",
+      "hits": [
+        {
+          "id": "D01",
+          "title": "Long-term safety and efficacy of lentiviral hematopoietic stem/progenitor cell gene therapy for Wiskott–Aldrich syndrome",
+          "url": "https://www.nature.com/articles/s41591-021-01641-x",
+          "published_at": "2022-01-24",
+          "accessed_at": "2026-10-16",
+          "source_type": "reformulation_editoriale",
+          "evidence_level": "clinique",
+          "synthetic": false,
+          "lexical_coverage": 1.0,
+          "source_id": "S08",
+          "text": "Suivi publié en 2022 : huit participants, suivi médian de 7,6 ans.",
+          "disease": "Wiskott-Aldrich",
+          "locator": "Abstract",
+          "attribution": "Magnani et al., Nature Medicine",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "changes": "Sélection, reformulation française et ajout de limites éditoriales ; aucun texte intégral.",
+          "text_sha256": "1bc4a9ca220b935a384a54d340d1d39ff3bc496f365d83fdb12b259a61c36354",
+          "text_kind": "reformulation_editoriale_fr",
+          "original_quote": false
+        }
+      ],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": 1,
+    "recall_at_3": 1.0,
+    "wall_seconds": 6.958299999998419e-05
+  },
+  {
+    "case": {
+      "id": "Q16",
+      "category": "filtre",
+      "query": "suivi médian",
+      "level": "preclinique",
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "suivi médian",
+      "level_filter": "preclinique",
+      "status": "abstention",
+      "reason": "Aucun extrait suffisamment correspondant dans ce corpus.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 7.329200000000258e-05
+  },
+  {
+    "case": {
+      "id": "Q17",
+      "category": "abstention",
+      "query": "efficacité chez mon enfant",
+      "level": null,
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "efficacité chez mon enfant",
+      "level_filter": null,
+      "status": "abstention",
+      "reason": "Demande hors périmètre : aucune conclusion médicale ou conception biologique.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 3.258300000000269e-05
+  },
+  {
+    "case": {
+      "id": "Q18",
+      "category": "abstention",
+      "query": "quelle séquence ou quel vecteur optimiser",
+      "level": null,
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "quelle séquence ou quel vecteur optimiser",
+      "level_filter": null,
+      "status": "abstention",
+      "reason": "Demande hors périmètre : aucune conclusion médicale ou conception biologique.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 3.4250000000013436e-05
+  },
+  {
+    "case": {
+      "id": "Q19",
+      "category": "abstention",
+      "query": "astronomie Saturne",
+      "level": null,
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "astronomie Saturne",
+      "level_filter": null,
+      "status": "abstention",
+      "reason": "Aucun extrait suffisamment correspondant dans ce corpus.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 0.00010791699999998516
+  },
+  {
+    "case": {
+      "id": "Q20",
+      "category": "abstention",
+      "query": "le la les",
+      "level": null,
+      "expected": []
+    },
+    "result": {
+      "engine": "lexical-v0.1.0",
+      "query": "le la les",
+      "level_filter": null,
+      "status": "abstention",
+      "reason": "Aucun extrait suffisamment correspondant dans ce corpus.",
+      "hits": [],
+      "ai_executed": false,
+      "adapter_version": "1.0.0",
+      "integrity_scope": "SHA local : intégrité des cartes uniquement ; aucune authentification de source"
+    },
+    "passed": true,
+    "first_relevant_rank": null,
+    "recall_at_3": null,
+    "wall_seconds": 3.120800000000479e-05
+  }
+]

@@ -1,0 +1,9 @@
+# Protocole figé avant exécution réelle
+
+Une passe de développement, six cartes éditoriales françaises de deux publications. Corpus copié octet pour octet depuis la recherche. Aucune calibration ni modification du classement après résultats. Algorithme hérité 0.1.0 : ensembles lexicaux, accents/casse normalisés, mots-outils français, couverture >= 0,60, ordre score puis ID, porte lexicale médicale inchangée. Texte seul indexé, titres non indexés. Aucun BM25 ni encodeur exécuté. Limite de six résultats pour observer toute la collection.
+
+questions.json contient les attendus éditoriaux fixés avant exécution : chaque cas positif réussit si la première carte appartient aux IDs attendus ; chaque cas négatif réussit seulement par abstention. Rapporter rang, rappel à 3, tous les résultats, erreurs et temps. Rappel à 3 = nombre de cartes attendues présentes dans les trois premiers / nombre attendu ; non défini pour abstentions attendues. Pas de validation indépendante : questions élaborées en connaissant cartes et algorithme. Aucune inférence statistique ou généralisation.
+
+Contrôles : intégrité corpus/protocole/questions/code via freeze.json AVANT recherche ; attribution HTML/données pour les six cartes ; rejet licence/hash invalides et échappement HTML ; filtres clinique/préclinique. Reproduction séparée sans réglage, égalité des sorties fonctionnelles (mesures de temps exclues). Budget CPU cumulé des scripts <= 900 s, limite par processus imposée. Durée, CPU, RSS du processus et versions consignés ; pas de mesure d'énergie ni de coût total. Réseau absent du moteur.
+
+Hypothèses non testées : gain d'usage de l'atlas et gain de rappel par encodeur multilingue. Comparaison IA non exécutée pour maintenir une passe locale sans téléchargement ni installation ; aucune supériorité revendiquée. Le logiciel n'interprète pas négations, synonymes ou intention clinique générale.
