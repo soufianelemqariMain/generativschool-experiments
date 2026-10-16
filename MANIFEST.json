@@ -23,12 +23,12 @@
     "results/controls.json": "b271f49293ef803dc3946acc8d71f0d0492b343df8aac52aa1061fc2e094f551",
     "results/execution.json": "bebd0ad2e34b013446af07529aac0b3304ef1fba0689086d2594d5b2a13d9718",
     "results/queries.json": "59f32adfd0c8e9a3685e90f5d54d0ec14ce80b89db1fa95189bbdcfbdbc05236",
-    "tutorial-v1/MANIFEST.json": "8d57939c99bb0759d3f5e0753ff5f50accbd2e4513fe56b206c3fc35fdb406a4",
+    "tutorial-v1/MANIFEST.json": "6ad89d11a9538ce18808615852f79cae5700ea07fb423f901398cde9e236eec7",
     "tutorial-v1/MODEL_EXTENSION.md": "cb1fc08ebb000df74eb50d88e4bfd8d57ab5af68453e04099e267f934ffe22dd",
-    "tutorial-v1/README.md": "1fe349b5d5537e44366c77744408bf29ba9addc65f04ba84c0bbb41abbe6e781",
+    "tutorial-v1/README.md": "b993aba4c78ecb299458078d53fb5ebfde1802f5fac80934a9716f1ef8657497",
     "tutorial-v1/REPORT.md": "4759baf52544d512cb9e73174769cc28a0ab2f7b661faf8a635360364a76a533",
-    "tutorial-v1/SHA256SUMS.json": "55e67c7660f08d273b5bd187e5a7ffa42e0acef781162107f38e650ec6a04d0b",
     "tutorial-v1/SOURCE_MANIFEST.json": "f54385a0b1b4e743ed1d5118f0eef1d360f667f165b66a1ef297304f9f9222d9",
+    "tutorial-v1/SOURCE_SHA256SUMS.json": "55e67c7660f08d273b5bd187e5a7ffa42e0acef781162107f38e650ec6a04d0b",
     "tutorial-v1/app.py": "9c1bf59f2b248d7bbe6df888edd08507e297a9d258f1b6fb7e652b948aab8d3c",
     "tutorial-v1/check.py": "7c4d80f5a5aa6142401eade68d2115063f87a7cdb6bd826241d9f4ceb0c9766b",
     "tutorial-v1/historical/MANIFEST.json": "4bc4035c799ebc45e91b781f4a01ca0cfbcd2bd7a526ca31a9bb61a7a929c605",
@@ -72,6 +72,6 @@
     "tutorial-v1/runs/clean-2/sourced.html": "137a9ccbf6fe945406b91e38a2ee5708be97d95903933357239ebaedaf84a8b5",
     "tutorial-v1/runs/clean-2/sourced.json": "e4da7b9f46292a2daa0bb20ca1df60d035c07216e17d7b97659c83a2a2b44bd8",
     "tutorial-v1/runs/install-transcript.json": "d8bce726c9961b159b35714bcb38cf56924cc2f15e25401eee3540566d01fc8a",
-    "tutorial-v1.zip": "59aca355588fca02662e6e79ae821b11defe362ffa7b803db31662f55e69efb8"
+    "tutorial-v1.zip": "3f967877a9c6c133510adeb958c624f0925424f706236a842e3a500f6259e070"
   }
 }

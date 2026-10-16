@@ -104,3 +104,5 @@ Lire ensuite `MODEL_EXTENSION.md` pour le contrat d’extension et `REPORT.md` p
 [Article français](https://www.generativschool.com/genethon-atlas-documentaire-avant-ia.html) · [Compagnon](https://www.generativschool.com/genethon-atlas-documentaire-avant-ia-compagnon.html) · [Notices et droits](https://www.generativschool.com/genethon-atlas-documentaire-avant-ia-notices.html).
 
 Les rapports sources et le répertoire historical conservent leur état de livraison. La revue indépendante tutorial-v1 est favorable à l’intégration, sans défaut substantiel bloquant. Aucun nouveau benchmark exécuté pour cette publication. SOURCE_MANIFEST.json préserve les empreintes sources ; seul ce README est adapté, le manifeste de distribution est recalculé.
+
+SOURCE_SHA256SUMS.json conserve les empreintes du manifeste et du ZIP sources, avant intégration. Pour cette distribution, utiliser MANIFEST.json ; le ZIP téléchargeable est reconstruit à partir de ces fichiers.
