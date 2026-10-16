@@ -1,8 +1,8 @@
 {
-  "version": "integration-tutorial-v1",
+  "version": "integration-value-v2",
   "sha256": {
     "PROTOCOL.md": "b4070f13bb91764605d22838e1e1b0502ef45a39a657e2eaaf1e389bcb521bc9",
-    "README.md": "db815a0a122391d76b92bdaf2eda56795a1b1de9a3d9fd7b48be7dfcc5aad374",
+    "README.md": "4ff11fcaa55907aa8764922bed5e56deff9f66730f9c3843f519e48b595770e8",
     "REPORT.md": "bfa500d1b43616eaf01b48f6eda05987aeda9a9964dd611a26a92a10c4b2899b",
     "SOURCES.md": "1be28e08f79758f4daa24fdfdf9df21f17737debc4fc5ded5f84900eeb2a7432",
     "SOURCE_MANIFEST.json": "4bc4035c799ebc45e91b781f4a01ca0cfbcd2bd7a526ca31a9bb61a7a929c605",
@@ -72,6 +72,7 @@
     "tutorial-v1/runs/clean-2/sourced.html": "137a9ccbf6fe945406b91e38a2ee5708be97d95903933357239ebaedaf84a8b5",
     "tutorial-v1/runs/clean-2/sourced.json": "e4da7b9f46292a2daa0bb20ca1df60d035c07216e17d7b97659c83a2a2b44bd8",
     "tutorial-v1/runs/install-transcript.json": "d8bce726c9961b159b35714bcb38cf56924cc2f15e25401eee3540566d01fc8a",
-    "tutorial-v1.zip": "3f967877a9c6c133510adeb958c624f0925424f706236a842e3a500f6259e070"
+    "tutorial-v1.zip": "3f967877a9c6c133510adeb958c624f0925424f706236a842e3a500f6259e070",
+    "validation-annexe.md": "0c69512e67e9d5c7682c5dbe305e16fa8dd5423dd1ba8bd6dc5e329ef81f6d80"
   }
 }
