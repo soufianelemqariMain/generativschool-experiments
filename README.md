@@ -1,11 +1,29 @@
-# GenerativSchool — index des projets publics
+# GenerativSchool — Lire. Explorer. Construire.
 
-Chaque projet possède désormais son propre dépôt public, avec un nom descriptif sans numéro de version. Les présentations et les parcours de démarrage sont en français.
+**Et si l’intelligence artificielle ouvrait de nouvelles possibilités dans la recherche et dans votre métier ?**
 
-- [Phénylcétonurie (PKU) : banc d’essai de recherche](https://github.com/soufianelemqariMain/generativschool-pku-research) — observations publiées sur PAH, comparaisons et restauration reproductible. [Article](https://www.generativschool.com/pku-banc-essai-ouvert.html) · [Tutoriel](https://www.generativschool.com/pku-banc-essai-ouvert-tutoriel.html).
-- [Atlas documentaire de recherche — exemple Généthon](https://github.com/soufianelemqariMain/generativschool-research-atlas) — recherche documentaire traçable, terminal et export HTML. [Article et tutoriel](https://www.generativschool.com/genethon-atlas-documentaire-avant-ia.html) · [Compagnon](https://www.generativschool.com/genethon-atlas-documentaire-avant-ia-compagnon.html).
+Nos articles partent d’une question concrète et montrent comment nous l’explorons. Cet index vous conduit aux projets qui prolongent les récits : code, données, sources et étapes de reproduction.
 
-Deux prototypes : aucun bénéfice clinique, partenariat Généthon ou généralisation démontré. Le code PKU conserve sa licence MIT ; le code atlas reste consultable sans licence de réutilisation accordée. Les droits des textes et des sources tierces restent distincts ; consulter les notices de chaque projet.
+**[Lire les articles de GenerativSchool](https://www.generativschool.com/)** · [Comprendre notre méthode](https://www.generativschool.com/methode.html)
+
+## Choisissez votre point de départ
+
+| Enquête | Ce que vous allez découvrir | Code et reproduction |
+| --- | --- | --- |
+| [Généthon · IA et Duchenne](https://www.generativschool.com/genethon-atlas-documentaire-avant-ia.html) | Relier des publications, examiner des pistes IA et calculer sur 22 biopsies | [et-si-genethon](https://github.com/soufianelemqariMain/et-si-genethon) |
+| [Généthon · Phénylcétonurie (PKU)](https://www.generativschool.com/pku-banc-essai-ouvert.html) | Comparer trois modèles sur sept variants de PAH | [Banc d’essai PKU](https://github.com/soufianelemqariMain/generativschool-pku-research) · [Tutoriel](https://www.generativschool.com/pku-banc-essai-ouvert-tutoriel.html) |
+
+**Pour comprendre**, commencez par l’article. **Pour expérimenter**, ouvrez le dépôt et suivez son README : prérequis, commandes, résultats de référence et limites y sont regroupés.
+
+## Une démarche ouverte à l’examen
+
+GenerativSchool est un laboratoire indépendant d’expérimentation en intelligence artificielle fondé par Soufiane Lemqari. Les organisations citées inspirent nos scénarios ; elles ne sont pas présentées comme partenaires. Ces expériences exploratoires n’établissent aucun bénéfice clinique.
+
+Le code PKU conserve sa licence MIT. Les autres contenus restent soumis aux conditions de chaque dépôt et aux droits de leurs sources. L’accès public ne vaut pas licence générale de réutilisation.
+
+## Retrouvez l’atlas documentaire historique
+
+L’[atlas documentaire de recherche](https://github.com/soufianelemqariMain/generativschool-research-atlas) conserve l’expérience initiale de recherche de sources, son interface terminal et ses exports HTML. Il s’agit d’un projet historique distinct de l’enquête actuelle sur Duchenne.
 
 ## Archives et compatibilité
 
@@ -14,9 +32,5 @@ Ce dépôt reste accessible comme index et archive. Aucun fichier de paquet, ZIP
 [État antérieur immuable](https://github.com/soufianelemqariMain/generativschool-experiments/tree/c89f8ec517a4a5bb340efb06b4f26d5ad2529bae) · [Annexe atlas historique](validation-annexe.md) · [Notices historiques](THIRD_PARTY_NOTICES.md).
 
 Le manifeste racine est actualisé uniquement pour ce nouvel index. Les manifestes des paquets sont inchangés. Les empreintes des archives sont identiques dans les nouveaux dépôts.
-
-## Règle pour les prochaines publications
-
-Créer le dépôt public dédié avant la publication du projet : nom descriptif sans ticket ni version, README orienté usage, problème, résultat utile, installation autonome, commandes reproductibles, preuves, limites, notices et liens article/tutoriel. Vérifier la disponibilité du nom et ne jamais écraser un dépôt existant. Les versions appartiennent aux archives et références, pas au nom du dépôt. Aucun document interne ni dépôt privé du site n’entre dans cette distribution.
 
 Auteur : Soufiane Lemqari (`soufianelemqariMain`).
