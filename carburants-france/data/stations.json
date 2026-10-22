@@ -1,0 +1,602 @@
+{
+  "1000002": {
+    "ville": "BOURG-EN-BRESSE",
+    "code_postal": "01000",
+    "type": "R"
+  },
+  "1000004": {
+    "ville": "Bourg-en-Bresse",
+    "code_postal": "01000",
+    "type": "R"
+  },
+  "1170001": {
+    "ville": "SéGNY",
+    "code_postal": "01170",
+    "type": "R"
+  },
+  "1390009": {
+    "ville": "MIONNAY",
+    "code_postal": "01390",
+    "type": "A"
+  },
+  "1430004": {
+    "ville": "Maillat",
+    "code_postal": "01430",
+    "type": "R"
+  },
+  "2360001": {
+    "ville": "Rozoy-sur-Serre",
+    "code_postal": "02360",
+    "type": "R"
+  },
+  "6130012": {
+    "ville": "PLASCASSIER - GRASSE",
+    "code_postal": "06130",
+    "type": "R"
+  },
+  "6270003": {
+    "ville": "Villeneuve-Loubet",
+    "code_postal": "06270",
+    "type": "R"
+  },
+  "6400010": {
+    "ville": "CANNES",
+    "code_postal": "06400",
+    "type": "R"
+  },
+  "7200005": {
+    "ville": "Saint-Didier-sous-Aubenas",
+    "code_postal": "07200",
+    "type": "R"
+  },
+  "7800008": {
+    "ville": "Saint-Georges-les-Bains",
+    "code_postal": "07800",
+    "type": "R"
+  },
+  "10230001": {
+    "ville": "MAILLY-LE-CAMP",
+    "code_postal": "10230",
+    "type": "R"
+  },
+  "11000005": {
+    "ville": "Carcassonne",
+    "code_postal": "11000",
+    "type": "R"
+  },
+  "12000013": {
+    "ville": "RODEZ",
+    "code_postal": "12000",
+    "type": "R"
+  },
+  "13008008": {
+    "ville": "MARSEILLE",
+    "code_postal": "13008",
+    "type": "R"
+  },
+  "13400001": {
+    "ville": "AUBAGNE",
+    "code_postal": "13783",
+    "type": "R"
+  },
+  "13890000": {
+    "ville": "Mouriès",
+    "code_postal": "13890",
+    "type": "R"
+  },
+  "14990002": {
+    "ville": "Bernières-sur-Mer",
+    "code_postal": "14990",
+    "type": "R"
+  },
+  "15800005": {
+    "ville": "VIC SUR CERE",
+    "code_postal": "15800",
+    "type": "R"
+  },
+  "17210004": {
+    "ville": "Chevanceaux",
+    "code_postal": "17210",
+    "type": "R"
+  },
+  "17310004": {
+    "ville": "SAINT-PIERRE-D'OLéRON",
+    "code_postal": "17310",
+    "type": "R"
+  },
+  "17390002": {
+    "ville": "La Tremblade",
+    "code_postal": "17390",
+    "type": "R"
+  },
+  "17690002": {
+    "ville": "ANGOULINS",
+    "code_postal": "17690",
+    "type": "R"
+  },
+  "18570002": {
+    "ville": "La Chapelle-Saint-Ursin",
+    "code_postal": "18570",
+    "type": "R"
+  },
+  "18700001": {
+    "ville": "Aubigny-sur-Nère",
+    "code_postal": "18700",
+    "type": "R"
+  },
+  "20169003": {
+    "ville": "Bonifacio",
+    "code_postal": "20169",
+    "type": "R"
+  },
+  "21220004": {
+    "ville": "GEVREY-CHAMBERTIN",
+    "code_postal": "21220",
+    "type": "A"
+  },
+  "22460005": {
+    "ville": "UZEL",
+    "code_postal": "22460",
+    "type": "R"
+  },
+  "24600003": {
+    "ville": "RIBéRAC",
+    "code_postal": "24600",
+    "type": "R"
+  },
+  "27400010": {
+    "ville": "LA HAYE MALHERBE",
+    "code_postal": "27400",
+    "type": "R"
+  },
+  "27930009": {
+    "ville": "Angerville-la-Campagne",
+    "code_postal": "27930",
+    "type": "R"
+  },
+  "28220002": {
+    "ville": "Cloyes-sur-le-Loir",
+    "code_postal": "28220",
+    "type": "R"
+  },
+  "29470003": {
+    "ville": "PLOUGASTEL-DAOULAS",
+    "code_postal": "29470",
+    "type": "R"
+  },
+  "30130010": {
+    "ville": "Pont-Saint-Esprit",
+    "code_postal": "30130",
+    "type": "R"
+  },
+  "31290007": {
+    "ville": "Villefranche-de-Lauragais",
+    "code_postal": "31290",
+    "type": "R"
+  },
+  "31400002": {
+    "ville": "TOULOUSE",
+    "code_postal": "31400",
+    "type": "R"
+  },
+  "31400006": {
+    "ville": "TOULOUSE",
+    "code_postal": "31400",
+    "type": "R"
+  },
+  "31590004": {
+    "ville": "VERFEIL",
+    "code_postal": "31590",
+    "type": "R"
+  },
+  "31620005": {
+    "ville": "FRONTON",
+    "code_postal": "31620",
+    "type": "R"
+  },
+  "31700009": {
+    "ville": "BLAGNAC",
+    "code_postal": "31700",
+    "type": "R"
+  },
+  "33133002": {
+    "ville": "GALGON",
+    "code_postal": "33133",
+    "type": "R"
+  },
+  "33260011": {
+    "ville": "LA TESTE-DE-BUCH",
+    "code_postal": "33260",
+    "type": "R"
+  },
+  "33660004": {
+    "ville": "Gours",
+    "code_postal": "33660",
+    "type": "A"
+  },
+  "34120002": {
+    "ville": "PéZENAS",
+    "code_postal": "34120",
+    "type": "R"
+  },
+  "34230002": {
+    "ville": "paulhan",
+    "code_postal": "34230",
+    "type": "R"
+  },
+  "34300006": {
+    "ville": "AGDE",
+    "code_postal": "34300",
+    "type": "R"
+  },
+  "34540002": {
+    "ville": "Balaruc-les-Bains",
+    "code_postal": "34540",
+    "type": "R"
+  },
+  "34660001": {
+    "ville": "COURNONSEC",
+    "code_postal": "34660",
+    "type": "R"
+  },
+  "35400006": {
+    "ville": "SAINT-MALO",
+    "code_postal": "35400",
+    "type": "R"
+  },
+  "35580004": {
+    "ville": "GUIGNEN",
+    "code_postal": "35580",
+    "type": "R"
+  },
+  "37120001": {
+    "ville": "Chaveignes",
+    "code_postal": "37120",
+    "type": "R"
+  },
+  "37320001": {
+    "ville": "Esvres",
+    "code_postal": "37320",
+    "type": "R"
+  },
+  "37400004": {
+    "ville": "Amboise",
+    "code_postal": "37400",
+    "type": "R"
+  },
+  "39100006": {
+    "ville": "Dole",
+    "code_postal": "39100",
+    "type": "R"
+  },
+  "40400001": {
+    "ville": "TARTAS",
+    "code_postal": "40400",
+    "type": "R"
+  },
+  "42110004": {
+    "ville": "FEURS",
+    "code_postal": "42110",
+    "type": "R"
+  },
+  "44119005": {
+    "ville": "TREILLIERES",
+    "code_postal": "44119",
+    "type": "R"
+  },
+  "44120005": {
+    "ville": "VERTOU",
+    "code_postal": "44120",
+    "type": "R"
+  },
+  "44240011": {
+    "ville": "La Chapelle-sur-Erdre",
+    "code_postal": "44240",
+    "type": "R"
+  },
+  "45570001": {
+    "ville": "Ouzouer-sur-Loire",
+    "code_postal": "45570",
+    "type": "R"
+  },
+  "45640001": {
+    "ville": "SANDILLON",
+    "code_postal": "45640",
+    "type": "R"
+  },
+  "46090004": {
+    "ville": "ESPERE",
+    "code_postal": "46090",
+    "type": "R"
+  },
+  "46110003": {
+    "ville": "VAYRAC",
+    "code_postal": "46110",
+    "type": "R"
+  },
+  "46220001": {
+    "ville": "Prayssac",
+    "code_postal": "46220",
+    "type": "R"
+  },
+  "47150002": {
+    "ville": "MONFLANQUIN",
+    "code_postal": "47150",
+    "type": "R"
+  },
+  "47400002": {
+    "ville": "TONNEINS",
+    "code_postal": "47400",
+    "type": "R"
+  },
+  "48000008": {
+    "ville": "Mende",
+    "code_postal": "48000",
+    "type": "R"
+  },
+  "49000014": {
+    "ville": "ANGERS",
+    "code_postal": "49000",
+    "type": "R"
+  },
+  "50120004": {
+    "ville": "CHERBOURG EN COTENTIN",
+    "code_postal": "50120",
+    "type": "R"
+  },
+  "50160004": {
+    "ville": "Guilberville",
+    "code_postal": "50160",
+    "type": "R"
+  },
+  "51500003": {
+    "ville": "Sillery",
+    "code_postal": "51500",
+    "type": "R"
+  },
+  "52600001": {
+    "ville": "CHALINDREY",
+    "code_postal": "52600",
+    "type": "R"
+  },
+  "58290001": {
+    "ville": "MOULINS-ENGILBERT",
+    "code_postal": "58290",
+    "type": "R"
+  },
+  "58400001": {
+    "ville": "La Charité-sur-Loire",
+    "code_postal": "58400",
+    "type": "R"
+  },
+  "59222001": {
+    "ville": "BOUSIES",
+    "code_postal": "59222",
+    "type": "R"
+  },
+  "59800002": {
+    "ville": "LILLE",
+    "code_postal": "59000",
+    "type": "R"
+  },
+  "60700005": {
+    "ville": "pont sainte maxence",
+    "code_postal": "60700",
+    "type": "R"
+  },
+  "62100001": {
+    "ville": "Calais",
+    "code_postal": "62100",
+    "type": "R"
+  },
+  "62220003": {
+    "ville": "CARVIN",
+    "code_postal": "62220",
+    "type": "R"
+  },
+  "62810001": {
+    "ville": "AVESNES-LE-COMTE",
+    "code_postal": "62810",
+    "type": "R"
+  },
+  "63850001": {
+    "ville": "Égliseneuve-d'Entraigues",
+    "code_postal": "63850",
+    "type": "R"
+  },
+  "65170002": {
+    "ville": "Bourisp",
+    "code_postal": "65170",
+    "type": "R"
+  },
+  "67100009": {
+    "ville": "STRASBOURG",
+    "code_postal": "67100",
+    "type": "R"
+  },
+  "67230005": {
+    "ville": "Benfeld",
+    "code_postal": "67230",
+    "type": "R"
+  },
+  "68124002": {
+    "ville": "LOGELBACH-WINTZENHEIM",
+    "code_postal": "68124",
+    "type": "R"
+  },
+  "68260001": {
+    "ville": "KINGERSHEIM",
+    "code_postal": "68260",
+    "type": "R"
+  },
+  "68420003": {
+    "ville": "Herrlisheim-près-Colmar",
+    "code_postal": "68420",
+    "type": "R"
+  },
+  "69400016": {
+    "ville": "ARNAS",
+    "code_postal": "69400",
+    "type": "R"
+  },
+  "71100022": {
+    "ville": "LUX",
+    "code_postal": "71100",
+    "type": "R"
+  },
+  "71170003": {
+    "ville": "Chauffailles",
+    "code_postal": "71170",
+    "type": "R"
+  },
+  "71210010": {
+    "ville": "Montchanin",
+    "code_postal": "71210",
+    "type": "R"
+  },
+  "71600005": {
+    "ville": "Saint-Yan",
+    "code_postal": "71600",
+    "type": "R"
+  },
+  "72500001": {
+    "ville": "Montval sur Loir",
+    "code_postal": "72500",
+    "type": "R"
+  },
+  "73460002": {
+    "ville": "TOURNON",
+    "code_postal": "73460",
+    "type": "R"
+  },
+  "76000007": {
+    "ville": "Rouen",
+    "code_postal": "76000",
+    "type": "R"
+  },
+  "76150002": {
+    "ville": "Saint-Jean-du-Cardonnay",
+    "code_postal": "76150",
+    "type": "A"
+  },
+  "76190003": {
+    "ville": "Sainte-Marie-des-Champs",
+    "code_postal": "76190",
+    "type": "R"
+  },
+  "76480002": {
+    "ville": "Saint-Pierre-de-Varengeville",
+    "code_postal": "76480",
+    "type": "R"
+  },
+  "76580001": {
+    "ville": "LE TRAIT",
+    "code_postal": "76580",
+    "type": "R"
+  },
+  "77100008": {
+    "ville": "Meaux",
+    "code_postal": "77100",
+    "type": "R"
+  },
+  "77100016": {
+    "ville": "Mareuil-lès-Meaux",
+    "code_postal": "77100",
+    "type": "R"
+  },
+  "77181002": {
+    "ville": "LE PIN",
+    "code_postal": "77181",
+    "type": "R"
+  },
+  "77470001": {
+    "ville": "TRILPORT",
+    "code_postal": "77470",
+    "type": "R"
+  },
+  "78000016": {
+    "ville": "Versailles",
+    "code_postal": "78000",
+    "type": "R"
+  },
+  "78300003": {
+    "ville": "Carrières-sous-Poissy",
+    "code_postal": "78955",
+    "type": "R"
+  },
+  "79140001": {
+    "ville": "Cerizay",
+    "code_postal": "79140",
+    "type": "R"
+  },
+  "80210001": {
+    "ville": "FEUQUIèRES-EN-VIMEU",
+    "code_postal": "80210",
+    "type": "R"
+  },
+  "80600003": {
+    "ville": "DOULLENS",
+    "code_postal": "80600",
+    "type": "R"
+  },
+  "82290001": {
+    "ville": "LA VILLE DIEU DU TEMPLE",
+    "code_postal": "82290",
+    "type": "R"
+  },
+  "83490003": {
+    "ville": "LE MUY",
+    "code_postal": "83490",
+    "type": "R"
+  },
+  "83580001": {
+    "ville": "GASSIN",
+    "code_postal": "83580",
+    "type": "R"
+  },
+  "84110006": {
+    "ville": "SEGURET",
+    "code_postal": "84110",
+    "type": "R"
+  },
+  "84130013": {
+    "ville": "Le Pontet",
+    "code_postal": "84130",
+    "type": "R"
+  },
+  "85640001": {
+    "ville": "MOUCHAMPS",
+    "code_postal": "85640",
+    "type": "R"
+  },
+  "86000021": {
+    "ville": "Poitiers",
+    "code_postal": "86000",
+    "type": "R"
+  },
+  "87000001": {
+    "ville": "LIMOGES",
+    "code_postal": "87000",
+    "type": "R"
+  },
+  "89400002": {
+    "ville": "Migennes",
+    "code_postal": "89400",
+    "type": "R"
+  },
+  "91100017": {
+    "ville": "Saint-Germain-lès-Corbeil",
+    "code_postal": "91250",
+    "type": "A"
+  },
+  "91350002": {
+    "ville": "GRIGNY",
+    "code_postal": "91350",
+    "type": "R"
+  },
+  "93420008": {
+    "ville": "VILLEPINTE",
+    "code_postal": "93420",
+    "type": "R"
+  }
+}

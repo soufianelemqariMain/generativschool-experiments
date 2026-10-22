@@ -1,22 +1,23 @@
-# GenerativSchool — Lire. Explorer. Construire.
+# Et si l’IA — les expériences
 
-**Et si l’intelligence artificielle ouvrait de nouvelles possibilités dans la recherche et dans votre métier ?**
+Comprendre une idée, essayer avec du code et des données, puis explorer ce que l’IA pourrait changer dans notre quotidien et nos entreprises.
 
-Nos articles partent d’une question concrète et montrent comment nous l’explorons. Cet index vous conduit aux projets qui prolongent les récits : code, données, sources et étapes de reproduction.
+[Lire Et si l’IA](https://www.generativschool.com/) · [Notre méthode](https://www.generativschool.com/methode.html)
 
-**[Lire les articles de GenerativSchool](https://www.generativschool.com/)** · [Comprendre notre méthode](https://www.generativschool.com/methode.html)
+## Carburants en France
 
-## Choisissez votre point de départ
+**[Ouvrir l’expérience et les instructions](carburants-france/)**
 
-| Enquête | Ce que vous allez découvrir | Code et reproduction |
-| --- | --- | --- |
-| [Généthon · IA et Duchenne](https://www.generativschool.com/genethon-atlas-documentaire-avant-ia.html) | Relier des publications, examiner des pistes IA et calculer sur 22 biopsies | [et-si-genethon](https://github.com/soufianelemqariMain/et-si-genethon) |
+Une régression pour comprendre le principe, des forêts aléatoires réellement testées pour estimer les variations des prix à une semaine. Quatre carburants français, prix en station, pétrole, change et indice de tensions. Données, code, résultats et sources sont réunis dans le dossier.
 
-**Pour comprendre**, commencez par l’article. **Pour expérimenter**, ouvrez le dépôt et suivez son README : prérequis, commandes, résultats de référence et limites y sont regroupés.
+Le test rétrospectif depuis la crise de 2026 ne bat pas la règle « prix inchangé ». Il ne démontre aucune économie pour les conducteurs. L’article distingue explications pédagogiques, résultats et prospective.
 
-## Une démarche ouverte à l’examen
+## Archives
 
-GenerativSchool est un laboratoire indépendant d’expérimentation en intelligence artificielle fondé par Soufiane Lemqari. Les organisations citées inspirent nos scénarios ; elles ne sont pas présentées comme partenaires. Ces expériences exploratoires n’établissent aucun bénéfice clinique.
+[Ancienne expérience Généthon](https://github.com/soufianelemqariMain/et-si-genethon) — archive exploratoire distincte de la ligne éditoriale actuelle ; aucun bénéfice clinique établi.
 
+## Sources et réutilisation
 
-Auteur : Soufiane Lemqari (`soufianelemqariMain`).
+Chaque expérience documente les sources, leurs conditions et les transformations. Les données conservent leurs conditions de réutilisation propres ; ce dépôt ne leur attribue pas une licence globale.
+
+Publication indépendante fondée par Soufiane Lemqari. Recherche, code et rédaction assistés par IA ; pas de validation scientifique indépendante.

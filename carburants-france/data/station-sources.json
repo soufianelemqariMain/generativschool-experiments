@@ -1,0 +1,26 @@
+{
+  "2023": {
+    "url": "https://donnees.roulez-eco.fr/opendata/annee/2023",
+    "sha256": "940c1439c1f50fbc606fa31732d65db7a7edc670eca35de280c6e184a0031d0c",
+    "bytes": 29254453,
+    "retrieved_utc": "2026-10-22T07:53:08.178656+00:00"
+  },
+  "2024": {
+    "url": "https://donnees.roulez-eco.fr/opendata/annee/2024",
+    "sha256": "8849cbd5403f78d093c7092966414cc07ed61fec90f4bc896eeb46185044c347",
+    "bytes": 27395110,
+    "retrieved_utc": "2026-10-22T07:53:09.011429+00:00"
+  },
+  "2025": {
+    "url": "https://donnees.roulez-eco.fr/opendata/annee/2025",
+    "sha256": "383379223bd43f9d28626e203b53fc01bb248e8f85dfe88e2bdd9830231345ad",
+    "bytes": 31747153,
+    "retrieved_utc": "2026-10-22T07:53:00.216567+00:00"
+  },
+  "2026": {
+    "url": "https://donnees.roulez-eco.fr/opendata/annee",
+    "sha256": "63cd8b81332314737837d1a40cdf687da593b620207e7d008a7bcfdf9bad19b9",
+    "bytes": 30429325,
+    "retrieved_utc": "2026-10-22T08:07:41.848893+00:00"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "python": "3.9.6",
+  "numpy": "2.0.2",
+  "pandas": "2.2.3",
+  "sklearn": "1.6.1",
+  "seconds": 128.8,
+  "command": "python run.py",
+  "paid_calls": 0
+}

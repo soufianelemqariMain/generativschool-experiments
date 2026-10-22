@@ -1,0 +1,3 @@
+# Frozen source files: preserve exact bytes for SHA-256 verification.
+carburants-france/data/** -text
+*.csv whitespace=cr-at-eol

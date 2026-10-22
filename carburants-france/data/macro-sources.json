@@ -1,0 +1,20 @@
+{
+  "brent.xls": {
+    "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEd.xls",
+    "sha256": "4c59848741cf3075eeef6e12a7527135643e4e333a4a8b0123514193bcf0d685",
+    "bytes": 452608,
+    "retrieved_utc": "2026-10-22T08:07:39.118301+00:00"
+  },
+  "fx.zip": {
+    "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist.zip",
+    "sha256": "93bac351c4a60e612e641150f2392db9f85fe497336ee9d71c4d241f70063eda",
+    "bytes": 641589,
+    "retrieved_utc": "2026-10-22T08:07:39.093431+00:00"
+  },
+  "gpr.xls": {
+    "url": "https://www.matteoiacoviello.com/gpr_files/data_gpr_daily_recent.xls",
+    "sha256": "d44b5b75c3c9c3851f832c6878a14c2aa343791ef70a718015b874d1d8d39d7e",
+    "bytes": 3273216,
+    "retrieved_utc": "2026-10-22T08:07:39.355931+00:00"
+  }
+}
