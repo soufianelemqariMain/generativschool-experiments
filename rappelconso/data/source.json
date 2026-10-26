@@ -1,0 +1,20 @@
+{
+  "url": "https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets/rappelconso-v2-gtin-espaces/records?limit=100&order_by=date_publication+DESC%2C+numero_fiche+DESC",
+  "offsets": [
+    0,
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+  ],
+  "retrieved_utc": "2026-10-26T11:55:54.911127+00:00",
+  "sha256": "69b827dad4d0c16ca7b7746c2072ad2f36b1a7847099d70eb04700d8a58cd99c",
+  "license": "Licence Ouverte 2.0",
+  "publisher": "DGCCRF et partenaires via data.economie.gouv.fr",
+  "rows": 1000
+}

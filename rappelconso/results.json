@@ -1,0 +1,2894 @@
+{
+  "corpus_size": 1000,
+  "raw_rows": 1000,
+  "source": {
+    "url": "https://data.economie.gouv.fr/api/explore/v2.1/catalog/datasets/rappelconso-v2-gtin-espaces/records?limit=100&order_by=date_publication+DESC%2C+numero_fiche+DESC",
+    "offsets": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ],
+    "retrieved_utc": "2026-10-26T11:55:54.911127+00:00",
+    "sha256": "69b827dad4d0c16ca7b7746c2072ad2f36b1a7847099d70eb04700d8a58cd99c",
+    "license": "Licence Ouverte 2.0",
+    "publisher": "DGCCRF et partenaires via data.economie.gouv.fr",
+    "rows": 1000
+  },
+  "results": {
+    "mots": {
+      "top1": 17,
+      "top5": 21,
+      "total": 24,
+      "mrr": 0.7804241153133628,
+      "by_form": {
+        "proche": {
+          "top1": 12,
+          "top5": 12,
+          "total": 12
+        },
+        "reformulee": {
+          "top1": 5,
+          "top5": 9,
+          "total": 12
+        }
+      }
+    },
+    "caracteres": {
+      "top1": 18,
+      "top5": 21,
+      "total": 24,
+      "mrr": 0.8196318958818959,
+      "by_form": {
+        "proche": {
+          "top1": 12,
+          "top5": 12,
+          "total": 12
+        },
+        "reformulee": {
+          "top1": 6,
+          "top5": 9,
+          "total": 12
+        }
+      }
+    },
+    "semantique": {
+      "top1": 12,
+      "top5": 15,
+      "total": 24,
+      "mrr": 0.5545964778911324,
+      "by_form": {
+        "proche": {
+          "top1": 8,
+          "top5": 10,
+          "total": 12
+        },
+        "reformulee": {
+          "top1": 4,
+          "top5": 5,
+          "total": 12
+        }
+      }
+    }
+  },
+  "details": [
+    {
+      "target": "2026-10-0243",
+      "form": "proche",
+      "query": "assistance électrique kayak Itiwit",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0243",
+          "label": "assistance électrique sup kayak et batterie assistance électrique",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23915/interne",
+          "score": 0.6793459349343306
+        },
+        {
+          "id": "sr/01925/26",
+          "label": "myli / js50 quadricycle",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49889/rapex",
+          "score": 0.06252556725842512
+        },
+        {
+          "id": "2026-10-0056",
+          "label": "jatrhg s1 borne de recharge 7kw pour véhicule électrique 32a monophasé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23727/interne",
+          "score": 0.05651399457905579
+        },
+        {
+          "id": "2026-08-0015",
+          "label": "multi-gril électrique, zwilling enfinigy noir mat",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23083/interne",
+          "score": 0.054022894376071315
+        },
+        {
+          "id": "2026-08-0012",
+          "label": "bouilloire électrique zwilling enfinigy 1.5 l",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23080/interne",
+          "score": 0.05362408291141481
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0243",
+      "form": "reformulee",
+      "query": "le petit moteur Itiwit qui aide à avancer sur une embarcation",
+      "method": "mots",
+      "rank": 29,
+      "top5": [
+        {
+          "id": "2026-09-0073",
+          "label": "saucisson sec  le petit cornouaillais",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23446/interne",
+          "score": 0.28816824393628304
+        },
+        {
+          "id": "2026-07-0253",
+          "label": "truite fumée biologique",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22972/interne",
+          "score": 0.13523717300734042
+        },
+        {
+          "id": "2026-07-0254",
+          "label": "truite fumée biologique",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22973/interne",
+          "score": 0.13523717300734042
+        },
+        {
+          "id": "2026-08-0007",
+          "label": "le petit prioux",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23075/interne",
+          "score": 0.11876663499820458
+        },
+        {
+          "id": "2026-09-0100",
+          "label": "rillettes fraiches de saumon bio* et truite bio*",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23474/interne",
+          "score": 0.11017138911034252
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0198",
+      "form": "proche",
+      "query": "tronçonneuse Sterwins 45 cm",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0198",
+          "label": "tronçonneuse thermique sterwins 56cm3, guide de 45cm - pcs2-45es.4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23917/interne",
+          "score": 0.4028526709613018
+        },
+        {
+          "id": "2026-08-0025",
+          "label": "dégaines alpinism & vertika",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23119/interne",
+          "score": 0.13308024023350212
+        },
+        {
+          "id": "2026-07-0316",
+          "label": "cocotte minute 7 litres 24 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23036/interne",
+          "score": 0.10843025926621014
+        },
+        {
+          "id": "2026-08-0015",
+          "label": "multi-gril électrique, zwilling enfinigy noir mat",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23083/interne",
+          "score": 0.09163126792030431
+        },
+        {
+          "id": "2026-08-0012",
+          "label": "bouilloire électrique zwilling enfinigy 1.5 l",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23080/interne",
+          "score": 0.09095482137685855
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0198",
+      "form": "reformulee",
+      "query": "la machine Sterwins à essence pour couper du bois",
+      "method": "mots",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "2026-08-0007",
+          "label": "le petit prioux",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23075/interne",
+          "score": 0.3399957783421945
+        },
+        {
+          "id": "2026-10-0198",
+          "label": "tronçonneuse thermique sterwins 56cm3, guide de 45cm - pcs2-45es.4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23917/interne",
+          "score": 0.1890722566130978
+        },
+        {
+          "id": "2026-09-0085",
+          "label": "jeu à empiler en bois",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23458/interne",
+          "score": 0.11383245915616902
+        },
+        {
+          "id": "2026-10-0176",
+          "label": "support de mobile berceau bébé en bois",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23848/interne",
+          "score": 0.08664265078716722
+        },
+        {
+          "id": "2026-07-0223",
+          "label": "saucisson a l'ail fume au bois de hetre",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22942/interne",
+          "score": 0.07866732802970085
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0231",
+      "form": "proche",
+      "query": "set de trois bijoux rose et jaune",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0231",
+          "label": "set de 3 bijoux rose & jaune",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23903/interne",
+          "score": 0.6723577587547673
+        },
+        {
+          "id": "sr/03375/25",
+          "label": "set de protections de roller leisureline 2-0 firefly ensemble d'équipement de protection",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49732/rapex",
+          "score": 0.1356952458047897
+        },
+        {
+          "id": "2026-07-0019",
+          "label": "ailes de poulet jaune 800g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22711/interne",
+          "score": 0.13405998028726981
+        },
+        {
+          "id": "2026-10-0037",
+          "label": "raisin rose vrac",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23708/interne",
+          "score": 0.11551012221872262
+        },
+        {
+          "id": "2026-09-0217",
+          "label": "porte clef peluche ours rose",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23598/interne",
+          "score": 0.09003376641942368
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0231",
+      "form": "reformulee",
+      "query": "un ensemble pour enfant avec bague bracelet et collier en plastique coloré",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0231",
+          "label": "set de 3 bijoux rose & jaune",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23903/interne",
+          "score": 0.23720700449239687
+        },
+        {
+          "id": "sr/00506/26",
+          "label": "collier sexy en or avec diamants en forme de y. collier long et brillant en or pour les femmes collier",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49600/rapex",
+          "score": 0.20932550768423464
+        },
+        {
+          "id": "sr/00503/26",
+          "label": "bague en argent rétro pour hommes et femmes anneau",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49605/rapex",
+          "score": 0.14603916379822354
+        },
+        {
+          "id": "2026-08-0043",
+          "label": "assiette pour bébé - spaghetti bolognaise 15 mois 250 g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23112/interne",
+          "score": 0.09877607152208998
+        },
+        {
+          "id": "2026-08-0051",
+          "label": "stylo pour le blanchiment dentaire - smile kit",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23121/interne",
+          "score": 0.09694360853995006
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0239",
+      "form": "proche",
+      "query": "tournevis Facom ATP2X125VEPB",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0239",
+          "label": "tournevis facom atp2x125vepb",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23911/interne",
+          "score": 0.6507318848322753
+        },
+        {
+          "id": "2026-10-0259",
+          "label": "bohnenkraut - sarriette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23932/interne",
+          "score": 0.0
+        },
+        {
+          "id": "2026-10-0225",
+          "label": "paupiette de poulet au chorizo vendue à l'unité au rayon boucherie traditionnelle",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23897/interne",
+          "score": 0.0
+        },
+        {
+          "id": "2026-10-0253",
+          "label": "noix st jacques lr usaveurs 200 g et 400 g pêchées ane",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23926/interne",
+          "score": 0.0
+        },
+        {
+          "id": "2026-10-0249",
+          "label": "blanquette st jacques",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23922/interne",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0239",
+      "form": "reformulee",
+      "query": "outil Facom à main pour visser, référence ATP2X125VEPB",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0239",
+          "label": "tournevis facom atp2x125vepb",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23911/interne",
+          "score": 0.5313760987437225
+        },
+        {
+          "id": "2026-03-0265",
+          "label": "huile de cbd pour chat",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23684/interne",
+          "score": 0.0737106806846669
+        },
+        {
+          "id": "2026-03-0266",
+          "label": "huile de cbd pour chien",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23685/interne",
+          "score": 0.07371068068466688
+        },
+        {
+          "id": "2026-08-0198",
+          "label": "enceinte bluetooth portable yoyo (m), cambridge audio",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23308/interne",
+          "score": 0.07053265120679912
+        },
+        {
+          "id": "2026-08-0083",
+          "label": "enceinte bluetooth portable yoyo (m), cambridge audio",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23154/interne",
+          "score": 0.07053265120679912
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0235",
+      "form": "proche",
+      "query": "onigiri saumon teriyaki Carrefour 120 g",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0235",
+          "label": "onigiri saumon teriyaki 120g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23907/interne",
+          "score": 0.5875201142026248
+        },
+        {
+          "id": "2026-08-0125",
+          "label": "saumon fumé et lardons de saumon",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23247/interne",
+          "score": 0.11972679489863958
+        },
+        {
+          "id": "2026-08-0136",
+          "label": "saumon fumé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23236/interne",
+          "score": 0.11888593648728608
+        },
+        {
+          "id": "2026-08-0132",
+          "label": "hareng maquereaux saumon",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23240/interne",
+          "score": 0.11231430668571152
+        },
+        {
+          "id": "2026-08-0133",
+          "label": "saumon fumé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23239/interne",
+          "score": 0.10066604162088273
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0235",
+      "form": "reformulee",
+      "query": "le petit repas japonais au riz et au poisson de Carrefour le Marché",
+      "method": "mots",
+      "rank": 9,
+      "top5": [
+        {
+          "id": "2026-08-0167",
+          "label": "mesclun 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23275/interne",
+          "score": 0.3458968567680848
+        },
+        {
+          "id": "2026-09-0207",
+          "label": "jeunes pousses 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23588/interne",
+          "score": 0.3338819412138445
+        },
+        {
+          "id": "2026-09-0073",
+          "label": "saucisson sec  le petit cornouaillais",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23446/interne",
+          "score": 0.3124950254430229
+        },
+        {
+          "id": "2026-08-0102",
+          "label": "olives dénoyautées a la provencale 160 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23173/interne",
+          "score": 0.29620707391520745
+        },
+        {
+          "id": "2026-07-0137",
+          "label": "cocktail bacon pruneau",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22898/interne",
+          "score": 0.23877158457651665
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0227",
+      "form": "proche",
+      "query": "peluche pâtisserie Keeleco Noël 8 cm",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0227",
+          "label": "peluche pâtisserie senteur noël 8 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23899/interne",
+          "score": 0.5680719011426456
+        },
+        {
+          "id": "2026-08-0025",
+          "label": "dégaines alpinism & vertika",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23119/interne",
+          "score": 0.08657499221668381
+        },
+        {
+          "id": "2026-10-0118",
+          "label": "peluche cochon bubble tea kawaï",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23789/interne",
+          "score": 0.086430876600487
+        },
+        {
+          "id": "2026-09-0218",
+          "label": "porte clé peluche capybara",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23599/interne",
+          "score": 0.08417943915907133
+        },
+        {
+          "id": "2026-09-0060",
+          "label": "peluche legume kawaii 15 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23433/interne",
+          "score": 0.08061711650215105
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0227",
+      "form": "reformulee",
+      "query": "le doudou Keeleco qui ressemble à une part de gâteau",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0227",
+          "label": "peluche pâtisserie senteur noël 8 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23899/interne",
+          "score": 0.41787577420772076
+        },
+        {
+          "id": "2026-09-0172",
+          "label": "doudou souris",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23551/interne",
+          "score": 0.1337315125466844
+        },
+        {
+          "id": "2026-08-0050",
+          "label": "peluche jésus qui respire",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23120/interne",
+          "score": 0.07660976592766525
+        },
+        {
+          "id": "sr/00743/26",
+          "label": "ciré déperlant enfant manteau de pluie pour enfants",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49574/rapex",
+          "score": 0.06788761330836257
+        },
+        {
+          "id": "sr/00894/25",
+          "label": "motocyclette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/47836/rapex",
+          "score": 0.055820579767394206
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0129",
+      "form": "proche",
+      "query": "friandise Pawell boeuf chat CBD",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0129",
+          "label": "pawell friandise boeuf chat 1.5mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23800/interne",
+          "score": 0.6166813858734628
+        },
+        {
+          "id": "2026-10-0131",
+          "label": "pawell boite conserve boeuf 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23802/interne",
+          "score": 0.25312546523971863
+        },
+        {
+          "id": "2026-03-0265",
+          "label": "huile de cbd pour chat",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23684/interne",
+          "score": 0.23868705860620631
+        },
+        {
+          "id": "2026-03-0268",
+          "label": "huile de cbd pour chat",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23687/interne",
+          "score": 0.22825885046785707
+        },
+        {
+          "id": "2026-03-0263",
+          "label": "huile de cbd pour chat",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23683/interne",
+          "score": 0.22825885046785707
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0129",
+      "form": "reformulee",
+      "query": "des petites récompenses Pawell au boeuf pour mon félin",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0129",
+          "label": "pawell friandise boeuf chat 1.5mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23800/interne",
+          "score": 0.28195808920798354
+        },
+        {
+          "id": "2026-10-0131",
+          "label": "pawell boite conserve boeuf 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23802/interne",
+          "score": 0.2695748715935789
+        },
+        {
+          "id": "2026-10-0130",
+          "label": "pawell boite conserve poulet 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23801/interne",
+          "score": 0.20813531120422601
+        },
+        {
+          "id": "2026-10-0148",
+          "label": "saucisses de boeuf x 5",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23820/interne",
+          "score": 0.15634112201267295
+        },
+        {
+          "id": "2026-08-0231",
+          "label": "rôti de boeuf cuit",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23343/interne",
+          "score": 0.1412858958085876
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0199",
+      "form": "proche",
+      "query": "confit de canard Jean Larnaudie 1240 g",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0199",
+          "label": "confit de canard fr le gourmand 1240g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23871/interne",
+          "score": 0.48315193783425314
+        },
+        {
+          "id": "2026-10-0223",
+          "label": "paté de canard 280g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23895/interne",
+          "score": 0.20710344158608332
+        },
+        {
+          "id": "2026-09-0171",
+          "label": "bloc de foie gras de canard",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23550/interne",
+          "score": 0.18219428566012205
+        },
+        {
+          "id": "2026-09-0193",
+          "label": "saucisse fraîche de canard",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23573/interne",
+          "score": 0.1598422204754379
+        },
+        {
+          "id": "2026-09-0204",
+          "label": "cuisse de canard à l'orange",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23584/interne",
+          "score": 0.1560651476460541
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0199",
+      "form": "reformulee",
+      "query": "la grosse conserve Jean Larnaudie de volaille confite",
+      "method": "mots",
+      "rank": 4,
+      "top5": [
+        {
+          "id": "2026-09-0201",
+          "label": "paupiette de volaille",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23581/interne",
+          "score": 0.1779617502829944
+        },
+        {
+          "id": "2026-10-0187",
+          "label": "saucisses de volaille natures, crues",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23859/interne",
+          "score": 0.1741322266095762
+        },
+        {
+          "id": "2026-07-0304",
+          "label": "figue confite",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23024/interne",
+          "score": 0.16355275278525508
+        },
+        {
+          "id": "2026-10-0199",
+          "label": "confit de canard fr le gourmand 1240g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23871/interne",
+          "score": 0.14946177634368765
+        },
+        {
+          "id": "2026-07-0212",
+          "label": "merguez de volaille halal 50*100 gr - 5 kg",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22931/interne",
+          "score": 0.13054990483688
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0175",
+      "form": "proche",
+      "query": "cassoulet U boîte 4/4",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0175",
+          "label": "cassoulet u boite 4/4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23847/interne",
+          "score": 0.8208278052201237
+        },
+        {
+          "id": "2026-10-0130",
+          "label": "pawell boite conserve poulet 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23801/interne",
+          "score": 0.09899068953296589
+        },
+        {
+          "id": "2026-10-0131",
+          "label": "pawell boite conserve boeuf 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23802/interne",
+          "score": 0.0984372935769687
+        },
+        {
+          "id": "2026-09-0202",
+          "label": "baie timur",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23582/interne",
+          "score": 0.09027273897796709
+        },
+        {
+          "id": "2026-09-0162",
+          "label": "baie timur",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23541/interne",
+          "score": 0.08392871092608069
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0175",
+      "form": "reformulee",
+      "query": "le plat de haricots et viande en conserve de la marque U",
+      "method": "mots",
+      "rank": 799,
+      "top5": [
+        {
+          "id": "2026-10-0130",
+          "label": "pawell boite conserve poulet 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23801/interne",
+          "score": 0.1660871361835718
+        },
+        {
+          "id": "2026-10-0131",
+          "label": "pawell boite conserve boeuf 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23802/interne",
+          "score": 0.16515864533316174
+        },
+        {
+          "id": "2026-09-0224",
+          "label": "persil coupe plat surgelé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23647/interne",
+          "score": 0.15306465273314096
+        },
+        {
+          "id": "2026-08-0054",
+          "label": "viande hachee",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23124/interne",
+          "score": 0.15062443794789765
+        },
+        {
+          "id": "2026-10-0204",
+          "label": "boudin viande",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23876/interne",
+          "score": 0.1442455754662989
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0259",
+      "form": "proche",
+      "query": "sarriette Lebensbaum 25 g",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0259",
+          "label": "bohnenkraut - sarriette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23932/interne",
+          "score": 0.21228657023284903
+        },
+        {
+          "id": "2026-07-0219",
+          "label": "crevettes roses cuites 25/35",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22938/interne",
+          "score": 0.13527909417338616
+        },
+        {
+          "id": "2026-08-0172",
+          "label": "mousse de canard au porto -25% de sel 150g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23280/interne",
+          "score": 0.10032347471695854
+        },
+        {
+          "id": "2026-08-0240",
+          "label": "tellines",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23352/interne",
+          "score": 0.07071479789037989
+        },
+        {
+          "id": "2026-08-0192",
+          "label": "petrole services",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23302/interne",
+          "score": 0.06132571665196686
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0259",
+      "form": "reformulee",
+      "query": "une herbe aromatique Lebensbaum en petit sachet pour cuisiner",
+      "method": "mots",
+      "rank": 3,
+      "top5": [
+        {
+          "id": "2026-09-0132",
+          "label": "mélange de légumes à piperade",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23508/interne",
+          "score": 0.15458322160217303
+        },
+        {
+          "id": "2026-10-0233",
+          "label": "sucre roux pure canne",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23905/interne",
+          "score": 0.09690378405342123
+        },
+        {
+          "id": "2026-10-0259",
+          "label": "bohnenkraut - sarriette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23932/interne",
+          "score": 0.09572423711842674
+        },
+        {
+          "id": "2026-09-0073",
+          "label": "saucisson sec  le petit cornouaillais",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23446/interne",
+          "score": 0.08843714450832726
+        },
+        {
+          "id": "2026-09-0265",
+          "label": "petit salé cuit tranché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23649/interne",
+          "score": 0.08685460794656504
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0252",
+      "form": "proche",
+      "query": "tempeh pois chiches les culottées",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0252",
+          "label": "tempeh artisanal frais et bio du diois",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23925/interne",
+          "score": 0.47208625760503875
+        },
+        {
+          "id": "2026-10-0050",
+          "label": "pois chiche au naturel",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23721/interne",
+          "score": 0.1393880002718111
+        },
+        {
+          "id": "2026-09-0260",
+          "label": "pois chiche au naturel 260g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23643/interne",
+          "score": 0.13129963948941611
+        },
+        {
+          "id": "2026-08-0016",
+          "label": "munster fermier les pensées sauvages",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23084/interne",
+          "score": 0.06378663726218758
+        },
+        {
+          "id": "2026-07-0345",
+          "label": "munster fermier les pensées sauvages",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23066/interne",
+          "score": 0.04670217253744842
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0252",
+      "form": "reformulee",
+      "query": "le bloc végétal fermenté aux légumineuses de Les Culotté.e.s",
+      "method": "mots",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "2026-09-0171",
+          "label": "bloc de foie gras de canard",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23550/interne",
+          "score": 0.1747189879451084
+        },
+        {
+          "id": "2026-10-0252",
+          "label": "tempeh artisanal frais et bio du diois",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23925/interne",
+          "score": 0.14956590698370925
+        },
+        {
+          "id": "2026-08-0160",
+          "label": "charbon vegetal active - carbo 1000",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23268/interne",
+          "score": 0.11284647412001235
+        },
+        {
+          "id": "2026-08-0159",
+          "label": "charbon vegetal active - carbo 1000",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23267/interne",
+          "score": 0.11281318113012898
+        },
+        {
+          "id": "2026-08-0161",
+          "label": "charbon vegetal - carbo 2000",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23269/interne",
+          "score": 0.11281311437650983
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0248",
+      "form": "proche",
+      "query": "crackers wasabi Golden Turtle 125 g",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0248",
+          "label": "crackers au wasabi 125g golden turtle",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23921/interne",
+          "score": 0.6510124374656234
+        },
+        {
+          "id": "2026-08-0167",
+          "label": "mesclun 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23275/interne",
+          "score": 0.1529313167136253
+        },
+        {
+          "id": "2026-09-0207",
+          "label": "jeunes pousses 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23588/interne",
+          "score": 0.0984127761356899
+        },
+        {
+          "id": "2026-07-0320",
+          "label": "steak haché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23040/interne",
+          "score": 0.06393828116316695
+        },
+        {
+          "id": "2026-07-0319",
+          "label": "steak haché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23039/interne",
+          "score": 0.06393828116316695
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0248",
+      "form": "reformulee",
+      "query": "les biscuits salés japonais piquants Golden Turtle",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0248",
+          "label": "crackers au wasabi 125g golden turtle",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23921/interne",
+          "score": 0.5906755734683294
+        },
+        {
+          "id": "2026-08-0016",
+          "label": "munster fermier les pensées sauvages",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23084/interne",
+          "score": 0.07113180438302444
+        },
+        {
+          "id": "2026-07-0345",
+          "label": "munster fermier les pensées sauvages",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23066/interne",
+          "score": 0.05208002716213587
+        },
+        {
+          "id": "sr/03375/25",
+          "label": "set de protections de roller leisureline 2-0 firefly ensemble d'équipement de protection",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49732/rapex",
+          "score": 0.05158908279613741
+        },
+        {
+          "id": "2026-08-0108",
+          "label": "brandade",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23264/interne",
+          "score": 0.050945274925341996
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0243",
+      "form": "proche",
+      "query": "assistance électrique kayak Itiwit",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0243",
+          "label": "assistance électrique sup kayak et batterie assistance électrique",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23915/interne",
+          "score": 0.7469941752011308
+        },
+        {
+          "id": "2026-10-0056",
+          "label": "jatrhg s1 borne de recharge 7kw pour véhicule électrique 32a monophasé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23727/interne",
+          "score": 0.2309507024098652
+        },
+        {
+          "id": "2026-08-0205",
+          "label": "lampe de chevet vintage dorée en verre - giani",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23315/interne",
+          "score": 0.20238557550199288
+        },
+        {
+          "id": "2026-08-0236",
+          "label": "sonnette video connecte",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23348/interne",
+          "score": 0.1890087590526845
+        },
+        {
+          "id": "2026-10-0088",
+          "label": "alimentation universelle réglable",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23759/interne",
+          "score": 0.17781627331127473
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0243",
+      "form": "reformulee",
+      "query": "le petit moteur Itiwit qui aide à avancer sur une embarcation",
+      "method": "caracteres",
+      "rank": 11,
+      "top5": [
+        {
+          "id": "2026-09-0265",
+          "label": "petit salé cuit tranché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23649/interne",
+          "score": 0.1834858781670993
+        },
+        {
+          "id": "2026-08-0257",
+          "label": "petit brie 500g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23370/interne",
+          "score": 0.15499029255160873
+        },
+        {
+          "id": "2026-08-0215",
+          "label": "petit brie 500g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23325/interne",
+          "score": 0.15499029255160873
+        },
+        {
+          "id": "2026-09-0073",
+          "label": "saucisson sec  le petit cornouaillais",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23446/interne",
+          "score": 0.12392562021122441
+        },
+        {
+          "id": "2026-07-0258",
+          "label": "petit sale de porc cuit",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22977/interne",
+          "score": 0.12308361002492164
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0198",
+      "form": "proche",
+      "query": "tronçonneuse Sterwins 45 cm",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0198",
+          "label": "tronçonneuse thermique sterwins 56cm3, guide de 45cm - pcs2-45es.4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23917/interne",
+          "score": 0.641770212873028
+        },
+        {
+          "id": "sr/01163/25",
+          "label": "bronco voiture particulière",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49956/rapex",
+          "score": 0.1317248080320271
+        },
+        {
+          "id": "2026-10-0054",
+          "label": "gigoteuse etoile",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23725/interne",
+          "score": 0.07929118697568416
+        },
+        {
+          "id": "2026-09-0048",
+          "label": "boeuf steak hache - france",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23421/interne",
+          "score": 0.05503318890374351
+        },
+        {
+          "id": "2026-09-0168",
+          "label": "steak hache de cheval",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23547/interne",
+          "score": 0.05294835411879894
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0198",
+      "form": "reformulee",
+      "query": "la machine Sterwins à essence pour couper du bois",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0198",
+          "label": "tronçonneuse thermique sterwins 56cm3, guide de 45cm - pcs2-45es.4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23917/interne",
+          "score": 0.3501964942279764
+        },
+        {
+          "id": "2026-09-0002",
+          "label": "meuleuse d'angle 115mm 600w",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23372/interne",
+          "score": 0.12492112026152898
+        },
+        {
+          "id": "2026-10-0075",
+          "label": "echine demi-sel",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23746/interne",
+          "score": 0.11809120226522618
+        },
+        {
+          "id": "2026-08-0006",
+          "label": "en belle compagnie",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23295/interne",
+          "score": 0.11282796627118259
+        },
+        {
+          "id": "2026-08-0071",
+          "label": "tomme val de saone",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23419/interne",
+          "score": 0.11222670659830959
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0231",
+      "form": "proche",
+      "query": "set de trois bijoux rose et jaune",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0231",
+          "label": "set de 3 bijoux rose & jaune",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23903/interne",
+          "score": 0.6814988855988945
+        },
+        {
+          "id": "2026-07-0019",
+          "label": "ailes de poulet jaune 800g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22711/interne",
+          "score": 0.2730495110829228
+        },
+        {
+          "id": "2026-10-0037",
+          "label": "raisin rose vrac",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23708/interne",
+          "score": 0.16619697332944422
+        },
+        {
+          "id": "2026-07-0249",
+          "label": "crevettes roses cuites étal poissonnerie",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22968/interne",
+          "score": 0.09512350563732708
+        },
+        {
+          "id": "2026-09-0217",
+          "label": "porte clef peluche ours rose",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23598/interne",
+          "score": 0.08879987388627356
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0231",
+      "form": "reformulee",
+      "query": "un ensemble pour enfant avec bague bracelet et collier en plastique coloré",
+      "method": "caracteres",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "sr/00506/26",
+          "label": "collier sexy en or avec diamants en forme de y. collier long et brillant en or pour les femmes collier",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49600/rapex",
+          "score": 0.3473873496982589
+        },
+        {
+          "id": "2026-10-0231",
+          "label": "set de 3 bijoux rose & jaune",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23903/interne",
+          "score": 0.30870627704354997
+        },
+        {
+          "id": "sr/00503/26",
+          "label": "bague en argent rétro pour hommes et femmes anneau",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49605/rapex",
+          "score": 0.18916418026521703
+        },
+        {
+          "id": "sr/00743/26",
+          "label": "ciré déperlant enfant manteau de pluie pour enfants",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49574/rapex",
+          "score": 0.163136389358389
+        },
+        {
+          "id": "2026-10-0065",
+          "label": "baguette du marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23736/interne",
+          "score": 0.15680265197716137
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0239",
+      "form": "proche",
+      "query": "tournevis Facom ATP2X125VEPB",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0239",
+          "label": "tournevis facom atp2x125vepb",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23911/interne",
+          "score": 0.7476940182769611
+        },
+        {
+          "id": "sr/02314/26",
+          "label": "transit custom, tourneo custom van de passagers",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49928/rapex",
+          "score": 0.09636401379474409
+        },
+        {
+          "id": "sr/01577/26",
+          "label": "tourneo courier, transit courier van de passagers",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49857/rapex",
+          "score": 0.09270057263963619
+        },
+        {
+          "id": "sr/01962/25",
+          "label": "fiesta, puma, tourneo courier, transit courier voiture particulière",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/47805/rapex",
+          "score": 0.086760608663614
+        },
+        {
+          "id": "sr/00135/26",
+          "label": "puma, tourneo courier, transit courier voiture particulière/véhicule utilitaire léger",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/47657/rapex",
+          "score": 0.081360039855062
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0239",
+      "form": "reformulee",
+      "query": "outil Facom à main pour visser, référence ATP2X125VEPB",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0239",
+          "label": "tournevis facom atp2x125vepb",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23911/interne",
+          "score": 0.6432890500649815
+        },
+        {
+          "id": "2026-07-0314",
+          "label": "moulins à sel et à poivre primark",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23034/interne",
+          "score": 0.11608738604000783
+        },
+        {
+          "id": "2026-09-0136",
+          "label": "graines de courge en vrac",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23586/interne",
+          "score": 0.11448612527401046
+        },
+        {
+          "id": "2026-10-0011",
+          "label": "fried egg-shaped gummies",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23674/interne",
+          "score": 0.1140514085258515
+        },
+        {
+          "id": "2026-08-0026",
+          "label": "poêle en fonte",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23094/interne",
+          "score": 0.11402633283535761
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0235",
+      "form": "proche",
+      "query": "onigiri saumon teriyaki Carrefour 120 g",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0235",
+          "label": "onigiri saumon teriyaki 120g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23907/interne",
+          "score": 0.8011312892131988
+        },
+        {
+          "id": "2026-08-0136",
+          "label": "saumon fumé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23236/interne",
+          "score": 0.22434540766795183
+        },
+        {
+          "id": "2026-08-0125",
+          "label": "saumon fumé et lardons de saumon",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23247/interne",
+          "score": 0.2193494640852839
+        },
+        {
+          "id": "2026-08-0167",
+          "label": "mesclun 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23275/interne",
+          "score": 0.2034447713841522
+        },
+        {
+          "id": "2026-09-0207",
+          "label": "jeunes pousses 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23588/interne",
+          "score": 0.1990627216793645
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0235",
+      "form": "reformulee",
+      "query": "le petit repas japonais au riz et au poisson de Carrefour le Marché",
+      "method": "caracteres",
+      "rank": 13,
+      "top5": [
+        {
+          "id": "2026-08-0167",
+          "label": "mesclun 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23275/interne",
+          "score": 0.37048858761658615
+        },
+        {
+          "id": "2026-09-0207",
+          "label": "jeunes pousses 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23588/interne",
+          "score": 0.3648411682113714
+        },
+        {
+          "id": "2026-07-0135",
+          "label": "saucisson a l'ail fume au bois de hetre a l'ancienne",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22892/interne",
+          "score": 0.33527078116319026
+        },
+        {
+          "id": "2026-10-0018",
+          "label": "haché de veau façon bouchère",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23689/interne",
+          "score": 0.31929424587592764
+        },
+        {
+          "id": "2026-08-0102",
+          "label": "olives dénoyautées a la provencale 160 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23173/interne",
+          "score": 0.2993054240559549
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0227",
+      "form": "proche",
+      "query": "peluche pâtisserie Keeleco Noël 8 cm",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0227",
+          "label": "peluche pâtisserie senteur noël 8 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23899/interne",
+          "score": 0.6269813429013176
+        },
+        {
+          "id": "2026-09-0217",
+          "label": "porte clef peluche ours rose",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23598/interne",
+          "score": 0.19282407907361349
+        },
+        {
+          "id": "2026-10-0118",
+          "label": "peluche cochon bubble tea kawaï",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23789/interne",
+          "score": 0.18965423440464732
+        },
+        {
+          "id": "2026-09-0218",
+          "label": "porte clé peluche capybara",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23599/interne",
+          "score": 0.17972601246996092
+        },
+        {
+          "id": "2026-09-0071",
+          "label": "porte-cle peluche ourson blanc a lunettes",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23444/interne",
+          "score": 0.15090188842241287
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0227",
+      "form": "reformulee",
+      "query": "le doudou Keeleco qui ressemble à une part de gâteau",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0227",
+          "label": "peluche pâtisserie senteur noël 8 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23899/interne",
+          "score": 0.31500983716772063
+        },
+        {
+          "id": "2026-09-0172",
+          "label": "doudou souris",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23551/interne",
+          "score": 0.25289236580382857
+        },
+        {
+          "id": "sr/00743/26",
+          "label": "ciré déperlant enfant manteau de pluie pour enfants",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49574/rapex",
+          "score": 0.10192104187700904
+        },
+        {
+          "id": "2026-08-0056",
+          "label": "peluche champignon",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23126/interne",
+          "score": 0.10101162744538993
+        },
+        {
+          "id": "2026-10-0030",
+          "label": "plateau poulet a la mexicaine 1kg",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23701/interne",
+          "score": 0.09944704218590629
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0129",
+      "form": "proche",
+      "query": "friandise Pawell boeuf chat CBD",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0129",
+          "label": "pawell friandise boeuf chat 1.5mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23800/interne",
+          "score": 0.7792933770594359
+        },
+        {
+          "id": "2026-10-0131",
+          "label": "pawell boite conserve boeuf 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23802/interne",
+          "score": 0.3896995713284182
+        },
+        {
+          "id": "2026-10-0130",
+          "label": "pawell boite conserve poulet 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23801/interne",
+          "score": 0.30951971398309785
+        },
+        {
+          "id": "2026-03-0265",
+          "label": "huile de cbd pour chat",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23684/interne",
+          "score": 0.24210126906621227
+        },
+        {
+          "id": "2026-03-0268",
+          "label": "huile de cbd pour chat",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23687/interne",
+          "score": 0.22730543634980235
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0129",
+      "form": "reformulee",
+      "query": "des petites récompenses Pawell au boeuf pour mon félin",
+      "method": "caracteres",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "2026-10-0131",
+          "label": "pawell boite conserve boeuf 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23802/interne",
+          "score": 0.3853400899209413
+        },
+        {
+          "id": "2026-10-0129",
+          "label": "pawell friandise boeuf chat 1.5mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23800/interne",
+          "score": 0.37987541939876496
+        },
+        {
+          "id": "2026-10-0130",
+          "label": "pawell boite conserve poulet 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23801/interne",
+          "score": 0.3186894455324688
+        },
+        {
+          "id": "2026-10-0148",
+          "label": "saucisses de boeuf x 5",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23820/interne",
+          "score": 0.20315195253079324
+        },
+        {
+          "id": "2026-08-0231",
+          "label": "rôti de boeuf cuit",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23343/interne",
+          "score": 0.18487596316241686
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0199",
+      "form": "proche",
+      "query": "confit de canard Jean Larnaudie 1240 g",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0199",
+          "label": "confit de canard fr le gourmand 1240g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23871/interne",
+          "score": 0.5980896346214302
+        },
+        {
+          "id": "2026-10-0223",
+          "label": "paté de canard 280g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23895/interne",
+          "score": 0.23547421057052564
+        },
+        {
+          "id": "2026-09-0171",
+          "label": "bloc de foie gras de canard",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23550/interne",
+          "score": 0.2118674430884716
+        },
+        {
+          "id": "2026-07-0304",
+          "label": "figue confite",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23024/interne",
+          "score": 0.1984294277857224
+        },
+        {
+          "id": "2026-07-0305",
+          "label": "confiture extra cerise",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23025/interne",
+          "score": 0.17355192668908112
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0199",
+      "form": "reformulee",
+      "query": "la grosse conserve Jean Larnaudie de volaille confite",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0199",
+          "label": "confit de canard fr le gourmand 1240g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23871/interne",
+          "score": 0.2926513274876219
+        },
+        {
+          "id": "2026-07-0304",
+          "label": "figue confite",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23024/interne",
+          "score": 0.2388736852816336
+        },
+        {
+          "id": "2026-10-0130",
+          "label": "pawell boite conserve poulet 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23801/interne",
+          "score": 0.21507104203856703
+        },
+        {
+          "id": "2026-10-0131",
+          "label": "pawell boite conserve boeuf 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23802/interne",
+          "score": 0.21098871170797887
+        },
+        {
+          "id": "2026-08-0033",
+          "label": "sauté de mines volaille",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23102/interne",
+          "score": 0.19777751755419262
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0175",
+      "form": "proche",
+      "query": "cassoulet U boîte 4/4",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0175",
+          "label": "cassoulet u boite 4/4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23847/interne",
+          "score": 0.8433291089009386
+        },
+        {
+          "id": "2026-10-0156",
+          "label": "saucisses lentilles u bte 4/4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23828/interne",
+          "score": 0.25062931121369164
+        },
+        {
+          "id": "2026-10-0130",
+          "label": "pawell boite conserve poulet 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23801/interne",
+          "score": 0.1754865266038574
+        },
+        {
+          "id": "2026-09-0183",
+          "label": "2 filets de poulet facon hache, 4 ballotins poulet moutarde, 2 cuisses de poulet facon hache, 2 burgers poulet legumes, 4 ballotins poulet mediterrane",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23563/interne",
+          "score": 0.14332639497256194
+        },
+        {
+          "id": "2026-09-0173",
+          "label": "filet de poulet nature - filet de poulet marine tex mex - escalope de filet de poulet chapelure cornflake",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23552/interne",
+          "score": 0.12465564719810368
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0175",
+      "form": "reformulee",
+      "query": "le plat de haricots et viande en conserve de la marque U",
+      "method": "caracteres",
+      "rank": 300,
+      "top5": [
+        {
+          "id": "2026-10-0130",
+          "label": "pawell boite conserve poulet 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23801/interne",
+          "score": 0.3098170792502688
+        },
+        {
+          "id": "2026-10-0131",
+          "label": "pawell boite conserve boeuf 50mg de cbd",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23802/interne",
+          "score": 0.303037099582082
+        },
+        {
+          "id": "2026-09-0270",
+          "label": "pousses de bambous en tranches/pousses de bambou en bandes",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23655/interne",
+          "score": 0.21818804946642423
+        },
+        {
+          "id": "2026-10-0214",
+          "label": "pâté au cognac",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23886/interne",
+          "score": 0.21735765215477099
+        },
+        {
+          "id": "2026-10-0213",
+          "label": "pâté de foie aux cèpes",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23885/interne",
+          "score": 0.21473922701857345
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0259",
+      "form": "proche",
+      "query": "sarriette Lebensbaum 25 g",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0259",
+          "label": "bohnenkraut - sarriette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23932/interne",
+          "score": 0.4015374369537931
+        },
+        {
+          "id": "2026-10-0077",
+          "label": "paupiette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23748/interne",
+          "score": 0.08084468125036569
+        },
+        {
+          "id": "2026-08-0043",
+          "label": "assiette pour bébé - spaghetti bolognaise 15 mois 250 g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23112/interne",
+          "score": 0.07236819006710117
+        },
+        {
+          "id": "2026-10-0093",
+          "label": "paupiette chorizo",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23764/interne",
+          "score": 0.06916616911275052
+        },
+        {
+          "id": "2026-08-0113",
+          "label": "rillettes de poisson",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23259/interne",
+          "score": 0.06848363806108106
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0259",
+      "form": "reformulee",
+      "query": "une herbe aromatique Lebensbaum en petit sachet pour cuisiner",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0259",
+          "label": "bohnenkraut - sarriette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23932/interne",
+          "score": 0.259494026179987
+        },
+        {
+          "id": "2026-09-0265",
+          "label": "petit salé cuit tranché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23649/interne",
+          "score": 0.1593286525737007
+        },
+        {
+          "id": "2026-10-0013",
+          "label": "plat cuisiné : escalope de dinde, crème de gingembre au petit épeautre du ventoux",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23677/interne",
+          "score": 0.15179774675592428
+        },
+        {
+          "id": "2026-08-0257",
+          "label": "petit brie 500g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23370/interne",
+          "score": 0.12828667248174563
+        },
+        {
+          "id": "2026-08-0215",
+          "label": "petit brie 500g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23325/interne",
+          "score": 0.12828667248174563
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0252",
+      "form": "proche",
+      "query": "tempeh pois chiches les culottées",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0252",
+          "label": "tempeh artisanal frais et bio du diois",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23925/interne",
+          "score": 0.6580094266704003
+        },
+        {
+          "id": "2026-10-0050",
+          "label": "pois chiche au naturel",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23721/interne",
+          "score": 0.2734643400479315
+        },
+        {
+          "id": "2026-09-0260",
+          "label": "pois chiche au naturel 260g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23643/interne",
+          "score": 0.26221560084522644
+        },
+        {
+          "id": "2026-09-0228",
+          "label": "bulots cuits",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23609/interne",
+          "score": 0.06711245572395838
+        },
+        {
+          "id": "2026-09-0169",
+          "label": "bulots cuits",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23548/interne",
+          "score": 0.06711245572395838
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0252",
+      "form": "reformulee",
+      "query": "le bloc végétal fermenté aux légumineuses de Les Culotté.e.s",
+      "method": "caracteres",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "2026-09-0171",
+          "label": "bloc de foie gras de canard",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23550/interne",
+          "score": 0.18977814699881218
+        },
+        {
+          "id": "2026-10-0252",
+          "label": "tempeh artisanal frais et bio du diois",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23925/interne",
+          "score": 0.16267140468613875
+        },
+        {
+          "id": "2026-08-0161",
+          "label": "charbon vegetal - carbo 2000",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23269/interne",
+          "score": 0.15107310078863348
+        },
+        {
+          "id": "2026-08-0159",
+          "label": "charbon vegetal active - carbo 1000",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23267/interne",
+          "score": 0.1440187549407877
+        },
+        {
+          "id": "2026-08-0160",
+          "label": "charbon vegetal active - carbo 1000",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23268/interne",
+          "score": 0.14398596553025714
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0248",
+      "form": "proche",
+      "query": "crackers wasabi Golden Turtle 125 g",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0248",
+          "label": "crackers au wasabi 125g golden turtle",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23921/interne",
+          "score": 0.8619330536059685
+        },
+        {
+          "id": "2026-08-0167",
+          "label": "mesclun 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23275/interne",
+          "score": 0.10964448256260843
+        },
+        {
+          "id": "2026-09-0207",
+          "label": "jeunes pousses 125 g carrefour le marché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23588/interne",
+          "score": 0.08874261449587346
+        },
+        {
+          "id": "2026-08-0226",
+          "label": "advanced beauty cream - pearl shine - parley goldie",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23337/interne",
+          "score": 0.07786421428792381
+        },
+        {
+          "id": "2026-07-0320",
+          "label": "steak haché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23040/interne",
+          "score": 0.05247425318110031
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0248",
+      "form": "reformulee",
+      "query": "les biscuits salés japonais piquants Golden Turtle",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0248",
+          "label": "crackers au wasabi 125g golden turtle",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23921/interne",
+          "score": 0.4536304593782829
+        },
+        {
+          "id": "2026-07-0318",
+          "label": "643880 biscuit 114 gr",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23038/interne",
+          "score": 0.2320699023530661
+        },
+        {
+          "id": "2026-07-0343",
+          "label": "durango-aile de poulet cuites piquantes",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23063/interne",
+          "score": 0.14605923330993525
+        },
+        {
+          "id": "2026-09-0265",
+          "label": "petit salé cuit tranché",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23649/interne",
+          "score": 0.09712066624836178
+        },
+        {
+          "id": "2026-07-0214",
+          "label": "galettes de riz complet salées",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23095/interne",
+          "score": 0.0809381646458679
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0243",
+      "form": "proche",
+      "query": "assistance électrique kayak Itiwit",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0243",
+          "label": "assistance électrique sup kayak et batterie assistance électrique",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23915/interne",
+          "score": 0.6827868223190308
+        },
+        {
+          "id": "2026-09-0056",
+          "label": "bateau r/c 2.4 ghz grande vitesse - apd 8 ans",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23429/interne",
+          "score": 0.47606727480888367
+        },
+        {
+          "id": "2026-10-0056",
+          "label": "jatrhg s1 borne de recharge 7kw pour véhicule électrique 32a monophasé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23727/interne",
+          "score": 0.43279731273651123
+        },
+        {
+          "id": "2026-10-0088",
+          "label": "alimentation universelle réglable",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23759/interne",
+          "score": 0.40892863273620605
+        },
+        {
+          "id": "2026-09-0144",
+          "label": "cordless pressure washer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23520/interne",
+          "score": 0.4061797559261322
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0243",
+      "form": "reformulee",
+      "query": "le petit moteur Itiwit qui aide à avancer sur une embarcation",
+      "method": "semantique",
+      "rank": 488,
+      "top5": [
+        {
+          "id": "2026-09-0056",
+          "label": "bateau r/c 2.4 ghz grande vitesse - apd 8 ans",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23429/interne",
+          "score": 0.5841293931007385
+        },
+        {
+          "id": "sr/04166/25",
+          "label": "ulysse, scudo van de passagers",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/47682/rapex",
+          "score": 0.48869311809539795
+        },
+        {
+          "id": "sr/03006/26",
+          "label": "208 v2 - ice, mhev voiture particulière",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/50090/rapex",
+          "score": 0.4606955647468567
+        },
+        {
+          "id": "sr/02229/26",
+          "label": "scudo véhicule utilitaire léger",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49934/rapex",
+          "score": 0.4429776966571808
+        },
+        {
+          "id": "2026-08-0116",
+          "label": "anchois marinées",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23256/interne",
+          "score": 0.41637906432151794
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0198",
+      "form": "proche",
+      "query": "tronçonneuse Sterwins 45 cm",
+      "method": "semantique",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "2026-08-0025",
+          "label": "dégaines alpinism & vertika",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23119/interne",
+          "score": 0.5182972550392151
+        },
+        {
+          "id": "2026-10-0198",
+          "label": "tronçonneuse thermique sterwins 56cm3, guide de 45cm - pcs2-45es.4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23917/interne",
+          "score": 0.5171374678611755
+        },
+        {
+          "id": "2026-08-0170",
+          "label": "mangeoire double",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23278/interne",
+          "score": 0.498629093170166
+        },
+        {
+          "id": "2026-09-0234",
+          "label": "balustrade de balcon français en acier inoxydable 156 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23615/interne",
+          "score": 0.48744767904281616
+        },
+        {
+          "id": "2026-08-0012",
+          "label": "bouilloire électrique zwilling enfinigy 1.5 l",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23080/interne",
+          "score": 0.48241397738456726
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0198",
+      "form": "reformulee",
+      "query": "la machine Sterwins à essence pour couper du bois",
+      "method": "semantique",
+      "rank": 28,
+      "top5": [
+        {
+          "id": "2026-09-0002",
+          "label": "meuleuse d'angle 115mm 600w",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23372/interne",
+          "score": 0.5296030640602112
+        },
+        {
+          "id": "2026-09-0085",
+          "label": "jeu à empiler en bois",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23458/interne",
+          "score": 0.5118684768676758
+        },
+        {
+          "id": "2026-07-0223",
+          "label": "saucisson a l'ail fume au bois de hetre",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22942/interne",
+          "score": 0.5093964338302612
+        },
+        {
+          "id": "2026-10-0020",
+          "label": "haché de veau façon boucher",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23691/interne",
+          "score": 0.48732203245162964
+        },
+        {
+          "id": "2026-09-0037",
+          "label": "saucisson sec à la coupe maison",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23407/interne",
+          "score": 0.4856332540512085
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0231",
+      "form": "proche",
+      "query": "set de trois bijoux rose et jaune",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0231",
+          "label": "set de 3 bijoux rose & jaune",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23903/interne",
+          "score": 0.8424839973449707
+        },
+        {
+          "id": "2026-10-0004",
+          "label": "hochet à perles colorées",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23666/interne",
+          "score": 0.6845595836639404
+        },
+        {
+          "id": "sr/00506/26",
+          "label": "collier sexy en or avec diamants en forme de y. collier long et brillant en or pour les femmes collier",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49600/rapex",
+          "score": 0.5940917134284973
+        },
+        {
+          "id": "2026-08-0212",
+          "label": "beautiful phone avec perles",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23322/interne",
+          "score": 0.5937531590461731
+        },
+        {
+          "id": "2026-09-0269",
+          "label": "porte-clés peluche loutre coquillage",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23653/interne",
+          "score": 0.5854379534721375
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0231",
+      "form": "reformulee",
+      "query": "un ensemble pour enfant avec bague bracelet et collier en plastique coloré",
+      "method": "semantique",
+      "rank": 3,
+      "top5": [
+        {
+          "id": "sr/00743/26",
+          "label": "ciré déperlant enfant manteau de pluie pour enfants",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49574/rapex",
+          "score": 0.7615512013435364
+        },
+        {
+          "id": "2026-10-0004",
+          "label": "hochet à perles colorées",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23666/interne",
+          "score": 0.7071946859359741
+        },
+        {
+          "id": "2026-10-0231",
+          "label": "set de 3 bijoux rose & jaune",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23903/interne",
+          "score": 0.7018389105796814
+        },
+        {
+          "id": "sr/00503/26",
+          "label": "bague en argent rétro pour hommes et femmes anneau",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49605/rapex",
+          "score": 0.6827439665794373
+        },
+        {
+          "id": "2026-09-0269",
+          "label": "porte-clés peluche loutre coquillage",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23653/interne",
+          "score": 0.6719505786895752
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0239",
+      "form": "proche",
+      "query": "tournevis Facom ATP2X125VEPB",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0239",
+          "label": "tournevis facom atp2x125vepb",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23911/interne",
+          "score": 0.5752283334732056
+        },
+        {
+          "id": "sr/00819/26",
+          "label": "208 v2, 2008 v2 voiture particulière",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49388/rapex",
+          "score": 0.4568202495574951
+        },
+        {
+          "id": "sr/01736/26",
+          "label": "ds4 v2, ds8 voiture particulière",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49879/rapex",
+          "score": 0.44663169980049133
+        },
+        {
+          "id": "2026-08-0187",
+          "label": "pluieurs références de pâtés, moussesterrines u",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23296/interne",
+          "score": 0.44192156195640564
+        },
+        {
+          "id": "sr/01940/26",
+          "label": "série 1 (e81  e82  e87  e88) - série 3 (e90  e91  e92  e93) voiture particulière",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49890/rapex",
+          "score": 0.43868526816368103
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0239",
+      "form": "reformulee",
+      "query": "outil Facom à main pour visser, référence ATP2X125VEPB",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0239",
+          "label": "tournevis facom atp2x125vepb",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23911/interne",
+          "score": 0.6029919981956482
+        },
+        {
+          "id": "2026-10-0177",
+          "label": "crevette entière cuite réfrigérée",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23849/interne",
+          "score": 0.4563326835632324
+        },
+        {
+          "id": "2026-08-0126",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23246/interne",
+          "score": 0.4280416667461395
+        },
+        {
+          "id": "2026-07-0078",
+          "label": "lin dore bio 250g ,500g, 2.5kg, 25kg et bigbag.",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22813/interne",
+          "score": 0.4194949269294739
+        },
+        {
+          "id": "2026-07-0325",
+          "label": "gourde en aluminium 40 cl blanche ou grise",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23045/interne",
+          "score": 0.41100528836250305
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0235",
+      "form": "proche",
+      "query": "onigiri saumon teriyaki Carrefour 120 g",
+      "method": "semantique",
+      "rank": 5,
+      "top5": [
+        {
+          "id": "2026-08-0134",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23238/interne",
+          "score": 0.6739724278450012
+        },
+        {
+          "id": "2026-07-0203",
+          "label": "rillette d’oie supérieure 1 kg rustadou",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22922/interne",
+          "score": 0.6523949503898621
+        },
+        {
+          "id": "2026-08-0138",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23233/interne",
+          "score": 0.6419503092765808
+        },
+        {
+          "id": "2026-08-0129",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23243/interne",
+          "score": 0.6379364728927612
+        },
+        {
+          "id": "2026-10-0235",
+          "label": "onigiri saumon teriyaki 120g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23907/interne",
+          "score": 0.6148086190223694
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0235",
+      "form": "reformulee",
+      "query": "le petit repas japonais au riz et au poisson de Carrefour le Marché",
+      "method": "semantique",
+      "rank": 96,
+      "top5": [
+        {
+          "id": "2026-07-0341",
+          "label": "vol au vent au ris de veau",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23061/interne",
+          "score": 0.7294066548347473
+        },
+        {
+          "id": "2026-09-0251",
+          "label": "vol au vent au ris de veau x9",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23633/interne",
+          "score": 0.6972010731697083
+        },
+        {
+          "id": "2026-09-0027",
+          "label": "tortis concombre et saumon 300g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23397/interne",
+          "score": 0.6952136754989624
+        },
+        {
+          "id": "2026-08-0035",
+          "label": "escalopes de dinde crues marinées",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23104/interne",
+          "score": 0.6856893301010132
+        },
+        {
+          "id": "2026-08-0009",
+          "label": "emincés de poulpe pesto rosso",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23077/interne",
+          "score": 0.6752462983131409
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0227",
+      "form": "proche",
+      "query": "peluche pâtisserie Keeleco Noël 8 cm",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0227",
+          "label": "peluche pâtisserie senteur noël 8 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23899/interne",
+          "score": 0.639336884021759
+        },
+        {
+          "id": "2026-10-0159",
+          "label": "lewerknepfle - mini quenelles de foie",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23831/interne",
+          "score": 0.5984147191047668
+        },
+        {
+          "id": "2026-09-0060",
+          "label": "peluche legume kawaii 15 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23433/interne",
+          "score": 0.5901325345039368
+        },
+        {
+          "id": "2026-08-0173",
+          "label": "le mousson - mousse de canard  180 g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23281/interne",
+          "score": 0.5889209508895874
+        },
+        {
+          "id": "2026-07-0203",
+          "label": "rillette d’oie supérieure 1 kg rustadou",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22922/interne",
+          "score": 0.5854600667953491
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0227",
+      "form": "reformulee",
+      "query": "le doudou Keeleco qui ressemble à une part de gâteau",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0227",
+          "label": "peluche pâtisserie senteur noël 8 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23899/interne",
+          "score": 0.6934467554092407
+        },
+        {
+          "id": "2026-10-0011",
+          "label": "fried egg-shaped gummies",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23674/interne",
+          "score": 0.5850072503089905
+        },
+        {
+          "id": "2026-08-0094",
+          "label": "pain d'epices figues",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23165/interne",
+          "score": 0.5823090076446533
+        },
+        {
+          "id": "2026-07-0269",
+          "label": "tete roulee",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22989/interne",
+          "score": 0.5385249853134155
+        },
+        {
+          "id": "2026-07-0233",
+          "label": "rillettes",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22952/interne",
+          "score": 0.5236670970916748
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0129",
+      "form": "proche",
+      "query": "friandise Pawell boeuf chat CBD",
+      "method": "semantique",
+      "rank": 27,
+      "top5": [
+        {
+          "id": "2026-07-0329",
+          "label": "hochet musical grelot marca b&sc",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23049/interne",
+          "score": 0.44783541560173035
+        },
+        {
+          "id": "2026-08-0213",
+          "label": "pistolet a flechettes city defender",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23328/interne",
+          "score": 0.41347402334213257
+        },
+        {
+          "id": "2026-10-0003",
+          "label": "jeu d'adresse en bois cornhole set",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23665/interne",
+          "score": 0.39178767800331116
+        },
+        {
+          "id": "2026-08-0157",
+          "label": "grille fonte émaillé du bruleur sizzle zone",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23261/interne",
+          "score": 0.38179928064346313
+        },
+        {
+          "id": "2026-08-0147",
+          "label": "kombucha sencha feuille de figuier",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23218/interne",
+          "score": 0.3805944323539734
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0129",
+      "form": "reformulee",
+      "query": "des petites récompenses Pawell au boeuf pour mon félin",
+      "method": "semantique",
+      "rank": 294,
+      "top5": [
+        {
+          "id": "2026-09-0103",
+          "label": "boeuf haché à la demande",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23477/interne",
+          "score": 0.7068524956703186
+        },
+        {
+          "id": "2026-08-0078",
+          "label": "merguez",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23149/interne",
+          "score": 0.706707239151001
+        },
+        {
+          "id": "2026-07-0239",
+          "label": "roti de boeuf cuit",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22958/interne",
+          "score": 0.7034337520599365
+        },
+        {
+          "id": "2026-07-0269",
+          "label": "tete roulee",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22989/interne",
+          "score": 0.7021812796592712
+        },
+        {
+          "id": "2026-10-0139",
+          "label": "jambon à l'ancienne cuit au torchon u saveurs bbc",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23811/interne",
+          "score": 0.689203143119812
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0199",
+      "form": "proche",
+      "query": "confit de canard Jean Larnaudie 1240 g",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0199",
+          "label": "confit de canard fr le gourmand 1240g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23871/interne",
+          "score": 0.6470236778259277
+        },
+        {
+          "id": "2026-08-0134",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23238/interne",
+          "score": 0.5232858061790466
+        },
+        {
+          "id": "2026-10-0259",
+          "label": "bohnenkraut - sarriette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23932/interne",
+          "score": 0.5205896496772766
+        },
+        {
+          "id": "2026-08-0157",
+          "label": "grille fonte émaillé du bruleur sizzle zone",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23261/interne",
+          "score": 0.5106773972511292
+        },
+        {
+          "id": "2026-07-0203",
+          "label": "rillette d’oie supérieure 1 kg rustadou",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22922/interne",
+          "score": 0.47323349118232727
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0199",
+      "form": "reformulee",
+      "query": "la grosse conserve Jean Larnaudie de volaille confite",
+      "method": "semantique",
+      "rank": 6,
+      "top5": [
+        {
+          "id": "2026-09-0261",
+          "label": "taboule",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23644/interne",
+          "score": 0.5781775116920471
+        },
+        {
+          "id": "2026-10-0159",
+          "label": "lewerknepfle - mini quenelles de foie",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23831/interne",
+          "score": 0.5641100406646729
+        },
+        {
+          "id": "2026-07-0203",
+          "label": "rillette d’oie supérieure 1 kg rustadou",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22922/interne",
+          "score": 0.5629531741142273
+        },
+        {
+          "id": "2026-07-0269",
+          "label": "tete roulee",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22989/interne",
+          "score": 0.5589046478271484
+        },
+        {
+          "id": "2026-08-0157",
+          "label": "grille fonte émaillé du bruleur sizzle zone",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23261/interne",
+          "score": 0.553947925567627
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0175",
+      "form": "proche",
+      "query": "cassoulet U boîte 4/4",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0175",
+          "label": "cassoulet u boite 4/4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23847/interne",
+          "score": 0.5928282141685486
+        },
+        {
+          "id": "2026-10-0156",
+          "label": "saucisses lentilles u bte 4/4",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23828/interne",
+          "score": 0.5680214762687683
+        },
+        {
+          "id": "sr/01682/26",
+          "label": "ds4 v2 voiture particulière",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49875/rapex",
+          "score": 0.522861897945404
+        },
+        {
+          "id": "2026-08-0006",
+          "label": "en belle compagnie",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23295/interne",
+          "score": 0.5151351094245911
+        },
+        {
+          "id": "a12/02834/24",
+          "label": "d3, b5, d5, b6, xd3, b3, b4, d4, b3s, b4s voiture particulière",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/49969/rapex",
+          "score": 0.5007903575897217
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0175",
+      "form": "reformulee",
+      "query": "le plat de haricots et viande en conserve de la marque U",
+      "method": "semantique",
+      "rank": 392,
+      "top5": [
+        {
+          "id": "2026-10-0139",
+          "label": "jambon à l'ancienne cuit au torchon u saveurs bbc",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23811/interne",
+          "score": 0.7723807692527771
+        },
+        {
+          "id": "2026-07-0266",
+          "label": "tranches de poitrine de porc cuite fumee - congelees",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22986/interne",
+          "score": 0.7719302177429199
+        },
+        {
+          "id": "2026-08-0156",
+          "label": "viande hachée de boeuf",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23235/interne",
+          "score": 0.7560706734657288
+        },
+        {
+          "id": "2026-07-0271",
+          "label": "epaule de porc cuite",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22991/interne",
+          "score": 0.7552859783172607
+        },
+        {
+          "id": "2026-07-0343",
+          "label": "durango-aile de poulet cuites piquantes",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23063/interne",
+          "score": 0.7544898390769958
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0259",
+      "form": "proche",
+      "query": "sarriette Lebensbaum 25 g",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0259",
+          "label": "bohnenkraut - sarriette",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23932/interne",
+          "score": 0.6363140940666199
+        },
+        {
+          "id": "2026-07-0203",
+          "label": "rillette d’oie supérieure 1 kg rustadou",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22922/interne",
+          "score": 0.6234288811683655
+        },
+        {
+          "id": "2026-10-0071",
+          "label": "petit saucisson parmesan 75g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23742/interne",
+          "score": 0.6061574816703796
+        },
+        {
+          "id": "2026-08-0134",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23238/interne",
+          "score": 0.5868391990661621
+        },
+        {
+          "id": "2026-08-0140",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23231/interne",
+          "score": 0.5809615850448608
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0259",
+      "form": "reformulee",
+      "query": "une herbe aromatique Lebensbaum en petit sachet pour cuisiner",
+      "method": "semantique",
+      "rank": 76,
+      "top5": [
+        {
+          "id": "2026-09-0253",
+          "label": "persil coupé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23635/interne",
+          "score": 0.6439692378044128
+        },
+        {
+          "id": "2026-10-0147",
+          "label": "mélange tandoori 35g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23819/interne",
+          "score": 0.6327224969863892
+        },
+        {
+          "id": "2026-10-0101",
+          "label": "chrysanthemum bud",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23772/interne",
+          "score": 0.6098089814186096
+        },
+        {
+          "id": "2026-07-0335",
+          "label": "rond blanc, rond cendré, rond fleuris, rond échalote, rond bruschetta, rond herbe de provence, rond poivre, bûche cendrée 200gr, bûche blanche 200gr",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23055/interne",
+          "score": 0.597976803779602
+        },
+        {
+          "id": "2026-09-0132",
+          "label": "mélange de légumes à piperade",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23508/interne",
+          "score": 0.5845714807510376
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0252",
+      "form": "proche",
+      "query": "tempeh pois chiches les culottées",
+      "method": "semantique",
+      "rank": 167,
+      "top5": [
+        {
+          "id": "2026-07-0269",
+          "label": "tete roulee",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/22989/interne",
+          "score": 0.6285246014595032
+        },
+        {
+          "id": "2026-09-0261",
+          "label": "taboule",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23644/interne",
+          "score": 0.6271883249282837
+        },
+        {
+          "id": "2026-08-0078",
+          "label": "merguez",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23149/interne",
+          "score": 0.6123759150505066
+        },
+        {
+          "id": "2026-07-0291",
+          "label": "paris-brest",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23011/interne",
+          "score": 0.5939145684242249
+        },
+        {
+          "id": "2026-10-0245",
+          "label": "tete de veau en gelee",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23918/interne",
+          "score": 0.5928854942321777
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0252",
+      "form": "reformulee",
+      "query": "le bloc végétal fermenté aux légumineuses de Les Culotté.e.s",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0252",
+          "label": "tempeh artisanal frais et bio du diois",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23925/interne",
+          "score": 0.6927788853645325
+        },
+        {
+          "id": "2026-09-0253",
+          "label": "persil coupé",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23635/interne",
+          "score": 0.6563774943351746
+        },
+        {
+          "id": "2026-09-0110",
+          "label": "curcuma moulu 37g",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23485/interne",
+          "score": 0.6468806266784668
+        },
+        {
+          "id": "2026-08-0005",
+          "label": "gingembre poudre",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23073/interne",
+          "score": 0.6385078430175781
+        },
+        {
+          "id": "2026-10-0052",
+          "label": "poivre de timut",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23723/interne",
+          "score": 0.6303702592849731
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0248",
+      "form": "proche",
+      "query": "crackers wasabi Golden Turtle 125 g",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0248",
+          "label": "crackers au wasabi 125g golden turtle",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23921/interne",
+          "score": 0.8379766941070557
+        },
+        {
+          "id": "2026-08-0129",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23243/interne",
+          "score": 0.49664193391799927
+        },
+        {
+          "id": "2026-10-0072",
+          "label": "crevettes entières cuites réfrigérées élevage penaeus monodon 300g calibre 30/40",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23743/interne",
+          "score": 0.48343077301979065
+        },
+        {
+          "id": "2026-09-0036",
+          "label": "crevettes entières cuites réfrigérées élevage penaeus monodon 300g calibre 30/40",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23406/interne",
+          "score": 0.48343077301979065
+        },
+        {
+          "id": "2026-08-0128",
+          "label": "tartinable traiteur de la mer",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23244/interne",
+          "score": 0.4791138172149658
+        }
+      ]
+    },
+    {
+      "target": "2026-10-0248",
+      "form": "reformulee",
+      "query": "les biscuits salés japonais piquants Golden Turtle",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "2026-10-0248",
+          "label": "crackers au wasabi 125g golden turtle",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23921/interne",
+          "score": 0.6312007308006287
+        },
+        {
+          "id": "2026-10-0111",
+          "label": "mignon porte clés peluche douce tortue pendentif porte clés (sur amazon)",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23782/interne",
+          "score": 0.587098240852356
+        },
+        {
+          "id": "2026-09-0205",
+          "label": "porte-clés peluche loutre poisson",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23585/interne",
+          "score": 0.5504346489906311
+        },
+        {
+          "id": "2026-10-0024",
+          "label": "araignee de porc marinee ail des ours",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23695/interne",
+          "score": 0.543203592300415
+        },
+        {
+          "id": "2026-10-0227",
+          "label": "peluche pâtisserie senteur noël 8 cm",
+          "url": "https://rappel.conso.gouv.fr/fiche-rappel/23899/interne",
+          "score": 0.517383873462677
+        }
+      ]
+    }
+  ],
+  "versions": {
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1"
+  }
+}
