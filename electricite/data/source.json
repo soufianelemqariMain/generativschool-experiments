@@ -1,0 +1,6 @@
+{
+  "url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/eco2mix-national-cons-def/exports/json?select=date%2Cheure%2Cdate_heure%2Cconsommation%2Cprevision_j1&where=date_heure+%3E%3D+date%272023-01-01%27&order_by=date_heure",
+  "retrieved_utc": "2026-10-26T12:10:50.428695+00:00",
+  "sha256": "df9fce14e5309da505c0c0b7c2864a716df5a13d3d41544667a291960397fdd6",
+  "license": "Licence Ouverte 2.0"
+}

@@ -1,0 +1,49 @@
+{
+  "train_rows": 7334,
+  "test_rows": 2247,
+  "routes": 107,
+  "start": "2025-01",
+  "end": "2026-09",
+  "metrics": {
+    "foret": {
+      "mae_points": 4.320969977371827,
+      "mae_ponderee_trains": 4.0281823625075015,
+      "par_annee": {
+        "2025": 3.4618309424282696,
+        "2026": 5.466488690629906
+      }
+    },
+    "annee_precedente": {
+      "mae_points": 5.253185168188573,
+      "mae_ponderee_trains": 4.853718711152839,
+      "par_annee": {
+        "2025": 4.411687722496459,
+        "2026": 6.375181762444725
+      }
+    },
+    "mois_moins_deux": {
+      "mae_points": 5.828250551970621,
+      "mae_ponderee_trains": 5.470987239665337,
+      "par_annee": {
+        "2025": 4.689848135473193,
+        "2026": 7.346120440633857
+      }
+    }
+  },
+  "source": {
+    "url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/regularite-mensuelle-tgv-aqst/exports/json?select=date%2Cservice%2Cgare_depart%2Cgare_arrivee%2Cnb_train_prevu%2Cnb_annulation%2Cnb_train_retard_arrivee&order_by=date",
+    "retrieved_utc": "2026-10-26T12:09:02.723008+00:00",
+    "sha256": "43a67cef62511d01c46c4de0b82ee15e62766fc51597d01c9e822c7daad029c0",
+    "license": "ODbL"
+  },
+  "unit": "points de pourcentage",
+  "features": [
+    "lag2",
+    "lag3",
+    "lag12",
+    "mean6",
+    "sin",
+    "cos",
+    "route"
+  ]
+}

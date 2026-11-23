@@ -12,9 +12,20 @@ Une régression pour comprendre le principe, des forêts aléatoires réellement
 
 Le test rétrospectif depuis la crise de 2026 ne bat pas la règle « prix inchangé ». Il ne démontre aucune économie pour les conducteurs. L’article distingue explications pédagogiques, résultats et prospective.
 
-## Archives
+## Dix expériences avec les données publiques
 
-[Ancienne expérience Généthon](https://github.com/soufianelemqariMain/et-si-genethon) — archive exploratoire distincte de la ligne éditoriale actuelle ; aucun bénéfice clinique établi.
+- [Rappels de produits et recherche par le sens](rappelconso/)
+- [Et si l’IA anticipait les mois difficiles sur nos lignes de train pour mieux préparer nos voyages ?](tgv/)
+- [Et si l’IA anticipait les pics électriques pour nous aider à mieux répartir nos usages ?](electricite/)
+- [Et si l’IA traduisait les marchés publics pour aider les petites entreprises à trouver leur place ?](boamp/)
+- [Et si l’IA rapprochait les logements pour nous aider à comprendre leur consommation ?](dpe/)
+- [Et si l’IA rapprochait les recettes pour alléger l’empreinte de nos assiettes ?](agribalyse/)
+- [Et si l’IA éclairait la vacance des logements pour aider les communes à agir ?](lovac/)
+- [Et si l’IA lisait les tendances immobilières pour rendre les prix plus compréhensibles ?](dvf/)
+- [Et si l’IA rapprochait les communes pour mieux discuter des services du quotidien ?](bpe/)
+- [Et si l’IA repérait les réseaux d’eau atypiques pour mieux orienter les investigations ?](eau/)
+
+Chaque dossier fournit le protocole, un extrait figé, les résultats et une commande de reproduction. Les expériences sont pédagogiques ; leurs limites et résultats négatifs sont conservés.
 
 ## Sources et réutilisation
 

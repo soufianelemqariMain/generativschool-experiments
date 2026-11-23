@@ -1,0 +1,2880 @@
+{
+  "corpus_size": 100,
+  "raw_rows": 100,
+  "source": {
+    "url": "https://boamp-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/boamp/records?limit=100&order_by=dateparution+DESC",
+    "retrieved_utc": "2026-10-26T12:08:51.490003+00:00",
+    "sha256": "5aa76d825d2f804ba12cc97e83c729ec76cf2f0939a8db36c97163fd95095825",
+    "license": "Licence Ouverte 2.0"
+  },
+  "results": {
+    "mots": {
+      "top1": 15,
+      "top5": 17,
+      "total": 24,
+      "mrr": 0.6792403251236335,
+      "by_form": {
+        "proche": {
+          "top1": 12,
+          "top5": 12,
+          "total": 12
+        },
+        "reformulee": {
+          "top1": 3,
+          "top5": 5,
+          "total": 12
+        }
+      }
+    },
+    "caracteres": {
+      "top1": 17,
+      "top5": 21,
+      "total": 24,
+      "mrr": 0.7804505720109027,
+      "by_form": {
+        "proche": {
+          "top1": 12,
+          "top5": 12,
+          "total": 12
+        },
+        "reformulee": {
+          "top1": 5,
+          "top5": 9,
+          "total": 12
+        }
+      }
+    },
+    "semantique": {
+      "top1": 20,
+      "top5": 21,
+      "total": 24,
+      "mrr": 0.8529800809212573,
+      "by_form": {
+        "proche": {
+          "top1": 12,
+          "top5": 12,
+          "total": 12
+        },
+        "reformulee": {
+          "top1": 8,
+          "top5": 9,
+          "total": 12
+        }
+      }
+    }
+  },
+  "details": [
+    {
+      "query": "Marché de travaux de construction d'un mur de soutènement",
+      "form": "proche",
+      "target": "26-103762",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.9260648614790218
+        },
+        {
+          "id": "26-103865",
+          "label": "Construction d'un centre d'incendie et de secours à Feurs",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103865",
+          "score": 0.2914515903619319
+        },
+        {
+          "id": "26-103841",
+          "label": "Marche De Travaux Pour La Restructuration De L'Ancienne Mairie En Maison Du Village A Houlbec Cocherel (27)\nEure Amenagement Developpement, Mandataire de la Commune de Houlbec",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103841",
+          "score": 0.12633099496132214
+        },
+        {
+          "id": "26-103783",
+          "label": "Marché de prestations de collecte, de transport et de comptage de fonds pour les parcs de stationnement de la REGIE PARCS D'AZUR",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103783",
+          "score": 0.11295814966052833
+        },
+        {
+          "id": "26-103855",
+          "label": "Marché de travaux pour l'opération d’aménagements du campus Carreire – Rue Hoffmann-Martinot / Eugene Jacquet",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103855",
+          "score": 0.10963953473336831
+        }
+      ]
+    },
+    {
+      "query": "construire un mur pour retenir les terres",
+      "form": "reformulee",
+      "target": "26-103762",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.40375266169503343
+        },
+        {
+          "id": "26-103262",
+          "label": "25FOUR08 - Accord-cadre à bons de commande de gestion d'un parc de bacs à déchets ménagers pour les besoins de la Métropole TPM",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103262",
+          "score": 0.1115471775777825
+        },
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.0906661897127816
+        },
+        {
+          "id": "26-103854",
+          "label": "CONCEPTION, FOURNITURES, ASSEMBLAGE, PROGRAMMATION, INSTALLATION, MISE EN SERVICE ET FORMATION POUR UN PILOTE HYDROGENE (H2",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103854",
+          "score": 0.07454235076584605
+        },
+        {
+          "id": "26-103935",
+          "label": "Fourniture et livraison de repas pour les services municipaux en liaison froide",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103935",
+          "score": 0.0724817147918146
+        }
+      ]
+    },
+    {
+      "query": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+      "form": "proche",
+      "target": "26-103808",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103808",
+          "label": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103808",
+          "score": 0.8917056188458601
+        },
+        {
+          "id": "26-103857",
+          "label": "TRAVAUX EXTENSION ET RENOVATION DES RESEAUX D'ASSAINISSEMENT ET D'ALIMENTATION EN EAU POTABLE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103857",
+          "score": 0.19782727647504617
+        },
+        {
+          "id": "26-103277",
+          "label": "Extension de l'usine de traitement d'eau potable de La Saussaye - Sours (28)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103277",
+          "score": 0.19201688255001287
+        },
+        {
+          "id": "26-103768",
+          "label": "Etude de projet d'extension et de modernisation des réseaux collectifs et des capacités d'irrigation du Bergeracois",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103768",
+          "score": 0.0993395894440896
+        },
+        {
+          "id": "26-103874",
+          "label": "La présente consultation concerne les travaux de renforcement, de renouvellement et d'extension des réseaux d'eau potable du syndicat intercommunal des eaux de la Région de Sennece",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103874",
+          "score": 0.09376091472842052
+        }
+      ]
+    },
+    {
+      "query": "protéger les zones qui alimentent les sources d’eau potable",
+      "form": "reformulee",
+      "target": "26-103808",
+      "method": "mots",
+      "rank": 3,
+      "top5": [
+        {
+          "id": "26-103277",
+          "label": "Extension de l'usine de traitement d'eau potable de La Saussaye - Sours (28)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103277",
+          "score": 0.3171490010336474
+        },
+        {
+          "id": "26-103857",
+          "label": "TRAVAUX EXTENSION ET RENOVATION DES RESEAUX D'ASSAINISSEMENT ET D'ALIMENTATION EN EAU POTABLE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103857",
+          "score": 0.2921362354200906
+        },
+        {
+          "id": "26-103808",
+          "label": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103808",
+          "score": 0.2627949153311408
+        },
+        {
+          "id": "26-103874",
+          "label": "La présente consultation concerne les travaux de renforcement, de renouvellement et d'extension des réseaux d'eau potable du syndicat intercommunal des eaux de la Région de Sennece",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103874",
+          "score": 0.1960643346938751
+        },
+        {
+          "id": "26-103943",
+          "label": "Elaboration du plan de gestion stratégique des zones humides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103943",
+          "score": 0.10828477139848558
+        }
+      ]
+    },
+    {
+      "query": "Construction de vestiaires de football",
+      "form": "proche",
+      "target": "26-103852",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103852",
+          "label": "Construction de vestiaires de football",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103852",
+          "score": 0.5639811640867327
+        },
+        {
+          "id": "26-103872",
+          "label": "Construction de la capitainerie du Port de Bonifacio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103872",
+          "score": 0.19457714001487078
+        },
+        {
+          "id": "26-103865",
+          "label": "Construction d'un centre d'incendie et de secours à Feurs",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103865",
+          "score": 0.1475887144522002
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.08762753965652803
+        },
+        {
+          "id": "26-103783",
+          "label": "Marché de prestations de collecte, de transport et de comptage de fonds pour les parcs de stationnement de la REGIE PARCS D'AZUR",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103783",
+          "score": 0.05077093745882868
+        }
+      ]
+    },
+    {
+      "query": "bâtiment pour que les joueurs de foot se changent",
+      "form": "reformulee",
+      "target": "26-103852",
+      "method": "mots",
+      "rank": 6,
+      "top5": [
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.17308592766337585
+        },
+        {
+          "id": "26-103872",
+          "label": "Construction de la capitainerie du Port de Bonifacio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103872",
+          "score": 0.16739767469124356
+        },
+        {
+          "id": "26-103783",
+          "label": "Marché de prestations de collecte, de transport et de comptage de fonds pour les parcs de stationnement de la REGIE PARCS D'AZUR",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103783",
+          "score": 0.15526742007518482
+        },
+        {
+          "id": "26-103841",
+          "label": "Marche De Travaux Pour La Restructuration De L'Ancienne Mairie En Maison Du Village A Houlbec Cocherel (27)\nEure Amenagement Developpement, Mandataire de la Commune de Houlbec",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103841",
+          "score": 0.13527352365590245
+        },
+        {
+          "id": "26-103262",
+          "label": "25FOUR08 - Accord-cadre à bons de commande de gestion d'un parc de bacs à déchets ménagers pour les besoins de la Métropole TPM",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103262",
+          "score": 0.1349023082019233
+        }
+      ]
+    },
+    {
+      "query": "Acquisition et maintenance du système de vidéoprotection II",
+      "form": "proche",
+      "target": "26-103742",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.7181026519087137
+        },
+        {
+          "id": "26-103849",
+          "label": "LLD ET MAINTENANCE DES VEHICULES DU CDL",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103849",
+          "score": 0.1444646105698467
+        },
+        {
+          "id": "26-103271",
+          "label": "Conception et réalisation du système audiovisuel des salons du rectorat de l'académie Orléans-Tours",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103271",
+          "score": 0.12946814488477232
+        },
+        {
+          "id": "26-103736",
+          "label": "Acquisition de véhicules neufs au profit des directions et services du Ministère de l’Intérieur placés sous l’autorité du préfet de la Guyane",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103736",
+          "score": 0.09170093721179762
+        },
+        {
+          "id": "26-103825",
+          "label": "Maintenance préventive et corrective des installations de traitement d'eau du Centre Hospitalier de Brive",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103825",
+          "score": 0.08422949765851735
+        }
+      ]
+    },
+    {
+      "query": "installer et entretenir des caméras de surveillance",
+      "form": "reformulee",
+      "target": "26-103742",
+      "method": "mots",
+      "rank": 55,
+      "top5": [
+        {
+          "id": "26-103904",
+          "label": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103904",
+          "score": 0.2336988241296998
+        },
+        {
+          "id": "26-103944",
+          "label": "Prestations De Mise En Securite Des Personnes Et Des Biens Pour Le Siege  De La Delegation Ile-De-France Situe A Pantin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103944",
+          "score": 0.21478255197747265
+        },
+        {
+          "id": "26-103938",
+          "label": "Réalisation des bilans des émissions de gaz à effet de serre 2024, 2025 et 2026 et quantification des émissions (évitées et de séquestration de carbone) associées aux projets de la feuille de route cl",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103938",
+          "score": 0.12696806967167507
+        },
+        {
+          "id": "26-103909",
+          "label": "Mission de maîtrise d’œuvre en vue des travaux de rafraîchissement et de modernisation des locaux – 3 lots",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103909",
+          "score": 0.10667592779826002
+        },
+        {
+          "id": "26-103924",
+          "label": "Prestations de service d'entretien et de maintenance préventive et curative des bornes de gonflage de la Ville de Neuilly-sur-Seine",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103924",
+          "score": 0.10582543774959323
+        }
+      ]
+    },
+    {
+      "query": "Travaux, entretien et réfection d'étanchéité et de couverture, zinguerie pour l'Ensa-Pb",
+      "form": "proche",
+      "target": "26-103828",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103828",
+          "label": "Travaux, entretien et réfection d'étanchéité et de couverture, zinguerie pour l'Ensa-Pb",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103828",
+          "score": 0.9152905070639835
+        },
+        {
+          "id": "26-103955",
+          "label": "TRAVAUX DE RESTAURATION DE L'EGLISE DU CENTRE DE ROCHECOLOMBE (07)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103955",
+          "score": 0.14341193836437624
+        },
+        {
+          "id": "26-103818",
+          "label": "REHABILITATION PETIT CHASSAGNON C&D E&F – LOT 01 ETANCHEITE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103818",
+          "score": 0.1110415956087229
+        },
+        {
+          "id": "26-103924",
+          "label": "Prestations de service d'entretien et de maintenance préventive et curative des bornes de gonflage de la Ville de Neuilly-sur-Seine",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103924",
+          "score": 0.10745005041360703
+        },
+        {
+          "id": "26-103860",
+          "label": "Travaux de réfection des équipements de CVC et de remise à niveau de la GTB de l'immeuble 8 Place d'Iéna, Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103860",
+          "score": 0.09398110391197363
+        }
+      ]
+    },
+    {
+      "query": "réparer les toits et empêcher les infiltrations",
+      "form": "reformulee",
+      "target": "26-103828",
+      "method": "mots",
+      "rank": 15,
+      "top5": [
+        {
+          "id": "26-103932",
+          "label": "Travaux d'Extension – Rénovation du Multi-accueil \"LES MISTOUFLETS\"",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103932",
+          "score": 0.1658026420181962
+        },
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.16237996944168254
+        },
+        {
+          "id": "26-103935",
+          "label": "Fourniture et livraison de repas pour les services municipaux en liaison froide",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103935",
+          "score": 0.14463738585701205
+        },
+        {
+          "id": "26-103760",
+          "label": "Elaboration, actualisation du document d'information communale sur les risques majeurs (DICRIM).",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103760",
+          "score": 0.140742472057468
+        },
+        {
+          "id": "26-103817",
+          "label": "Rénovation de la production et distribution ECS\r\n1035 - Résidence Les Champs Philippe - LA GARENNE COLOMBES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103817",
+          "score": 0.13313065282844994
+        }
+      ]
+    },
+    {
+      "query": "Fournitures scolaires",
+      "form": "proche",
+      "target": "26-103846",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103846",
+          "label": "Fournitures scolaires",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103846",
+          "score": 0.5528004666576156
+        },
+        {
+          "id": "26-103854",
+          "label": "CONCEPTION, FOURNITURES, ASSEMBLAGE, PROGRAMMATION, INSTALLATION, MISE EN SERVICE ET FORMATION POUR UN PILOTE HYDROGENE (H2",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103854",
+          "score": 0.0919252400199688
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.0
+        },
+        {
+          "id": "26-103779",
+          "label": "Fourniture et acheminement gaz-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103779",
+          "score": 0.0
+        },
+        {
+          "id": "26-103808",
+          "label": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103808",
+          "score": 0.0
+        }
+      ]
+    },
+    {
+      "query": "cahiers stylos et matériel pour les élèves",
+      "form": "reformulee",
+      "target": "26-103846",
+      "method": "mots",
+      "rank": 54,
+      "top5": [
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.22645417522830244
+        },
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.22249538879190003
+        },
+        {
+          "id": "26-103935",
+          "label": "Fourniture et livraison de repas pour les services municipaux en liaison froide",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103935",
+          "score": 0.1953639806140359
+        },
+        {
+          "id": "26-103783",
+          "label": "Marché de prestations de collecte, de transport et de comptage de fonds pour les parcs de stationnement de la REGIE PARCS D'AZUR",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103783",
+          "score": 0.15864487503562413
+        },
+        {
+          "id": "26-103262",
+          "label": "25FOUR08 - Accord-cadre à bons de commande de gestion d'un parc de bacs à déchets ménagers pour les besoins de la Métropole TPM",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103262",
+          "score": 0.15311224792350747
+        }
+      ]
+    },
+    {
+      "query": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+      "form": "proche",
+      "target": "26-103889",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103889",
+          "label": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103889",
+          "score": 0.9033397842515519
+        },
+        {
+          "id": "26-103783",
+          "label": "Marché de prestations de collecte, de transport et de comptage de fonds pour les parcs de stationnement de la REGIE PARCS D'AZUR",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103783",
+          "score": 0.06353085558583271
+        },
+        {
+          "id": "26-103767",
+          "label": "Réalisation d'une étude de biodistribution des nanoparticules NPA1, enrichies ou non en cannabidiol (CBD), administrées par voie intradermique chez la souris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103767",
+          "score": 0.059632995541253925
+        },
+        {
+          "id": "26-103272",
+          "label": "Accord-cadre à bons de commande et marchés subséquents pour des prestations d'économistes et de programmistes. RELANCE du LOT 3 : Marché à bon de commande pour une mission d'Assistance à Maîtrise d...",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103272",
+          "score": 0.044118601081526196
+        },
+        {
+          "id": "26-103847",
+          "label": "Convention de participation pour la mise en oeuvre d'une complémentaire santé du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103847",
+          "score": 0.04179006059156954
+        }
+      ]
+    },
+    {
+      "query": "produire des films et des animations graphiques",
+      "form": "reformulee",
+      "target": "26-103889",
+      "method": "mots",
+      "rank": 69,
+      "top5": [
+        {
+          "id": "26-103768",
+          "label": "Etude de projet d'extension et de modernisation des réseaux collectifs et des capacités d'irrigation du Bergeracois",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103768",
+          "score": 0.24321463910320137
+        },
+        {
+          "id": "26-103944",
+          "label": "Prestations De Mise En Securite Des Personnes Et Des Biens Pour Le Siege  De La Delegation Ile-De-France Situe A Pantin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103944",
+          "score": 0.20139212352148372
+        },
+        {
+          "id": "26-103938",
+          "label": "Réalisation des bilans des émissions de gaz à effet de serre 2024, 2025 et 2026 et quantification des émissions (évitées et de séquestration de carbone) associées aux projets de la feuille de route cl",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103938",
+          "score": 0.11792610591125612
+        },
+        {
+          "id": "26-103909",
+          "label": "Mission de maîtrise d’œuvre en vue des travaux de rafraîchissement et de modernisation des locaux – 3 lots",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103909",
+          "score": 0.11058474975576817
+        },
+        {
+          "id": "26-103796",
+          "label": "Prestation d’analyse des données sur la consommation des pôles commerciaux stratégiques",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103796",
+          "score": 0.09926725691138737
+        }
+      ]
+    },
+    {
+      "query": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+      "form": "proche",
+      "target": "26-103735",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103735",
+          "label": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103735",
+          "score": 0.870176341554172
+        },
+        {
+          "id": "26-103849",
+          "label": "LLD ET MAINTENANCE DES VEHICULES DU CDL",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103849",
+          "score": 0.10562598001901546
+        },
+        {
+          "id": "26-103883",
+          "label": "Fourniture et pose d'appareils de climatisations sur la territoire de la communauté de communes des portes euréliennes d'île-de-France",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103883",
+          "score": 0.08700663960571803
+        },
+        {
+          "id": "26-103825",
+          "label": "Maintenance préventive et corrective des installations de traitement d'eau du Centre Hospitalier de Brive",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103825",
+          "score": 0.0822335716182875
+        },
+        {
+          "id": "26-103241",
+          "label": "Maintenance préventive et corrective des groupes électrogènes de la Régie de l'Eau Bordeaux Métropole",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103241",
+          "score": 0.07248721090642768
+        }
+      ]
+    },
+    {
+      "query": "réparer les portails électriques",
+      "form": "reformulee",
+      "target": "26-103735",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103735",
+          "label": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103735",
+          "score": 0.15306382784181186
+        },
+        {
+          "id": "26-103932",
+          "label": "Travaux d'Extension – Rénovation du Multi-accueil \"LES MISTOUFLETS\"",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103932",
+          "score": 0.09326996342261364
+        },
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.09134458670886995
+        },
+        {
+          "id": "26-103760",
+          "label": "Elaboration, actualisation du document d'information communale sur les risques majeurs (DICRIM).",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103760",
+          "score": 0.07917271438514002
+        },
+        {
+          "id": "26-103935",
+          "label": "Fourniture et livraison de repas pour les services municipaux en liaison froide",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103935",
+          "score": 0.07302404901520998
+        }
+      ]
+    },
+    {
+      "query": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+      "form": "proche",
+      "target": "26-103821",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103821",
+          "label": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103821",
+          "score": 0.9731039390735708
+        },
+        {
+          "id": "26-103847",
+          "label": "Convention de participation pour la mise en oeuvre d'une complémentaire santé du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103847",
+          "score": 0.13452086421628143
+        },
+        {
+          "id": "26-103933",
+          "label": "Services d'assurances pour la Caisse des Écoles de CAUDRY",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103933",
+          "score": 0.13353328824457167
+        },
+        {
+          "id": "26-103948",
+          "label": "Convention de participation pour la mise en oeuvre d'une couverture complémentaire de prévoyance du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103948",
+          "score": 0.12997452784151112
+        },
+        {
+          "id": "26-103887",
+          "label": "Contrat de délégation de service public pour l'exploitation de la base nautique et du lot n°4 de la plage de la croisette de la commune de Sainte-Maxime (Phase Candidature)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103887",
+          "score": 0.08663477457788324
+        }
+      ]
+    },
+    {
+      "query": "organiser une fête pour les salariés",
+      "form": "reformulee",
+      "target": "26-103821",
+      "method": "mots",
+      "rank": 6,
+      "top5": [
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.18994105442412762
+        },
+        {
+          "id": "26-103935",
+          "label": "Fourniture et livraison de repas pour les services municipaux en liaison froide",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103935",
+          "score": 0.1518455046764287
+        },
+        {
+          "id": "26-103262",
+          "label": "25FOUR08 - Accord-cadre à bons de commande de gestion d'un parc de bacs à déchets ménagers pour les besoins de la Métropole TPM",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103262",
+          "score": 0.1284246659904583
+        },
+        {
+          "id": "26-103783",
+          "label": "Marché de prestations de collecte, de transport et de comptage de fonds pour les parcs de stationnement de la REGIE PARCS D'AZUR",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103783",
+          "score": 0.12330579587086178
+        },
+        {
+          "id": "26-103880",
+          "label": "Mission de maîtrise d'oeuvre pour les travaux de remise en conformité trentenaire des installations d'extinction automatique type sprinkler sur le site des pyramides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103880",
+          "score": 0.12229501942368894
+        }
+      ]
+    },
+    {
+      "query": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+      "form": "proche",
+      "target": "26-103835",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103835",
+          "label": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103835",
+          "score": 0.9221968073960027
+        },
+        {
+          "id": "26-103955",
+          "label": "TRAVAUX DE RESTAURATION DE L'EGLISE DU CENTRE DE ROCHECOLOMBE (07)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103955",
+          "score": 0.06889716076321999
+        },
+        {
+          "id": "26-103887",
+          "label": "Contrat de délégation de service public pour l'exploitation de la base nautique et du lot n°4 de la plage de la croisette de la commune de Sainte-Maxime (Phase Candidature)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103887",
+          "score": 0.06571710090836483
+        },
+        {
+          "id": "26-103847",
+          "label": "Convention de participation pour la mise en oeuvre d'une complémentaire santé du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103847",
+          "score": 0.05309756020389881
+        },
+        {
+          "id": "26-103948",
+          "label": "Convention de participation pour la mise en oeuvre d'une couverture complémentaire de prévoyance du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103948",
+          "score": 0.051989615362041865
+        }
+      ]
+    },
+    {
+      "query": "restaurer une sculpture de fontaine en pierre",
+      "form": "reformulee",
+      "target": "26-103835",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103835",
+          "label": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103835",
+          "score": 0.37689071881657304
+        },
+        {
+          "id": "26-103847",
+          "label": "Convention de participation pour la mise en oeuvre d'une complémentaire santé du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103847",
+          "score": 0.10568891416158474
+        },
+        {
+          "id": "26-103948",
+          "label": "Convention de participation pour la mise en oeuvre d'une couverture complémentaire de prévoyance du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103948",
+          "score": 0.10483089257688212
+        },
+        {
+          "id": "26-103767",
+          "label": "Réalisation d'une étude de biodistribution des nanoparticules NPA1, enrichies ou non en cannabidiol (CBD), administrées par voie intradermique chez la souris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103767",
+          "score": 0.0696881521334578
+        },
+        {
+          "id": "26-103905",
+          "label": "Travaux d'amélioration foncière pour la mise en oeuvre des projets retenus par ILEVA au titre de sa compensation agricole parcelle CO0005p d'une superficie de 0,72 ha commune de Saint-Joseph (Lot 15)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103905",
+          "score": 0.06333399562266608
+        }
+      ]
+    },
+    {
+      "query": "Marché de fourniture de matériel électrique",
+      "form": "proche",
+      "target": "26-103870",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.9114171393544414
+        },
+        {
+          "id": "26-103957",
+          "label": "Fourniture de bacs gastronormes et de couvercles en acier inoxydable",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103957",
+          "score": 0.12840167510543538
+        },
+        {
+          "id": "26-103931",
+          "label": "Fourniture de titres restaurant",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103931",
+          "score": 0.12500962217701295
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.11587635344719795
+        },
+        {
+          "id": "26-103783",
+          "label": "Marché de prestations de collecte, de transport et de comptage de fonds pour les parcs de stationnement de la REGIE PARCS D'AZUR",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103783",
+          "score": 0.11586850923958675
+        }
+      ]
+    },
+    {
+      "query": "vendre du matériel pour les installations électriques",
+      "form": "reformulee",
+      "target": "26-103870",
+      "method": "mots",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.19961628638014928
+        },
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.1961266697890219
+        },
+        {
+          "id": "26-103880",
+          "label": "Mission de maîtrise d'oeuvre pour les travaux de remise en conformité trentenaire des installations d'extinction automatique type sprinkler sur le site des pyramides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103880",
+          "score": 0.17878965967328583
+        },
+        {
+          "id": "26-103935",
+          "label": "Fourniture et livraison de repas pour les services municipaux en liaison froide",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103935",
+          "score": 0.15958022260604027
+        },
+        {
+          "id": "26-103262",
+          "label": "25FOUR08 - Accord-cadre à bons de commande de gestion d'un parc de bacs à déchets ménagers pour les besoins de la Métropole TPM",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103262",
+          "score": 0.13496637144797236
+        }
+      ]
+    },
+    {
+      "query": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+      "form": "proche",
+      "target": "26-103904",
+      "method": "mots",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103904",
+          "label": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103904",
+          "score": 0.9427980718905755
+        },
+        {
+          "id": "26-103944",
+          "label": "Prestations De Mise En Securite Des Personnes Et Des Biens Pour Le Siege  De La Delegation Ile-De-France Situe A Pantin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103944",
+          "score": 0.17924947373543623
+        },
+        {
+          "id": "26-103924",
+          "label": "Prestations de service d'entretien et de maintenance préventive et curative des bornes de gonflage de la Ville de Neuilly-sur-Seine",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103924",
+          "score": 0.07862433799516483
+        },
+        {
+          "id": "26-103796",
+          "label": "Prestation d’analyse des données sur la consommation des pôles commerciaux stratégiques",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103796",
+          "score": 0.06922797114084085
+        },
+        {
+          "id": "26-103806",
+          "label": "Mission d'accompagnement stratégique et de relations publiques",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103806",
+          "score": 0.06209396330724628
+        }
+      ]
+    },
+    {
+      "query": "agents pour surveiller plusieurs bâtiments",
+      "form": "reformulee",
+      "target": "26-103904",
+      "method": "mots",
+      "rank": 58,
+      "top5": [
+        {
+          "id": "26-103868",
+          "label": "Fourniture, installation et location avec option d’achat d’un parking modulaire préfabriqué",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103868",
+          "score": 0.16289162791081352
+        },
+        {
+          "id": "26-103937",
+          "label": "Maintenance, dépannage et création de fermetures et automatismes des bâtiments communaux de la ville de La Grande Motte et travaux associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103937",
+          "score": 0.13463909027866797
+        },
+        {
+          "id": "26-103949",
+          "label": "Remplacement de la centrale photovoltaïque en toiture des bâtiments D et E du site IMV Technologies à Saint-Ouen-sur-Iton (61)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103949",
+          "score": 0.12663089737139896
+        },
+        {
+          "id": "26-103272",
+          "label": "Accord-cadre à bons de commande et marchés subséquents pour des prestations d'économistes et de programmistes. RELANCE du LOT 3 : Marché à bon de commande pour une mission d'Assistance à Maîtrise d...",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103272",
+          "score": 0.06400464545115189
+        },
+        {
+          "id": "26-103933",
+          "label": "Services d'assurances pour la Caisse des Écoles de CAUDRY",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103933",
+          "score": 0.05781303213243092
+        }
+      ]
+    },
+    {
+      "query": "Marché de travaux de construction d'un mur de soutènement",
+      "form": "proche",
+      "target": "26-103762",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.8761788564027482
+        },
+        {
+          "id": "26-103865",
+          "label": "Construction d'un centre d'incendie et de secours à Feurs",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103865",
+          "score": 0.39270861199891305
+        },
+        {
+          "id": "26-103872",
+          "label": "Construction de la capitainerie du Port de Bonifacio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103872",
+          "score": 0.21925728685644852
+        },
+        {
+          "id": "26-103295",
+          "label": "Accord-cadre à bons de commande pour des prestations de maîtrise d'oeuvre démolition-déconstruction",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103295",
+          "score": 0.18346417704089352
+        },
+        {
+          "id": "26-103841",
+          "label": "Marche De Travaux Pour La Restructuration De L'Ancienne Mairie En Maison Du Village A Houlbec Cocherel (27)\nEure Amenagement Developpement, Mandataire de la Commune de Houlbec",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103841",
+          "score": 0.18037261845183644
+        }
+      ]
+    },
+    {
+      "query": "construire un mur pour retenir les terres",
+      "form": "reformulee",
+      "target": "26-103762",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.2298511551815555
+        },
+        {
+          "id": "26-103865",
+          "label": "Construction d'un centre d'incendie et de secours à Feurs",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103865",
+          "score": 0.21725987351279472
+        },
+        {
+          "id": "26-103295",
+          "label": "Accord-cadre à bons de commande pour des prestations de maîtrise d'oeuvre démolition-déconstruction",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103295",
+          "score": 0.13149436729766825
+        },
+        {
+          "id": "26-103872",
+          "label": "Construction de la capitainerie du Port de Bonifacio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103872",
+          "score": 0.1271049542665456
+        },
+        {
+          "id": "26-103852",
+          "label": "Construction de vestiaires de football",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103852",
+          "score": 0.11911793831052687
+        }
+      ]
+    },
+    {
+      "query": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+      "form": "proche",
+      "target": "26-103808",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103808",
+          "label": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103808",
+          "score": 0.8905404288707248
+        },
+        {
+          "id": "26-103857",
+          "label": "TRAVAUX EXTENSION ET RENOVATION DES RESEAUX D'ASSAINISSEMENT ET D'ALIMENTATION EN EAU POTABLE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103857",
+          "score": 0.31273942066363614
+        },
+        {
+          "id": "26-103277",
+          "label": "Extension de l'usine de traitement d'eau potable de La Saussaye - Sours (28)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103277",
+          "score": 0.26023313514470353
+        },
+        {
+          "id": "26-103768",
+          "label": "Etude de projet d'extension et de modernisation des réseaux collectifs et des capacités d'irrigation du Bergeracois",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103768",
+          "score": 0.12470215841682002
+        },
+        {
+          "id": "26-103874",
+          "label": "La présente consultation concerne les travaux de renforcement, de renouvellement et d'extension des réseaux d'eau potable du syndicat intercommunal des eaux de la Région de Sennece",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103874",
+          "score": 0.11890445500767238
+        }
+      ]
+    },
+    {
+      "query": "protéger les zones qui alimentent les sources d’eau potable",
+      "form": "reformulee",
+      "target": "26-103808",
+      "method": "caracteres",
+      "rank": 3,
+      "top5": [
+        {
+          "id": "26-103277",
+          "label": "Extension de l'usine de traitement d'eau potable de La Saussaye - Sours (28)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103277",
+          "score": 0.33095090380243136
+        },
+        {
+          "id": "26-103857",
+          "label": "TRAVAUX EXTENSION ET RENOVATION DES RESEAUX D'ASSAINISSEMENT ET D'ALIMENTATION EN EAU POTABLE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103857",
+          "score": 0.2719375725453825
+        },
+        {
+          "id": "26-103808",
+          "label": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103808",
+          "score": 0.24552335534384553
+        },
+        {
+          "id": "26-103874",
+          "label": "La présente consultation concerne les travaux de renforcement, de renouvellement et d'extension des réseaux d'eau potable du syndicat intercommunal des eaux de la Région de Sennece",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103874",
+          "score": 0.1700628189993191
+        },
+        {
+          "id": "26-103943",
+          "label": "Elaboration du plan de gestion stratégique des zones humides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103943",
+          "score": 0.1334053043999351
+        }
+      ]
+    },
+    {
+      "query": "Construction de vestiaires de football",
+      "form": "proche",
+      "target": "26-103852",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103852",
+          "label": "Construction de vestiaires de football",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103852",
+          "score": 0.4841561607063971
+        },
+        {
+          "id": "26-103865",
+          "label": "Construction d'un centre d'incendie et de secours à Feurs",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103865",
+          "score": 0.3342608221511205
+        },
+        {
+          "id": "26-103872",
+          "label": "Construction de la capitainerie du Port de Bonifacio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103872",
+          "score": 0.21381188913541554
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.183129418535406
+        },
+        {
+          "id": "26-103295",
+          "label": "Accord-cadre à bons de commande pour des prestations de maîtrise d'oeuvre démolition-déconstruction",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103295",
+          "score": 0.18050740273360605
+        }
+      ]
+    },
+    {
+      "query": "bâtiment pour que les joueurs de foot se changent",
+      "form": "reformulee",
+      "target": "26-103852",
+      "method": "caracteres",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "26-103773",
+          "label": "Travaux de renouvellement d’installations de rafraichissement, de ventilation et de Gestion Technique du Bâtiment à la Chambre d’agriculture de région - Changé (53).",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103773",
+          "score": 0.2370796898772147
+        },
+        {
+          "id": "26-103852",
+          "label": "Construction de vestiaires de football",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103852",
+          "score": 0.1461063047575059
+        },
+        {
+          "id": "26-103277",
+          "label": "Extension de l'usine de traitement d'eau potable de La Saussaye - Sours (28)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103277",
+          "score": 0.14017650088552405
+        },
+        {
+          "id": "26-103807",
+          "label": "MAITRE D’ŒUVRE DES TRAVAUX DE SECURISATION DU BATIMENT « COLLEGE » DU MUSEE DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103807",
+          "score": 0.13652076039838404
+        },
+        {
+          "id": "26-103958",
+          "label": "Travaux de réaménagement des locaux du bâtiment C : Phase 4 (Aile OUEST)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103958",
+          "score": 0.12001724557082576
+        }
+      ]
+    },
+    {
+      "query": "Acquisition et maintenance du système de vidéoprotection II",
+      "form": "proche",
+      "target": "26-103742",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.6232900479041829
+        },
+        {
+          "id": "26-103736",
+          "label": "Acquisition de véhicules neufs au profit des directions et services du Ministère de l’Intérieur placés sous l’autorité du préfet de la Guyane",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103736",
+          "score": 0.24255149035757062
+        },
+        {
+          "id": "26-103825",
+          "label": "Maintenance préventive et corrective des installations de traitement d'eau du Centre Hospitalier de Brive",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103825",
+          "score": 0.21074748288539502
+        },
+        {
+          "id": "26-103849",
+          "label": "LLD ET MAINTENANCE DES VEHICULES DU CDL",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103849",
+          "score": 0.19231818003802986
+        },
+        {
+          "id": "26-103810",
+          "label": "Acquisition de lances, accessoires et pièces détachées",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103810",
+          "score": 0.18546797800679596
+        }
+      ]
+    },
+    {
+      "query": "installer et entretenir des caméras de surveillance",
+      "form": "reformulee",
+      "target": "26-103742",
+      "method": "caracteres",
+      "rank": 3,
+      "top5": [
+        {
+          "id": "26-103904",
+          "label": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103904",
+          "score": 0.2515060619231671
+        },
+        {
+          "id": "26-103944",
+          "label": "Prestations De Mise En Securite Des Personnes Et Des Biens Pour Le Siege  De La Delegation Ile-De-France Situe A Pantin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103944",
+          "score": 0.20275222493898365
+        },
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.19319536741074422
+        },
+        {
+          "id": "26-103825",
+          "label": "Maintenance préventive et corrective des installations de traitement d'eau du Centre Hospitalier de Brive",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103825",
+          "score": 0.15651989298414154
+        },
+        {
+          "id": "26-103229",
+          "label": "Exploitation des installations de chauffage, d'eau chaude sanitaire, de ventilation et de climatisation.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103229",
+          "score": 0.12517421982056948
+        }
+      ]
+    },
+    {
+      "query": "Travaux, entretien et réfection d'étanchéité et de couverture, zinguerie pour l'Ensa-Pb",
+      "form": "proche",
+      "target": "26-103828",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103828",
+          "label": "Travaux, entretien et réfection d'étanchéité et de couverture, zinguerie pour l'Ensa-Pb",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103828",
+          "score": 0.8825061697767187
+        },
+        {
+          "id": "26-103818",
+          "label": "REHABILITATION PETIT CHASSAGNON C&D E&F – LOT 01 ETANCHEITE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103818",
+          "score": 0.25989090263074766
+        },
+        {
+          "id": "26-103955",
+          "label": "TRAVAUX DE RESTAURATION DE L'EGLISE DU CENTRE DE ROCHECOLOMBE (07)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103955",
+          "score": 0.21783887979153452
+        },
+        {
+          "id": "26-103860",
+          "label": "Travaux de réfection des équipements de CVC et de remise à niveau de la GTB de l'immeuble 8 Place d'Iéna, Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103860",
+          "score": 0.14602129536363934
+        },
+        {
+          "id": "26-103948",
+          "label": "Convention de participation pour la mise en oeuvre d'une couverture complémentaire de prévoyance du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103948",
+          "score": 0.13164714508323555
+        }
+      ]
+    },
+    {
+      "query": "réparer les toits et empêcher les infiltrations",
+      "form": "reformulee",
+      "target": "26-103828",
+      "method": "caracteres",
+      "rank": 79,
+      "top5": [
+        {
+          "id": "26-103935",
+          "label": "Fourniture et livraison de repas pour les services municipaux en liaison froide",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103935",
+          "score": 0.1444696025146911
+        },
+        {
+          "id": "26-103934",
+          "label": "Travaux de réparation du pont BJ8 à Bourgoin Jallieu (38)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103934",
+          "score": 0.11969776060064044
+        },
+        {
+          "id": "26-103771",
+          "label": "Prestations de traiteur pour la Région des Pays de la Loire - Lot 5 : Prestations dans le département de la Vendée",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103771",
+          "score": 0.10655480696390217
+        },
+        {
+          "id": "26-103938",
+          "label": "Réalisation des bilans des émissions de gaz à effet de serre 2024, 2025 et 2026 et quantification des émissions (évitées et de séquestration de carbone) associées aux projets de la feuille de route cl",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103938",
+          "score": 0.09558696628733152
+        },
+        {
+          "id": "26-103760",
+          "label": "Elaboration, actualisation du document d'information communale sur les risques majeurs (DICRIM).",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103760",
+          "score": 0.09405138492115137
+        }
+      ]
+    },
+    {
+      "query": "Fournitures scolaires",
+      "form": "proche",
+      "target": "26-103846",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103846",
+          "label": "Fournitures scolaires",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103846",
+          "score": 0.6495441880404356
+        },
+        {
+          "id": "26-103779",
+          "label": "Fourniture et acheminement gaz-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103779",
+          "score": 0.28130374737275377
+        },
+        {
+          "id": "26-103778",
+          "label": "Fourniture et acheminement électricité-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103778",
+          "score": 0.2413043211775721
+        },
+        {
+          "id": "26-103868",
+          "label": "Fourniture, installation et location avec option d’achat d’un parking modulaire préfabriqué",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103868",
+          "score": 0.20461667308889542
+        },
+        {
+          "id": "26-103931",
+          "label": "Fourniture de titres restaurant",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103931",
+          "score": 0.20059869979346942
+        }
+      ]
+    },
+    {
+      "query": "cahiers stylos et matériel pour les élèves",
+      "form": "reformulee",
+      "target": "26-103846",
+      "method": "caracteres",
+      "rank": 52,
+      "top5": [
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.3721661843754053
+        },
+        {
+          "id": "26-103837",
+          "label": "LOCATION D'ENGINS DE CHANTIER AVEC CONDUCTEUR POUR DES TRAVAUX EN URGENCE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103837",
+          "score": 0.16835732483519794
+        },
+        {
+          "id": "26-103810",
+          "label": "Acquisition de lances, accessoires et pièces détachées",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103810",
+          "score": 0.15930999808500784
+        },
+        {
+          "id": "26-103947",
+          "label": "Accord-cadre à bons de commande pour la fourniture et la livraison d'enrobés à froid",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103947",
+          "score": 0.12354588814900527
+        },
+        {
+          "id": "26-103854",
+          "label": "CONCEPTION, FOURNITURES, ASSEMBLAGE, PROGRAMMATION, INSTALLATION, MISE EN SERVICE ET FORMATION POUR UN PILOTE HYDROGENE (H2",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103854",
+          "score": 0.11850731528424434
+        }
+      ]
+    },
+    {
+      "query": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+      "form": "proche",
+      "target": "26-103889",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103889",
+          "label": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103889",
+          "score": 0.8592206049939908
+        },
+        {
+          "id": "26-103832",
+          "label": "Prestations relatives aux contrôles des installations d'assainissement non collectif",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103832",
+          "score": 0.1402219710737565
+        },
+        {
+          "id": "26-103771",
+          "label": "Prestations de traiteur pour la Région des Pays de la Loire - Lot 5 : Prestations dans le département de la Vendée",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103771",
+          "score": 0.11433181934211026
+        },
+        {
+          "id": "26-103768",
+          "label": "Etude de projet d'extension et de modernisation des réseaux collectifs et des capacités d'irrigation du Bergeracois",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103768",
+          "score": 0.11158162860665459
+        },
+        {
+          "id": "26-103783",
+          "label": "Marché de prestations de collecte, de transport et de comptage de fonds pour les parcs de stationnement de la REGIE PARCS D'AZUR",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103783",
+          "score": 0.11049816769648325
+        }
+      ]
+    },
+    {
+      "query": "produire des films et des animations graphiques",
+      "form": "reformulee",
+      "target": "26-103889",
+      "method": "caracteres",
+      "rank": 31,
+      "top5": [
+        {
+          "id": "26-103821",
+          "label": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103821",
+          "score": 0.16999040430194629
+        },
+        {
+          "id": "26-103796",
+          "label": "Prestation d’analyse des données sur la consommation des pôles commerciaux stratégiques",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103796",
+          "score": 0.1351319626825637
+        },
+        {
+          "id": "26-103735",
+          "label": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103735",
+          "score": 0.12440674554550442
+        },
+        {
+          "id": "26-103808",
+          "label": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103808",
+          "score": 0.11408289949173296
+        },
+        {
+          "id": "26-103806",
+          "label": "Mission d'accompagnement stratégique et de relations publiques",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103806",
+          "score": 0.11318351274262436
+        }
+      ]
+    },
+    {
+      "query": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+      "form": "proche",
+      "target": "26-103735",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103735",
+          "label": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103735",
+          "score": 0.919383942038533
+        },
+        {
+          "id": "26-103937",
+          "label": "Maintenance, dépannage et création de fermetures et automatismes des bâtiments communaux de la ville de La Grande Motte et travaux associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103937",
+          "score": 0.23525678784680065
+        },
+        {
+          "id": "26-103880",
+          "label": "Mission de maîtrise d'oeuvre pour les travaux de remise en conformité trentenaire des installations d'extinction automatique type sprinkler sur le site des pyramides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103880",
+          "score": 0.1914886285194946
+        },
+        {
+          "id": "26-103825",
+          "label": "Maintenance préventive et corrective des installations de traitement d'eau du Centre Hospitalier de Brive",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103825",
+          "score": 0.1554814826367954
+        },
+        {
+          "id": "26-103879",
+          "label": "Maintenance préventive et curative, comprenant pièces et main d'oeuvre, des équipements de contrôle d'accès, de péage et d'interphonie des parkings gérés par la Régie Municipale Pou",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103879",
+          "score": 0.13698491825714776
+        }
+      ]
+    },
+    {
+      "query": "réparer les portails électriques",
+      "form": "reformulee",
+      "target": "26-103735",
+      "method": "caracteres",
+      "rank": 2,
+      "top5": [
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.3724974956978841
+        },
+        {
+          "id": "26-103735",
+          "label": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103735",
+          "score": 0.35008004538832216
+        },
+        {
+          "id": "26-103780",
+          "label": "TRAVAUX DE DEPLOIEMENT D'UN PREMIER RESEAU DE MOBILITE ELECTRIQUE A RECHARGE SOLAIRE SUR LE TERRITOIRE DU SUD DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103780",
+          "score": 0.17373892407834102
+        },
+        {
+          "id": "26-103778",
+          "label": "Fourniture et acheminement électricité-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103778",
+          "score": 0.17322778546945425
+        },
+        {
+          "id": "26-103241",
+          "label": "Maintenance préventive et corrective des groupes électrogènes de la Régie de l'Eau Bordeaux Métropole",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103241",
+          "score": 0.12014363467377301
+        }
+      ]
+    },
+    {
+      "query": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+      "form": "proche",
+      "target": "26-103821",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103821",
+          "label": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103821",
+          "score": 0.9283322515267287
+        },
+        {
+          "id": "26-103933",
+          "label": "Services d'assurances pour la Caisse des Écoles de CAUDRY",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103933",
+          "score": 0.24810273584139295
+        },
+        {
+          "id": "26-103260",
+          "label": "Prestation de services d'assurances - Ville et CCAS de Pont de l'Arche",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103260",
+          "score": 0.16692699747121106
+        },
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.15944878890136432
+        },
+        {
+          "id": "26-103847",
+          "label": "Convention de participation pour la mise en oeuvre d'une complémentaire santé du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103847",
+          "score": 0.13531949512199434
+        }
+      ]
+    },
+    {
+      "query": "organiser une fête pour les salariés",
+      "form": "reformulee",
+      "target": "26-103821",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103821",
+          "label": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103821",
+          "score": 0.23835014800616489
+        },
+        {
+          "id": "26-103272",
+          "label": "Accord-cadre à bons de commande et marchés subséquents pour des prestations d'économistes et de programmistes. RELANCE du LOT 3 : Marché à bon de commande pour une mission d'Assistance à Maîtrise d...",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103272",
+          "score": 0.07583476300340383
+        },
+        {
+          "id": "26-103880",
+          "label": "Mission de maîtrise d'oeuvre pour les travaux de remise en conformité trentenaire des installations d'extinction automatique type sprinkler sur le site des pyramides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103880",
+          "score": 0.06426902050673665
+        },
+        {
+          "id": "26-103850",
+          "label": "Passation de marchés d’assurances pour les besoins de la ville d’Escaudœuvres",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103850",
+          "score": 0.05635043482094215
+        },
+        {
+          "id": "26-103743",
+          "label": "Exploitation de 7 déchèteries-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103743",
+          "score": 0.05519280863349923
+        }
+      ]
+    },
+    {
+      "query": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+      "form": "proche",
+      "target": "26-103835",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103835",
+          "label": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103835",
+          "score": 0.8988828976149607
+        },
+        {
+          "id": "26-103847",
+          "label": "Convention de participation pour la mise en oeuvre d'une complémentaire santé du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103847",
+          "score": 0.11668605482878328
+        },
+        {
+          "id": "26-103948",
+          "label": "Convention de participation pour la mise en oeuvre d'une couverture complémentaire de prévoyance du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103948",
+          "score": 0.1135523525292636
+        },
+        {
+          "id": "26-103931",
+          "label": "Fourniture de titres restaurant",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103931",
+          "score": 0.09958963356054377
+        },
+        {
+          "id": "26-103957",
+          "label": "Fourniture de bacs gastronormes et de couvercles en acier inoxydable",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103957",
+          "score": 0.0943296057236197
+        }
+      ]
+    },
+    {
+      "query": "restaurer une sculpture de fontaine en pierre",
+      "form": "reformulee",
+      "target": "26-103835",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103835",
+          "label": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103835",
+          "score": 0.4610031846412186
+        },
+        {
+          "id": "26-103931",
+          "label": "Fourniture de titres restaurant",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103931",
+          "score": 0.1975394531421023
+        },
+        {
+          "id": "26-103816",
+          "label": "Immeuble des Bons Enfants – Travaux de mise en sécurité - Façade principale et structure",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103816",
+          "score": 0.11231464165212995
+        },
+        {
+          "id": "26-103957",
+          "label": "Fourniture de bacs gastronormes et de couvercles en acier inoxydable",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103957",
+          "score": 0.11044002134438985
+        },
+        {
+          "id": "26-103948",
+          "label": "Convention de participation pour la mise en oeuvre d'une couverture complémentaire de prévoyance du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103948",
+          "score": 0.08983377163760639
+        }
+      ]
+    },
+    {
+      "query": "Marché de fourniture de matériel électrique",
+      "form": "proche",
+      "target": "26-103870",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.8846537447002196
+        },
+        {
+          "id": "26-103778",
+          "label": "Fourniture et acheminement électricité-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103778",
+          "score": 0.39474991416497407
+        },
+        {
+          "id": "26-103779",
+          "label": "Fourniture et acheminement gaz-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103779",
+          "score": 0.3404355015962415
+        },
+        {
+          "id": "26-103780",
+          "label": "TRAVAUX DE DEPLOIEMENT D'UN PREMIER RESEAU DE MOBILITE ELECTRIQUE A RECHARGE SOLAIRE SUR LE TERRITOIRE DU SUD DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103780",
+          "score": 0.2007003869524434
+        },
+        {
+          "id": "26-103947",
+          "label": "Accord-cadre à bons de commande pour la fourniture et la livraison d'enrobés à froid",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103947",
+          "score": 0.1883717511629275
+        }
+      ]
+    },
+    {
+      "query": "vendre du matériel pour les installations électriques",
+      "form": "reformulee",
+      "target": "26-103870",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.610068219672844
+        },
+        {
+          "id": "26-103854",
+          "label": "CONCEPTION, FOURNITURES, ASSEMBLAGE, PROGRAMMATION, INSTALLATION, MISE EN SERVICE ET FORMATION POUR UN PILOTE HYDROGENE (H2",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103854",
+          "score": 0.18258792374630697
+        },
+        {
+          "id": "26-103832",
+          "label": "Prestations relatives aux contrôles des installations d'assainissement non collectif",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103832",
+          "score": 0.18131785833554367
+        },
+        {
+          "id": "26-103778",
+          "label": "Fourniture et acheminement électricité-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103778",
+          "score": 0.17261630641590056
+        },
+        {
+          "id": "26-103780",
+          "label": "TRAVAUX DE DEPLOIEMENT D'UN PREMIER RESEAU DE MOBILITE ELECTRIQUE A RECHARGE SOLAIRE SUR LE TERRITOIRE DU SUD DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103780",
+          "score": 0.17032625747627425
+        }
+      ]
+    },
+    {
+      "query": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+      "form": "proche",
+      "target": "26-103904",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103904",
+          "label": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103904",
+          "score": 0.8999631574970255
+        },
+        {
+          "id": "26-103944",
+          "label": "Prestations De Mise En Securite Des Personnes Et Des Biens Pour Le Siege  De La Delegation Ile-De-France Situe A Pantin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103944",
+          "score": 0.4560657640915083
+        },
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.20941036688238268
+        },
+        {
+          "id": "26-103796",
+          "label": "Prestation d’analyse des données sur la consommation des pôles commerciaux stratégiques",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103796",
+          "score": 0.13322889207252506
+        },
+        {
+          "id": "26-103272",
+          "label": "Accord-cadre à bons de commande et marchés subséquents pour des prestations d'économistes et de programmistes. RELANCE du LOT 3 : Marché à bon de commande pour une mission d'Assistance à Maîtrise d...",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103272",
+          "score": 0.12263061654015743
+        }
+      ]
+    },
+    {
+      "query": "agents pour surveiller plusieurs bâtiments",
+      "form": "reformulee",
+      "target": "26-103904",
+      "method": "caracteres",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103904",
+          "label": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103904",
+          "score": 0.1746536769932508
+        },
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.1510672730572215
+        },
+        {
+          "id": "26-103937",
+          "label": "Maintenance, dépannage et création de fermetures et automatismes des bâtiments communaux de la ville de La Grande Motte et travaux associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103937",
+          "score": 0.13749977766848162
+        },
+        {
+          "id": "26-103944",
+          "label": "Prestations De Mise En Securite Des Personnes Et Des Biens Pour Le Siege  De La Delegation Ile-De-France Situe A Pantin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103944",
+          "score": 0.13261288352224684
+        },
+        {
+          "id": "26-103958",
+          "label": "Travaux de réaménagement des locaux du bâtiment C : Phase 4 (Aile OUEST)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103958",
+          "score": 0.12373358511687904
+        }
+      ]
+    },
+    {
+      "query": "Marché de travaux de construction d'un mur de soutènement",
+      "form": "proche",
+      "target": "26-103762",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.9835304617881775
+        },
+        {
+          "id": "26-103860",
+          "label": "Travaux de réfection des équipements de CVC et de remise à niveau de la GTB de l'immeuble 8 Place d'Iéna, Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103860",
+          "score": 0.6073417067527771
+        },
+        {
+          "id": "26-103934",
+          "label": "Travaux de réparation du pont BJ8 à Bourgoin Jallieu (38)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103934",
+          "score": 0.5929437875747681
+        },
+        {
+          "id": "26-103865",
+          "label": "Construction d'un centre d'incendie et de secours à Feurs",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103865",
+          "score": 0.533341109752655
+        },
+        {
+          "id": "26-103958",
+          "label": "Travaux de réaménagement des locaux du bâtiment C : Phase 4 (Aile OUEST)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103958",
+          "score": 0.5262101888656616
+        }
+      ]
+    },
+    {
+      "query": "construire un mur pour retenir les terres",
+      "form": "reformulee",
+      "target": "26-103762",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.6649160385131836
+        },
+        {
+          "id": "26-103958",
+          "label": "Travaux de réaménagement des locaux du bâtiment C : Phase 4 (Aile OUEST)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103958",
+          "score": 0.5489272475242615
+        },
+        {
+          "id": "26-103855",
+          "label": "Marché de travaux pour l'opération d’aménagements du campus Carreire – Rue Hoffmann-Martinot / Eugene Jacquet",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103855",
+          "score": 0.5153546333312988
+        },
+        {
+          "id": "26-103816",
+          "label": "Immeuble des Bons Enfants – Travaux de mise en sécurité - Façade principale et structure",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103816",
+          "score": 0.48034554719924927
+        },
+        {
+          "id": "26-103937",
+          "label": "Maintenance, dépannage et création de fermetures et automatismes des bâtiments communaux de la ville de La Grande Motte et travaux associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103937",
+          "score": 0.47611004114151
+        }
+      ]
+    },
+    {
+      "query": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+      "form": "proche",
+      "target": "26-103808",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103808",
+          "label": "ETUDE DE DELIMITATION DE 2 AIRES D'ALIMENTATION DE CAPTAGE (AAC) EAU POTABLE ET CARTOGRAPHIE DES VULNERABILITES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103808",
+          "score": 0.8471917510032654
+        },
+        {
+          "id": "26-103817",
+          "label": "Rénovation de la production et distribution ECS\r\n1035 - Résidence Les Champs Philippe - LA GARENNE COLOMBES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103817",
+          "score": 0.6405256390571594
+        },
+        {
+          "id": "26-103906",
+          "label": "MARCHE D'EXPLOITATION DES INSTALLATIONS DE PRODUCTION, DE DISTRIBUTION DE CHAUFFAGE ET D'EAU CHAUDE SANITAIRE COLLECTIVES, DE VENTILATION DE LA RÉSIDENCE AUTONOMIE GABRIEL DANGIEN",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103906",
+          "score": 0.6396228671073914
+        },
+        {
+          "id": "26-103807",
+          "label": "MAITRE D’ŒUVRE DES TRAVAUX DE SECURISATION DU BATIMENT « COLLEGE » DU MUSEE DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103807",
+          "score": 0.6324487328529358
+        },
+        {
+          "id": "26-103841",
+          "label": "Marche De Travaux Pour La Restructuration De L'Ancienne Mairie En Maison Du Village A Houlbec Cocherel (27)\nEure Amenagement Developpement, Mandataire de la Commune de Houlbec",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103841",
+          "score": 0.6171043515205383
+        }
+      ]
+    },
+    {
+      "query": "protéger les zones qui alimentent les sources d’eau potable",
+      "form": "reformulee",
+      "target": "26-103808",
+      "method": "semantique",
+      "rank": 17,
+      "top5": [
+        {
+          "id": "26-103825",
+          "label": "Maintenance préventive et corrective des installations de traitement d'eau du Centre Hospitalier de Brive",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103825",
+          "score": 0.6669808030128479
+        },
+        {
+          "id": "26-103943",
+          "label": "Elaboration du plan de gestion stratégique des zones humides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103943",
+          "score": 0.6070884466171265
+        },
+        {
+          "id": "26-103874",
+          "label": "La présente consultation concerne les travaux de renforcement, de renouvellement et d'extension des réseaux d'eau potable du syndicat intercommunal des eaux de la Région de Sennece",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103874",
+          "score": 0.6010739207267761
+        },
+        {
+          "id": "26-103907",
+          "label": "Installation de nouveaux canaux de comptage eaux traitées – STEP de Kerpont à Lanester",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103907",
+          "score": 0.5926641225814819
+        },
+        {
+          "id": "26-103229",
+          "label": "Exploitation des installations de chauffage, d'eau chaude sanitaire, de ventilation et de climatisation.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103229",
+          "score": 0.5903559923171997
+        }
+      ]
+    },
+    {
+      "query": "Construction de vestiaires de football",
+      "form": "proche",
+      "target": "26-103852",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103852",
+          "label": "Construction de vestiaires de football",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103852",
+          "score": 0.8202277421951294
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.5609245896339417
+        },
+        {
+          "id": "26-103924",
+          "label": "Prestations de service d'entretien et de maintenance préventive et curative des bornes de gonflage de la Ville de Neuilly-sur-Seine",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103924",
+          "score": 0.5337600708007812
+        },
+        {
+          "id": "26-103860",
+          "label": "Travaux de réfection des équipements de CVC et de remise à niveau de la GTB de l'immeuble 8 Place d'Iéna, Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103860",
+          "score": 0.5194335579872131
+        },
+        {
+          "id": "26-103810",
+          "label": "Acquisition de lances, accessoires et pièces détachées",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103810",
+          "score": 0.4758376181125641
+        }
+      ]
+    },
+    {
+      "query": "bâtiment pour que les joueurs de foot se changent",
+      "form": "reformulee",
+      "target": "26-103852",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103852",
+          "label": "Construction de vestiaires de football",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103852",
+          "score": 0.6249183416366577
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.4527168273925781
+        },
+        {
+          "id": "26-103827",
+          "label": "AMENAGEMENT D’UN PLATEAU SURELEVE ROUTE D’HAREE AU DROIT DU FUTUR PARKING DU JIVAHILL",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103827",
+          "score": 0.4011678397655487
+        },
+        {
+          "id": "26-103909",
+          "label": "Mission de maîtrise d’œuvre en vue des travaux de rafraîchissement et de modernisation des locaux – 3 lots",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103909",
+          "score": 0.4006038308143616
+        },
+        {
+          "id": "26-103932",
+          "label": "Travaux d'Extension – Rénovation du Multi-accueil \"LES MISTOUFLETS\"",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103932",
+          "score": 0.39711669087409973
+        }
+      ]
+    },
+    {
+      "query": "Acquisition et maintenance du système de vidéoprotection II",
+      "form": "proche",
+      "target": "26-103742",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.9050930142402649
+        },
+        {
+          "id": "26-103889",
+          "label": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103889",
+          "score": 0.572622537612915
+        },
+        {
+          "id": "26-103831",
+          "label": "Prestation d'accueil à la Cité numérique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103831",
+          "score": 0.3289356827735901
+        },
+        {
+          "id": "26-103266",
+          "label": "Evolutions applicatives et maintien en conditions opérationnelles du logiciel libre « Bien VU » pour la gestion des signalements avec son framework Lutèce",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103266",
+          "score": 0.29986727237701416
+        },
+        {
+          "id": "26-103833",
+          "label": "Acces Internet, Telephonie Ip & Maintenance Reseau De La Pepiniere D'Entreprises Creativa",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103833",
+          "score": 0.27196118235588074
+        }
+      ]
+    },
+    {
+      "query": "installer et entretenir des caméras de surveillance",
+      "form": "reformulee",
+      "target": "26-103742",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.6363990902900696
+        },
+        {
+          "id": "26-103889",
+          "label": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103889",
+          "score": 0.49154481291770935
+        },
+        {
+          "id": "26-103904",
+          "label": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103904",
+          "score": 0.4657291769981384
+        },
+        {
+          "id": "26-103780",
+          "label": "TRAVAUX DE DEPLOIEMENT D'UN PREMIER RESEAU DE MOBILITE ELECTRIQUE A RECHARGE SOLAIRE SUR LE TERRITOIRE DU SUD DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103780",
+          "score": 0.34912580251693726
+        },
+        {
+          "id": "26-103234",
+          "label": "Mobilier, pièces détachées et accessoires pour ledit mobilier du CHI-EPSM de l'Oise.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103234",
+          "score": 0.33496004343032837
+        }
+      ]
+    },
+    {
+      "query": "Travaux, entretien et réfection d'étanchéité et de couverture, zinguerie pour l'Ensa-Pb",
+      "form": "proche",
+      "target": "26-103828",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103828",
+          "label": "Travaux, entretien et réfection d'étanchéité et de couverture, zinguerie pour l'Ensa-Pb",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103828",
+          "score": 0.9039178490638733
+        },
+        {
+          "id": "26-103295",
+          "label": "Accord-cadre à bons de commande pour des prestations de maîtrise d'oeuvre démolition-déconstruction",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103295",
+          "score": 0.5816896557807922
+        },
+        {
+          "id": "26-103909",
+          "label": "Mission de maîtrise d’œuvre en vue des travaux de rafraîchissement et de modernisation des locaux – 3 lots",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103909",
+          "score": 0.5670082569122314
+        },
+        {
+          "id": "26-103860",
+          "label": "Travaux de réfection des équipements de CVC et de remise à niveau de la GTB de l'immeuble 8 Place d'Iéna, Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103860",
+          "score": 0.545903742313385
+        },
+        {
+          "id": "26-103932",
+          "label": "Travaux d'Extension – Rénovation du Multi-accueil \"LES MISTOUFLETS\"",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103932",
+          "score": 0.5078309178352356
+        }
+      ]
+    },
+    {
+      "query": "réparer les toits et empêcher les infiltrations",
+      "form": "reformulee",
+      "target": "26-103828",
+      "method": "semantique",
+      "rank": 42,
+      "top5": [
+        {
+          "id": "26-103958",
+          "label": "Travaux de réaménagement des locaux du bâtiment C : Phase 4 (Aile OUEST)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103958",
+          "score": 0.6433504223823547
+        },
+        {
+          "id": "26-103773",
+          "label": "Travaux de renouvellement d’installations de rafraichissement, de ventilation et de Gestion Technique du Bâtiment à la Chambre d’agriculture de région - Changé (53).",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103773",
+          "score": 0.6102009415626526
+        },
+        {
+          "id": "26-103949",
+          "label": "Remplacement de la centrale photovoltaïque en toiture des bâtiments D et E du site IMV Technologies à Saint-Ouen-sur-Iton (61)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103949",
+          "score": 0.5496231913566589
+        },
+        {
+          "id": "26-103937",
+          "label": "Maintenance, dépannage et création de fermetures et automatismes des bâtiments communaux de la ville de La Grande Motte et travaux associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103937",
+          "score": 0.5429611206054688
+        },
+        {
+          "id": "26-103832",
+          "label": "Prestations relatives aux contrôles des installations d'assainissement non collectif",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103832",
+          "score": 0.5416450500488281
+        }
+      ]
+    },
+    {
+      "query": "Fournitures scolaires",
+      "form": "proche",
+      "target": "26-103846",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103846",
+          "label": "Fournitures scolaires",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103846",
+          "score": 0.9515320062637329
+        },
+        {
+          "id": "26-103910",
+          "label": "Remplacement d’adoucisseurs et d’éléments associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103910",
+          "score": 0.5267706513404846
+        },
+        {
+          "id": "26-103807",
+          "label": "MAITRE D’ŒUVRE DES TRAVAUX DE SECURISATION DU BATIMENT « COLLEGE » DU MUSEE DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103807",
+          "score": 0.5211219787597656
+        },
+        {
+          "id": "26-103816",
+          "label": "Immeuble des Bons Enfants – Travaux de mise en sécurité - Façade principale et structure",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103816",
+          "score": 0.49281543493270874
+        },
+        {
+          "id": "26-103931",
+          "label": "Fourniture de titres restaurant",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103931",
+          "score": 0.46276333928108215
+        }
+      ]
+    },
+    {
+      "query": "cahiers stylos et matériel pour les élèves",
+      "form": "reformulee",
+      "target": "26-103846",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103846",
+          "label": "Fournitures scolaires",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103846",
+          "score": 0.5916944146156311
+        },
+        {
+          "id": "26-103234",
+          "label": "Mobilier, pièces détachées et accessoires pour ledit mobilier du CHI-EPSM de l'Oise.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103234",
+          "score": 0.4534499943256378
+        },
+        {
+          "id": "26-103910",
+          "label": "Remplacement d’adoucisseurs et d’éléments associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103910",
+          "score": 0.4504406452178955
+        },
+        {
+          "id": "26-103807",
+          "label": "MAITRE D’ŒUVRE DES TRAVAUX DE SECURISATION DU BATIMENT « COLLEGE » DU MUSEE DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103807",
+          "score": 0.4076897203922272
+        },
+        {
+          "id": "26-103828",
+          "label": "Travaux, entretien et réfection d'étanchéité et de couverture, zinguerie pour l'Ensa-Pb",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103828",
+          "score": 0.40468141436576843
+        }
+      ]
+    },
+    {
+      "query": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+      "form": "proche",
+      "target": "26-103889",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103889",
+          "label": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103889",
+          "score": 0.9701540470123291
+        },
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.5870486497879028
+        },
+        {
+          "id": "26-103271",
+          "label": "Conception et réalisation du système audiovisuel des salons du rectorat de l'académie Orléans-Tours",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103271",
+          "score": 0.4613361358642578
+        },
+        {
+          "id": "26-103831",
+          "label": "Prestation d'accueil à la Cité numérique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103831",
+          "score": 0.4072837233543396
+        },
+        {
+          "id": "26-103821",
+          "label": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103821",
+          "score": 0.36703288555145264
+        }
+      ]
+    },
+    {
+      "query": "produire des films et des animations graphiques",
+      "form": "reformulee",
+      "target": "26-103889",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103889",
+          "label": "Réalisation de prestations vidéo pour Tisséo Collectivités (vidéo et/ou en motion design)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103889",
+          "score": 0.6592923402786255
+        },
+        {
+          "id": "26-103821",
+          "label": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103821",
+          "score": 0.43435752391815186
+        },
+        {
+          "id": "26-103742",
+          "label": "Acquisition et maintenance du système de vidéoprotection II",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103742",
+          "score": 0.4219023585319519
+        },
+        {
+          "id": "26-103234",
+          "label": "Mobilier, pièces détachées et accessoires pour ledit mobilier du CHI-EPSM de l'Oise.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103234",
+          "score": 0.3673834204673767
+        },
+        {
+          "id": "26-103910",
+          "label": "Remplacement d’adoucisseurs et d’éléments associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103910",
+          "score": 0.3508262634277344
+        }
+      ]
+    },
+    {
+      "query": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+      "form": "proche",
+      "target": "26-103735",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103735",
+          "label": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103735",
+          "score": 0.9737113118171692
+        },
+        {
+          "id": "26-103837",
+          "label": "LOCATION D'ENGINS DE CHANTIER AVEC CONDUCTEUR POUR DES TRAVAUX EN URGENCE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103837",
+          "score": 0.5850573778152466
+        },
+        {
+          "id": "26-103860",
+          "label": "Travaux de réfection des équipements de CVC et de remise à niveau de la GTB de l'immeuble 8 Place d'Iéna, Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103860",
+          "score": 0.5785114765167236
+        },
+        {
+          "id": "26-103937",
+          "label": "Maintenance, dépannage et création de fermetures et automatismes des bâtiments communaux de la ville de La Grande Motte et travaux associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103937",
+          "score": 0.5722581744194031
+        },
+        {
+          "id": "26-103883",
+          "label": "Fourniture et pose d'appareils de climatisations sur la territoire de la communauté de communes des portes euréliennes d'île-de-France",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103883",
+          "score": 0.5540413856506348
+        }
+      ]
+    },
+    {
+      "query": "réparer les portails électriques",
+      "form": "reformulee",
+      "target": "26-103735",
+      "method": "semantique",
+      "rank": 3,
+      "top5": [
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.652620792388916
+        },
+        {
+          "id": "26-103241",
+          "label": "Maintenance préventive et corrective des groupes électrogènes de la Régie de l'Eau Bordeaux Métropole",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103241",
+          "score": 0.4800450801849365
+        },
+        {
+          "id": "26-103735",
+          "label": "Maintenance des portes, portails et barrières automatiques et semi-automatiques d'Eau de Paris",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103735",
+          "score": 0.47344282269477844
+        },
+        {
+          "id": "26-103780",
+          "label": "TRAVAUX DE DEPLOIEMENT D'UN PREMIER RESEAU DE MOBILITE ELECTRIQUE A RECHARGE SOLAIRE SUR LE TERRITOIRE DU SUD DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103780",
+          "score": 0.45593884587287903
+        },
+        {
+          "id": "26-103778",
+          "label": "Fourniture et acheminement électricité-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103778",
+          "score": 0.4557494819164276
+        }
+      ]
+    },
+    {
+      "query": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+      "form": "proche",
+      "target": "26-103821",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103821",
+          "label": "MAFA N°26.701.01: ORGANISATION ET ANIMATION DE LA FETE DU PERSONNEL DE LA CAISSE PRIMAIRE CENTRALE D'ASSURANCE MALADIE DES BOUCHES-DU-RHONE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103821",
+          "score": 0.9874914884567261
+        },
+        {
+          "id": "26-103827",
+          "label": "AMENAGEMENT D’UN PLATEAU SURELEVE ROUTE D’HAREE AU DROIT DU FUTUR PARKING DU JIVAHILL",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103827",
+          "score": 0.647201418876648
+        },
+        {
+          "id": "26-103807",
+          "label": "MAITRE D’ŒUVRE DES TRAVAUX DE SECURISATION DU BATIMENT « COLLEGE » DU MUSEE DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103807",
+          "score": 0.6087368130683899
+        },
+        {
+          "id": "26-103837",
+          "label": "LOCATION D'ENGINS DE CHANTIER AVEC CONDUCTEUR POUR DES TRAVAUX EN URGENCE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103837",
+          "score": 0.5924332737922668
+        },
+        {
+          "id": "26-103944",
+          "label": "Prestations De Mise En Securite Des Personnes Et Des Biens Pour Le Siege  De La Delegation Ile-De-France Situe A Pantin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103944",
+          "score": 0.5592702031135559
+        }
+      ]
+    },
+    {
+      "query": "organiser une fête pour les salariés",
+      "form": "reformulee",
+      "target": "26-103821",
+      "method": "semantique",
+      "rank": 18,
+      "top5": [
+        {
+          "id": "26-103948",
+          "label": "Convention de participation pour la mise en oeuvre d'une couverture complémentaire de prévoyance du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103948",
+          "score": 0.4840622842311859
+        },
+        {
+          "id": "26-103847",
+          "label": "Convention de participation pour la mise en oeuvre d'une complémentaire santé du personnel de la Ville de Hayange",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103847",
+          "score": 0.4643411636352539
+        },
+        {
+          "id": "26-103865",
+          "label": "Construction d'un centre d'incendie et de secours à Feurs",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103865",
+          "score": 0.43870872259140015
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.40843719244003296
+        },
+        {
+          "id": "26-103909",
+          "label": "Mission de maîtrise d’œuvre en vue des travaux de rafraîchissement et de modernisation des locaux – 3 lots",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103909",
+          "score": 0.3898157775402069
+        }
+      ]
+    },
+    {
+      "query": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+      "form": "proche",
+      "target": "26-103835",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103835",
+          "label": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103835",
+          "score": 0.9920979738235474
+        },
+        {
+          "id": "26-103880",
+          "label": "Mission de maîtrise d'oeuvre pour les travaux de remise en conformité trentenaire des installations d'extinction automatique type sprinkler sur le site des pyramides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103880",
+          "score": 0.52927166223526
+        },
+        {
+          "id": "26-103793",
+          "label": "Marché de maîtrise d’œuvre pour la réalisation d’une nouvelle déchetterie à Ygos-Saint-Saturnin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103793",
+          "score": 0.517028272151947
+        },
+        {
+          "id": "26-103955",
+          "label": "TRAVAUX DE RESTAURATION DE L'EGLISE DU CENTRE DE ROCHECOLOMBE (07)",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103955",
+          "score": 0.5035271644592285
+        },
+        {
+          "id": "26-103817",
+          "label": "Rénovation de la production et distribution ECS\r\n1035 - Résidence Les Champs Philippe - LA GARENNE COLOMBES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103817",
+          "score": 0.4448699951171875
+        }
+      ]
+    },
+    {
+      "query": "restaurer une sculpture de fontaine en pierre",
+      "form": "reformulee",
+      "target": "26-103835",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103835",
+          "label": "Conservation-restauration de la fontaine Sainte-Lucie, oeuvre sculptée en pierre calcaire située cours Napoléon à Ajaccio",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103835",
+          "score": 0.7903281450271606
+        },
+        {
+          "id": "26-103880",
+          "label": "Mission de maîtrise d'oeuvre pour les travaux de remise en conformité trentenaire des installations d'extinction automatique type sprinkler sur le site des pyramides",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103880",
+          "score": 0.528166651725769
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.40145641565322876
+        },
+        {
+          "id": "26-103793",
+          "label": "Marché de maîtrise d’œuvre pour la réalisation d’une nouvelle déchetterie à Ygos-Saint-Saturnin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103793",
+          "score": 0.39347031712532043
+        },
+        {
+          "id": "26-103855",
+          "label": "Marché de travaux pour l'opération d’aménagements du campus Carreire – Rue Hoffmann-Martinot / Eugene Jacquet",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103855",
+          "score": 0.38595184683799744
+        }
+      ]
+    },
+    {
+      "query": "Marché de fourniture de matériel électrique",
+      "form": "proche",
+      "target": "26-103870",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.9615293741226196
+        },
+        {
+          "id": "26-103762",
+          "label": "Marché de travaux de construction d'un mur de soutènement",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103762",
+          "score": 0.6291545629501343
+        },
+        {
+          "id": "26-103780",
+          "label": "TRAVAUX DE DEPLOIEMENT D'UN PREMIER RESEAU DE MOBILITE ELECTRIQUE A RECHARGE SOLAIRE SUR LE TERRITOIRE DU SUD DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103780",
+          "score": 0.6279802322387695
+        },
+        {
+          "id": "26-103241",
+          "label": "Maintenance préventive et corrective des groupes électrogènes de la Régie de l'Eau Bordeaux Métropole",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103241",
+          "score": 0.5852773785591125
+        },
+        {
+          "id": "26-103778",
+          "label": "Fourniture et acheminement électricité-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103778",
+          "score": 0.5760696530342102
+        }
+      ]
+    },
+    {
+      "query": "vendre du matériel pour les installations électriques",
+      "form": "reformulee",
+      "target": "26-103870",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103870",
+          "label": "Marché de fourniture de matériel électrique",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103870",
+          "score": 0.7778395414352417
+        },
+        {
+          "id": "26-103780",
+          "label": "TRAVAUX DE DEPLOIEMENT D'UN PREMIER RESEAU DE MOBILITE ELECTRIQUE A RECHARGE SOLAIRE SUR LE TERRITOIRE DU SUD DE MAYOTTE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103780",
+          "score": 0.5410371422767639
+        },
+        {
+          "id": "26-103743",
+          "label": "Exploitation de 7 déchèteries-.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103743",
+          "score": 0.5388435125350952
+        },
+        {
+          "id": "26-103810",
+          "label": "Acquisition de lances, accessoires et pièces détachées",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103810",
+          "score": 0.517712414264679
+        },
+        {
+          "id": "26-103229",
+          "label": "Exploitation des installations de chauffage, d'eau chaude sanitaire, de ventilation et de climatisation.",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103229",
+          "score": 0.4995977282524109
+        }
+      ]
+    },
+    {
+      "query": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+      "form": "proche",
+      "target": "26-103904",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103904",
+          "label": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103904",
+          "score": 0.962213933467865
+        },
+        {
+          "id": "26-103944",
+          "label": "Prestations De Mise En Securite Des Personnes Et Des Biens Pour Le Siege  De La Delegation Ile-De-France Situe A Pantin",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103944",
+          "score": 0.6321478486061096
+        },
+        {
+          "id": "26-103837",
+          "label": "LOCATION D'ENGINS DE CHANTIER AVEC CONDUCTEUR POUR DES TRAVAUX EN URGENCE",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103837",
+          "score": 0.5345229506492615
+        },
+        {
+          "id": "26-103879",
+          "label": "Maintenance préventive et curative, comprenant pièces et main d'oeuvre, des équipements de contrôle d'accès, de péage et d'interphonie des parkings gérés par la Régie Municipale Pou",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103879",
+          "score": 0.5323222279548645
+        },
+        {
+          "id": "26-103833",
+          "label": "Acces Internet, Telephonie Ip & Maintenance Reseau De La Pepiniere D'Entreprises Creativa",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103833",
+          "score": 0.5135874152183533
+        }
+      ]
+    },
+    {
+      "query": "agents pour surveiller plusieurs bâtiments",
+      "form": "reformulee",
+      "target": "26-103904",
+      "method": "semantique",
+      "rank": 1,
+      "top5": [
+        {
+          "id": "26-103904",
+          "label": "PRESTATIONS DE GARDIENNAGE, SURVEILLANCE ET SECURITE SUR SITES MULTIPLES",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103904",
+          "score": 0.6262263059616089
+        },
+        {
+          "id": "26-103937",
+          "label": "Maintenance, dépannage et création de fermetures et automatismes des bâtiments communaux de la ville de La Grande Motte et travaux associés",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103937",
+          "score": 0.6064138412475586
+        },
+        {
+          "id": "26-103879",
+          "label": "Maintenance préventive et curative, comprenant pièces et main d'oeuvre, des équipements de contrôle d'accès, de péage et d'interphonie des parkings gérés par la Régie Municipale Pou",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103879",
+          "score": 0.5485407114028931
+        },
+        {
+          "id": "26-103855",
+          "label": "Marché de travaux pour l'opération d’aménagements du campus Carreire – Rue Hoffmann-Martinot / Eugene Jacquet",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103855",
+          "score": 0.5472151637077332
+        },
+        {
+          "id": "26-103909",
+          "label": "Mission de maîtrise d’œuvre en vue des travaux de rafraîchissement et de modernisation des locaux – 3 lots",
+          "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103909",
+          "score": 0.5342139005661011
+        }
+      ]
+    }
+  ],
+  "versions": {
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1"
+  }
+}

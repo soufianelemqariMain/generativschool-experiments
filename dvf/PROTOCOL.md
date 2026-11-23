@@ -1,0 +1,5 @@
+# DVF — protocole avant calcul
+
+Pour éviter de publier des adresses de transactions, utiliser les statistiques DVF déjà agrégées par département et mois. Question : peut-on anticiper la médiane mensuelle du prix des maisons au m² à partir de son historique ? Une médiane départementale n’est pas l’estimation d’une maison et varie avec le type de biens vendus.
+
+Garder échelle département, nb_ventes_maison >= 30 et médiane positive. Réindexer les mois, variables décalées de 6, 7 et 12 mois (délai simplifié de publication). Une publication réelle se fait par livraison et peut prendre davantage de temps : rétrospective seulement. Pas de volume contemporain en entrée. Apprentissage jusqu’en 2024, test 2025–dernière période. Forêt 100 arbres profondeur 8 min feuille 10 graine 42, département one-hot, saison cyclique. Comparateurs prix à M−6 et M−12. MAE en €/m², par année et pondérée par ventes en évaluation seulement. Aucun réglage après test. Pas de conseil financier ni valeur individuelle.

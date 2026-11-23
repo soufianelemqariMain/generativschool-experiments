@@ -1,0 +1,55 @@
+{
+  "train_rows": 17322,
+  "test_rows": 14536,
+  "start": "2025-01-01 00:00:00+00:00",
+  "end": "2026-08-31 21:00:00+00:00",
+  "peak_threshold_MW": 64290.5,
+  "metrics": {
+    "veille": {
+      "mae_MW": 2466.5980324711063,
+      "mae_pointes_MW": 2989.1618685497015,
+      "par_annee": {
+        "2025": 2509.718105817682,
+        "2026": 2401.7247587870434
+      }
+    },
+    "semaine": {
+      "mae_MW": 3497.9359865162355,
+      "mae_pointes_MW": 6308.819120043455,
+      "par_annee": {
+        "2025": 3459.365723774622,
+        "2026": 3555.964162646451
+      }
+    },
+    "ridge": {
+      "mae_MW": 2156.158054705359,
+      "mae_pointes_MW": 3107.567584655151,
+      "par_annee": {
+        "2025": 2193.3744336204945,
+        "2026": 2100.1667692665305
+      }
+    },
+    "foret": {
+      "mae_MW": 1521.3250369674936,
+      "mae_pointes_MW": 2612.4430255109273,
+      "par_annee": {
+        "2025": 1537.5893550414487,
+        "2026": 1496.8557010919292
+      }
+    },
+    "rte_j1": {
+      "mae_MW": 1343.0805586130984,
+      "mae_pointes_MW": 1465.6325366648562,
+      "par_annee": {
+        "2025": 1299.382501145213,
+        "2026": 1408.8233976567885
+      }
+    }
+  },
+  "source": {
+    "url": "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/eco2mix-national-cons-def/exports/json?select=date%2Cheure%2Cdate_heure%2Cconsommation%2Cprevision_j1&where=date_heure+%3E%3D+date%272023-01-01%27&order_by=date_heure",
+    "retrieved_utc": "2026-10-26T12:10:50.428695+00:00",
+    "sha256": "df9fce14e5309da505c0c0b7c2864a716df5a13d3d41544667a291960397fdd6",
+    "license": "Licence Ouverte 2.0"
+  }
+}

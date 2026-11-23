@@ -1,0 +1,23 @@
+{
+  "source_rows": 9613,
+  "complete_distribution_services": 7791,
+  "selected_count": 390,
+  "overlap_seeds_count": 354,
+  "overlap_low_yield_count": 175,
+  "yield_median_all": 80.0,
+  "yield_median_selected": 58.5,
+  "flags": {
+    "Verif_P104.3": {
+      "Non vérifié": 8235,
+      "nan": 1371,
+      "Sans anomalie apparente": 7
+    },
+    "Verif_P106.3": {
+      "Non vérifié": 8210,
+      "nan": 1395,
+      "Sans anomalie apparente": 8
+    }
+  },
+  "snapshot_sha256": "dfc5659efd3cf122a72398cfb5b87a734918b5ba20f7a09c70694f1dbd607c23",
+  "status": "exploratoire sans vérité terrain"
+}

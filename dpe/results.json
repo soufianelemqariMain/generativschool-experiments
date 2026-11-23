@@ -1,0 +1,34 @@
+{
+  "train_rows": 1955,
+  "test_rows": 5678,
+  "test_types": {
+    "appartement": 3344,
+    "maison": 2334
+  },
+  "start": "2025-01-03",
+  "end": "2026-01-12",
+  "metrics": {
+    "foret": {
+      "mae": 58.20889640761329,
+      "par_type": {
+        "appartement": 57.58805209707181,
+        "maison": 59.098400852536464
+      }
+    },
+    "mediane": {
+      "mae": 80.40755547728072,
+      "par_type": {
+        "appartement": 79.40657894736842,
+        "maison": 81.8416880891174
+      }
+    }
+  },
+  "unit": "kWh EP/m²/an",
+  "address_overlap": 0,
+  "source": {
+    "url": "https://data.ademe.fr/data-fair/api/v1/datasets/dpe03existant/lines?size=10000&select=numero_dpe%2Cdate_etablissement_dpe%2Cidentifiant_ban%2Ctype_batiment%2Cperiode_construction%2Csurface_habitable_logement%2Csurface_habitable_immeuble%2Ctype_energie_principale_chauffage%2Czone_climatique%2Cclasse_altitude%2Cconso_5_usages_par_m2_ep%2Ccode_departement_ban%2Cqualite_isolation_murs%2Cqualite_isolation_menuiseries",
+    "retrieved_utc": "2026-10-26T12:16:32.325469+00:00",
+    "sha256": "eb978965bffec9b912d6633ae92d42853208751cdcb5a4f89436c40b2326735d",
+    "license": "Licence Ouverte"
+  }
+}

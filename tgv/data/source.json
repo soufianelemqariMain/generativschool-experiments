@@ -1,0 +1,6 @@
+{
+  "url": "https://ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/regularite-mensuelle-tgv-aqst/exports/json?select=date%2Cservice%2Cgare_depart%2Cgare_arrivee%2Cnb_train_prevu%2Cnb_annulation%2Cnb_train_retard_arrivee&order_by=date",
+  "retrieved_utc": "2026-10-26T12:09:02.723008+00:00",
+  "sha256": "43a67cef62511d01c46c4de0b82ee15e62766fc51597d01c9e822c7daad029c0",
+  "license": "ODbL"
+}

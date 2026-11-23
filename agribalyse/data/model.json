@@ -1,0 +1,9 @@
+{
+  "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+  "license": "Apache-2.0",
+  "dimensions": 384,
+  "seconds": 14.733913898468018,
+  "max_sequence_length": 128,
+  "fingerprint": "4eb2c88934b681d196512a3b5430bde680fbeaa88fb8ea663639ab53a71acfbc"
+}

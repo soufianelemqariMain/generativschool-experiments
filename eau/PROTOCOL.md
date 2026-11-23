@@ -1,0 +1,5 @@
+# Eau — protocole avant calcul
+
+SISPEA eau potable 2024, OFB. Illustration d’une détection de profils atypiques, pas localisation de fuite. Variables : rendement P104.3 (%), pertes P106.3 (m³/km/j), abonnés VP.056, longueur VP.077 (km). Garder services distributeurs, quatre valeurs numériques, rendement 0–100, pertes >=0, abonnés et longueur >0. Exclure avis de vérification négatif s’ils sont identifiables et documenter les valeurs. Pas de noms de gestionnaires privés ou contacts publiés.
+
+IsolationForest 200 arbres, contamination .05 (quota choisi, pas fréquence réelle des anomalies), random_state=42. StandardScaler et log1p pour pertes, abonnés, longueur. Refaire graine7, mesurer recouvrement des 5% les plus atypiques ; comparer au même nombre de plus faibles rendements. Pas de vérité terrain : ne pas produire précision/rappel ni parler de fraude ou mauvaise gestion. Statistiques globales et exemples anonymisés. Un grand service peut être atypique sans être défaillant. Données manquantes, déclaratives et performances historiques limitent la portée.
