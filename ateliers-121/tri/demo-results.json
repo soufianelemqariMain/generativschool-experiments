@@ -1,0 +1,61 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "réparation grille pain",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "réparation grille pain petit électroménager",
+      "score": 0.7745966692414833
+    },
+    {
+      "id": "B",
+      "text": "réemploi mobilier bois",
+      "score": 0.0
+    },
+    {
+      "id": "C",
+      "text": "recyclage textile vêtement",
+      "score": 0.0
+    },
+    {
+      "id": "D",
+      "text": "collecte verre emballage",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "bois",
+    "collecte",
+    "electromenager",
+    "emballage",
+    "grille",
+    "mobilier",
+    "pain",
+    "petit",
+    "recyclage",
+    "reemploi",
+    "reparation",
+    "textile",
+    "verre",
+    "vetement"
+  ],
+  "idf": {
+    "bois": 1.916290731874155,
+    "collecte": 1.916290731874155,
+    "electromenager": 1.916290731874155,
+    "emballage": 1.916290731874155,
+    "grille": 1.916290731874155,
+    "mobilier": 1.916290731874155,
+    "pain": 1.916290731874155,
+    "petit": 1.916290731874155,
+    "recyclage": 1.916290731874155,
+    "reemploi": 1.916290731874155,
+    "reparation": 1.916290731874155,
+    "textile": 1.916290731874155,
+    "verre": 1.916290731874155,
+    "vetement": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

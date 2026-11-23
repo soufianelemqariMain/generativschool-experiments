@@ -1,0 +1,61 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "organiser tournées livraison",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "logistique organiser livraison tournées",
+      "score": 0.8660254037844386
+    },
+    {
+      "id": "B",
+      "text": "accueil relation clients vente",
+      "score": 0.0
+    },
+    {
+      "id": "C",
+      "text": "atelier réparation mécanique",
+      "score": 0.0
+    },
+    {
+      "id": "D",
+      "text": "formation enseignement sciences",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "accueil",
+    "atelier",
+    "clients",
+    "enseignement",
+    "formation",
+    "livraison",
+    "logistique",
+    "mecanique",
+    "organiser",
+    "relation",
+    "reparation",
+    "sciences",
+    "tournees",
+    "vente"
+  ],
+  "idf": {
+    "accueil": 1.916290731874155,
+    "atelier": 1.916290731874155,
+    "clients": 1.916290731874155,
+    "enseignement": 1.916290731874155,
+    "formation": 1.916290731874155,
+    "livraison": 1.916290731874155,
+    "logistique": 1.916290731874155,
+    "mecanique": 1.916290731874155,
+    "organiser": 1.916290731874155,
+    "relation": 1.916290731874155,
+    "reparation": 1.916290731874155,
+    "sciences": 1.916290731874155,
+    "tournees": 1.916290731874155,
+    "vente": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

@@ -1,0 +1,25 @@
+{
+  "topic": "aides-publiques",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "rénovation bâtiment public",
+  "documents": [
+    {
+      "id": "A",
+      "text": "rénovation énergétique bâtiment public"
+    },
+    {
+      "id": "B",
+      "text": "mobilité vélo transport"
+    },
+    {
+      "id": "C",
+      "text": "festival culture patrimoine"
+    },
+    {
+      "id": "D",
+      "text": "agriculture biodiversité prairie"
+    }
+  ]
+}

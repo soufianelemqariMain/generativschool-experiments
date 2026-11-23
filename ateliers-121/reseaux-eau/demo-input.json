@@ -1,0 +1,62 @@
+{
+  "topic": "reseaux-eau",
+  "family": "anomaly",
+  "unit": "écarts standardisés",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "reference": [
+    [
+      10,
+      20
+    ],
+    [
+      12,
+      21
+    ],
+    [
+      9,
+      18
+    ],
+    [
+      11,
+      19
+    ],
+    [
+      10,
+      22
+    ],
+    [
+      8,
+      20
+    ]
+  ],
+  "cases": [
+    {
+      "id": "A",
+      "values": [
+        10,
+        20
+      ]
+    },
+    {
+      "id": "B",
+      "values": [
+        13,
+        24
+      ]
+    },
+    {
+      "id": "C",
+      "values": [
+        20,
+        31
+      ]
+    },
+    {
+      "id": "D",
+      "values": [
+        9,
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "rénovation bâtiment public",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "rénovation énergétique bâtiment public",
+      "score": 0.8660254037844386
+    },
+    {
+      "id": "B",
+      "text": "mobilité vélo transport",
+      "score": 0.0
+    },
+    {
+      "id": "C",
+      "text": "festival culture patrimoine",
+      "score": 0.0
+    },
+    {
+      "id": "D",
+      "text": "agriculture biodiversité prairie",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "agriculture",
+    "batiment",
+    "biodiversite",
+    "culture",
+    "energetique",
+    "festival",
+    "mobilite",
+    "patrimoine",
+    "prairie",
+    "public",
+    "renovation",
+    "transport",
+    "velo"
+  ],
+  "idf": {
+    "agriculture": 1.916290731874155,
+    "batiment": 1.916290731874155,
+    "biodiversite": 1.916290731874155,
+    "culture": 1.916290731874155,
+    "energetique": 1.916290731874155,
+    "festival": 1.916290731874155,
+    "mobilite": 1.916290731874155,
+    "patrimoine": 1.916290731874155,
+    "prairie": 1.916290731874155,
+    "public": 1.916290731874155,
+    "renovation": 1.916290731874155,
+    "transport": 1.916290731874155,
+    "velo": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

@@ -1,0 +1,25 @@
+{
+  "topic": "urbanisme",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "extension hauteur implantation",
+  "documents": [
+    {
+      "id": "A",
+      "text": "extension hauteur implantation zone exemple"
+    },
+    {
+      "id": "B",
+      "text": "clôture aspect extérieur zone exemple"
+    },
+    {
+      "id": "C",
+      "text": "stationnement accès terrain"
+    },
+    {
+      "id": "D",
+      "text": "annexe ancienne version hauteur"
+    }
+  ]
+}

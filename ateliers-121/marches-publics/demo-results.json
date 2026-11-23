@@ -1,0 +1,61 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "entretien espaces verts",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "entretien espaces verts parc jardin",
+      "score": 0.7745966692414833
+    },
+    {
+      "id": "B",
+      "text": "construction bâtiment scolaire",
+      "score": 0.0
+    },
+    {
+      "id": "C",
+      "text": "nettoyage locaux administratifs",
+      "score": 0.0
+    },
+    {
+      "id": "D",
+      "text": "maintenance informatique réseau",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "administratifs",
+    "batiment",
+    "construction",
+    "entretien",
+    "espaces",
+    "informatique",
+    "jardin",
+    "locaux",
+    "maintenance",
+    "nettoyage",
+    "parc",
+    "reseau",
+    "scolaire",
+    "verts"
+  ],
+  "idf": {
+    "administratifs": 1.916290731874155,
+    "batiment": 1.916290731874155,
+    "construction": 1.916290731874155,
+    "entretien": 1.916290731874155,
+    "espaces": 1.916290731874155,
+    "informatique": 1.916290731874155,
+    "jardin": 1.916290731874155,
+    "locaux": 1.916290731874155,
+    "maintenance": 1.916290731874155,
+    "nettoyage": 1.916290731874155,
+    "parc": 1.916290731874155,
+    "reseau": 1.916290731874155,
+    "scolaire": 1.916290731874155,
+    "verts": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

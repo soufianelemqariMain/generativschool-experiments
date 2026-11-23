@@ -1,0 +1,57 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "restaurant entrée sans marche",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "restaurant entrée sans marche documentée",
+      "score": 0.8520986465975202
+    },
+    {
+      "id": "B",
+      "text": "restaurant entrée information absente",
+      "score": 0.3631575300956179
+    },
+    {
+      "id": "D",
+      "text": "café entrée avec marche",
+      "score": 0.3631575300956179
+    },
+    {
+      "id": "C",
+      "text": "musée rampe ascenseur",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "absente",
+    "ascenseur",
+    "avec",
+    "cafe",
+    "documentee",
+    "entree",
+    "information",
+    "marche",
+    "musee",
+    "rampe",
+    "restaurant",
+    "sans"
+  ],
+  "idf": {
+    "absente": 1.916290731874155,
+    "ascenseur": 1.916290731874155,
+    "avec": 1.916290731874155,
+    "cafe": 1.916290731874155,
+    "documentee": 1.916290731874155,
+    "entree": 1.2231435513142097,
+    "information": 1.916290731874155,
+    "marche": 1.5108256237659907,
+    "musee": 1.916290731874155,
+    "rampe": 1.916290731874155,
+    "restaurant": 1.5108256237659907,
+    "sans": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

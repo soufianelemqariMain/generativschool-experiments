@@ -1,0 +1,120 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "regression",
+  "unit": "MW",
+  "a": 0.8814285714285715,
+  "b": 2657.142857142855,
+  "rows": [
+    {
+      "id": 1,
+      "x": 30000,
+      "y": 28500.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 2,
+      "x": 32500,
+      "y": 33275.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 3,
+      "x": 35000,
+      "y": 32050.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 4,
+      "x": 37500,
+      "y": 36825.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 5,
+      "x": 40000,
+      "y": 35600.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 6,
+      "x": 42500,
+      "y": 40375.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 7,
+      "x": 45000,
+      "y": 43950.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 8,
+      "x": 47500,
+      "y": 43925.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 9,
+      "x": 50000,
+      "y": 49900.0,
+      "split": "test"
+    },
+    {
+      "id": 10,
+      "x": 52500,
+      "y": 47475.0,
+      "split": "test"
+    },
+    {
+      "id": 11,
+      "x": 55000,
+      "y": 53450.0,
+      "split": "test"
+    },
+    {
+      "id": 12,
+      "x": 57500,
+      "y": 54625.0,
+      "split": "test"
+    }
+  ],
+  "predictions": [
+    {
+      "id": 9,
+      "x": 50000,
+      "y": 49900.0,
+      "split": "test",
+      "prediction": 46728.57142857143,
+      "baseline": 36812.5
+    },
+    {
+      "id": 10,
+      "x": 52500,
+      "y": 47475.0,
+      "split": "test",
+      "prediction": 48932.142857142855,
+      "baseline": 36812.5
+    },
+    {
+      "id": 11,
+      "x": 55000,
+      "y": 53450.0,
+      "split": "test",
+      "prediction": 51135.71428571428,
+      "baseline": 36812.5
+    },
+    {
+      "id": 12,
+      "x": 57500,
+      "y": 54625.0,
+      "split": "test",
+      "prediction": 53339.28571428571,
+      "baseline": 36812.5
+    }
+  ],
+  "baseline_value": 36812.5,
+  "mae": 2057.1428571428587,
+  "baseline_mae": 14550.0,
+  "train_count": 8,
+  "test_count": 4
+}

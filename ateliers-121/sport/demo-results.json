@@ -1,0 +1,59 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "badminton collectif soir",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "badminton collectif soir gymnase",
+      "score": 0.8660254037844386
+    },
+    {
+      "id": "B",
+      "text": "natation matin piscine",
+      "score": 0.0
+    },
+    {
+      "id": "C",
+      "text": "cyclisme dimanche extérieur",
+      "score": 0.0
+    },
+    {
+      "id": "D",
+      "text": "yoga midi salle",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "badminton",
+    "collectif",
+    "cyclisme",
+    "dimanche",
+    "exterieur",
+    "gymnase",
+    "matin",
+    "midi",
+    "natation",
+    "piscine",
+    "salle",
+    "soir",
+    "yoga"
+  ],
+  "idf": {
+    "badminton": 1.916290731874155,
+    "collectif": 1.916290731874155,
+    "cyclisme": 1.916290731874155,
+    "dimanche": 1.916290731874155,
+    "exterieur": 1.916290731874155,
+    "gymnase": 1.916290731874155,
+    "matin": 1.916290731874155,
+    "midi": 1.916290731874155,
+    "natation": 1.916290731874155,
+    "piscine": 1.916290731874155,
+    "salle": 1.916290731874155,
+    "soir": 1.916290731874155,
+    "yoga": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

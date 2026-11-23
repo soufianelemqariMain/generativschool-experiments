@@ -1,0 +1,120 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "regression",
+  "unit": "µg/m³",
+  "a": 0.7547619047619047,
+  "b": 1.9523809523809526,
+  "rows": [
+    {
+      "id": 1,
+      "x": 10,
+      "y": 8.5,
+      "split": "apprentissage"
+    },
+    {
+      "id": 2,
+      "x": 13,
+      "y": 15.05,
+      "split": "apprentissage"
+    },
+    {
+      "id": 3,
+      "x": 16,
+      "y": 11.6,
+      "split": "apprentissage"
+    },
+    {
+      "id": 4,
+      "x": 19,
+      "y": 18.15,
+      "split": "apprentissage"
+    },
+    {
+      "id": 5,
+      "x": 22,
+      "y": 14.7,
+      "split": "apprentissage"
+    },
+    {
+      "id": 6,
+      "x": 25,
+      "y": 21.25,
+      "split": "apprentissage"
+    },
+    {
+      "id": 7,
+      "x": 28,
+      "y": 25.8,
+      "split": "apprentissage"
+    },
+    {
+      "id": 8,
+      "x": 31,
+      "y": 24.35,
+      "split": "apprentissage"
+    },
+    {
+      "id": 9,
+      "x": 34,
+      "y": 32.9,
+      "split": "test"
+    },
+    {
+      "id": 10,
+      "x": 37,
+      "y": 27.45,
+      "split": "test"
+    },
+    {
+      "id": 11,
+      "x": 40,
+      "y": 36.0,
+      "split": "test"
+    },
+    {
+      "id": 12,
+      "x": 43,
+      "y": 36.55,
+      "split": "test"
+    }
+  ],
+  "predictions": [
+    {
+      "id": 9,
+      "x": 34,
+      "y": 32.9,
+      "split": "test",
+      "prediction": 27.614285714285714,
+      "baseline": 17.425
+    },
+    {
+      "id": 10,
+      "x": 37,
+      "y": 27.45,
+      "split": "test",
+      "prediction": 29.87857142857143,
+      "baseline": 17.425
+    },
+    {
+      "id": 11,
+      "x": 40,
+      "y": 36.0,
+      "split": "test",
+      "prediction": 32.14285714285714,
+      "baseline": 17.425
+    },
+    {
+      "id": 12,
+      "x": 43,
+      "y": 36.55,
+      "split": "test",
+      "prediction": 34.40714285714286,
+      "baseline": 17.425
+    }
+  ],
+  "baseline_value": 17.425,
+  "mae": 3.428571428571429,
+  "baseline_mae": 15.799999999999997,
+  "train_count": 8,
+  "test_count": 4
+}

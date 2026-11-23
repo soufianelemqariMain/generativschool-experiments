@@ -1,0 +1,61 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "extension hauteur implantation",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "extension hauteur implantation zone exemple",
+      "score": 0.8236075709994443
+    },
+    {
+      "id": "D",
+      "text": "annexe ancienne version hauteur",
+      "score": 0.20173138816290123
+    },
+    {
+      "id": "B",
+      "text": "clôture aspect extérieur zone exemple",
+      "score": 0.0
+    },
+    {
+      "id": "C",
+      "text": "stationnement accès terrain",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "acces",
+    "ancienne",
+    "annexe",
+    "aspect",
+    "cloture",
+    "exemple",
+    "extension",
+    "exterieur",
+    "hauteur",
+    "implantation",
+    "stationnement",
+    "terrain",
+    "version",
+    "zone"
+  ],
+  "idf": {
+    "acces": 1.916290731874155,
+    "ancienne": 1.916290731874155,
+    "annexe": 1.916290731874155,
+    "aspect": 1.916290731874155,
+    "cloture": 1.916290731874155,
+    "exemple": 1.5108256237659907,
+    "extension": 1.916290731874155,
+    "exterieur": 1.916290731874155,
+    "hauteur": 1.5108256237659907,
+    "implantation": 1.916290731874155,
+    "stationnement": 1.916290731874155,
+    "terrain": 1.916290731874155,
+    "version": 1.916290731874155,
+    "zone": 1.5108256237659907
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

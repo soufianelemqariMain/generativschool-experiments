@@ -1,0 +1,25 @@
+{
+  "topic": "sport",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "badminton collectif soir",
+  "documents": [
+    {
+      "id": "A",
+      "text": "badminton collectif soir gymnase"
+    },
+    {
+      "id": "B",
+      "text": "natation matin piscine"
+    },
+    {
+      "id": "C",
+      "text": "cyclisme dimanche extérieur"
+    },
+    {
+      "id": "D",
+      "text": "yoga midi salle"
+    }
+  ]
+}

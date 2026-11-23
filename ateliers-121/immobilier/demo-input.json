@@ -1,0 +1,80 @@
+{
+  "topic": "immobilier",
+  "family": "regression",
+  "unit": "€/m²",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "rows": [
+    {
+      "id": 1,
+      "x": 1200,
+      "y": 1224.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 2,
+      "x": 1330,
+      "y": 1476.6,
+      "split": "apprentissage"
+    },
+    {
+      "id": 3,
+      "x": 1460,
+      "y": 1429.2,
+      "split": "apprentissage"
+    },
+    {
+      "id": 4,
+      "x": 1590,
+      "y": 1681.8,
+      "split": "apprentissage"
+    },
+    {
+      "id": 5,
+      "x": 1720,
+      "y": 1634.4,
+      "split": "apprentissage"
+    },
+    {
+      "id": 6,
+      "x": 1850,
+      "y": 1887.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 7,
+      "x": 1980,
+      "y": 2079.6,
+      "split": "apprentissage"
+    },
+    {
+      "id": 8,
+      "x": 2110,
+      "y": 2092.2,
+      "split": "apprentissage"
+    },
+    {
+      "id": 9,
+      "x": 2240,
+      "y": 2404.8,
+      "split": "test"
+    },
+    {
+      "id": 10,
+      "x": 2370,
+      "y": 2297.4,
+      "split": "test"
+    },
+    {
+      "id": 11,
+      "x": 2500,
+      "y": 2610.0,
+      "split": "test"
+    },
+    {
+      "id": 12,
+      "x": 2630,
+      "y": 2682.6,
+      "split": "test"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "topic": "rappels",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "peluche gâteau jouet",
+  "documents": [
+    {
+      "id": "A",
+      "text": "peluche pâtisserie jouet enfant"
+    },
+    {
+      "id": "B",
+      "text": "biscuit gâteau chocolat alimentation"
+    },
+    {
+      "id": "C",
+      "text": "bateau kayak assistance nautique"
+    },
+    {
+      "id": "D",
+      "text": "outil perceuse atelier"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "topic": "orientation",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "sciences laboratoire expérimentation",
+  "documents": [
+    {
+      "id": "A",
+      "text": "sciences laboratoire expérimentation biologie"
+    },
+    {
+      "id": "B",
+      "text": "design objets création"
+    },
+    {
+      "id": "C",
+      "text": "gestion comptabilité entreprise"
+    },
+    {
+      "id": "D",
+      "text": "enseignement histoire langues"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "topic": "domicile",
+  "family": "regression",
+  "unit": "heures par semaine",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "rows": [
+    {
+      "id": 1,
+      "x": 50,
+      "y": 54.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 2,
+      "x": 65,
+      "y": 80.2,
+      "split": "apprentissage"
+    },
+    {
+      "id": 3,
+      "x": 80,
+      "y": 81.4,
+      "split": "apprentissage"
+    },
+    {
+      "id": 4,
+      "x": 95,
+      "y": 107.6,
+      "split": "apprentissage"
+    },
+    {
+      "id": 5,
+      "x": 110,
+      "y": 108.8,
+      "split": "apprentissage"
+    },
+    {
+      "id": 6,
+      "x": 125,
+      "y": 135.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 7,
+      "x": 140,
+      "y": 156.2,
+      "split": "apprentissage"
+    },
+    {
+      "id": 8,
+      "x": 155,
+      "y": 162.4,
+      "split": "apprentissage"
+    },
+    {
+      "id": 9,
+      "x": 170,
+      "y": 193.6,
+      "split": "test"
+    },
+    {
+      "id": 10,
+      "x": 185,
+      "y": 189.8,
+      "split": "test"
+    },
+    {
+      "id": 11,
+      "x": 200,
+      "y": 221.0,
+      "split": "test"
+    },
+    {
+      "id": 12,
+      "x": 215,
+      "y": 232.2,
+      "split": "test"
+    }
+  ]
+}

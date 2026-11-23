@@ -1,0 +1,80 @@
+{
+  "topic": "tourisme",
+  "family": "regression",
+  "unit": "passages",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "rows": [
+    {
+      "id": 1,
+      "x": 100,
+      "y": 95.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 2,
+      "x": 170,
+      "y": 211.5,
+      "split": "apprentissage"
+    },
+    {
+      "id": 3,
+      "x": 240,
+      "y": 203.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 4,
+      "x": 310,
+      "y": 319.5,
+      "split": "apprentissage"
+    },
+    {
+      "id": 5,
+      "x": 380,
+      "y": 311.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 6,
+      "x": 450,
+      "y": 427.5,
+      "split": "apprentissage"
+    },
+    {
+      "id": 7,
+      "x": 520,
+      "y": 519.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 8,
+      "x": 590,
+      "y": 535.5,
+      "split": "apprentissage"
+    },
+    {
+      "id": 9,
+      "x": 660,
+      "y": 677.0,
+      "split": "test"
+    },
+    {
+      "id": 10,
+      "x": 730,
+      "y": 643.5,
+      "split": "test"
+    },
+    {
+      "id": 11,
+      "x": 800,
+      "y": 785.0,
+      "split": "test"
+    },
+    {
+      "id": 12,
+      "x": 870,
+      "y": 826.5,
+      "split": "test"
+    }
+  ]
+}

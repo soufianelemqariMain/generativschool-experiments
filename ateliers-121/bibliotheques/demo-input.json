@@ -1,0 +1,25 @@
+{
+  "topic": "bibliotheques",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "voyage aventure mer",
+  "documents": [
+    {
+      "id": "A",
+      "text": "roman voyage aventure mer"
+    },
+    {
+      "id": "B",
+      "text": "essai histoire sciences"
+    },
+    {
+      "id": "C",
+      "text": "roman policier enquête sombre"
+    },
+    {
+      "id": "D",
+      "text": "bande dessinée jardin humour"
+    }
+  ]
+}

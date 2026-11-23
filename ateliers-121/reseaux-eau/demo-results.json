@@ -1,0 +1,48 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "anomaly",
+  "unit": "écarts standardisés",
+  "mean": [
+    10.0,
+    20.0
+  ],
+  "sd": [
+    1.2909944487358056,
+    1.2909944487358056
+  ],
+  "ranked": [
+    {
+      "id": "C",
+      "values": [
+        20,
+        31
+      ],
+      "score": 11.515207336387824
+    },
+    {
+      "id": "B",
+      "values": [
+        13,
+        24
+      ],
+      "score": 3.872983346207417
+    },
+    {
+      "id": "D",
+      "values": [
+        9,
+        19
+      ],
+      "score": 1.0954451150103324
+    },
+    {
+      "id": "A",
+      "values": [
+        10,
+        20
+      ],
+      "score": 0.0
+    }
+  ],
+  "algorithm": "Distance standardisée de référence, pas Isolation Forest"
+}

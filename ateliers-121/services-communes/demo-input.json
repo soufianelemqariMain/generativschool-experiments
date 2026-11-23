@@ -1,0 +1,40 @@
+{
+  "topic": "services-communes",
+  "family": "cluster",
+  "unit": "distance de profil",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "points": [
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      9,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ]
+}

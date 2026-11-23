@@ -1,0 +1,25 @@
+{
+  "topic": "tri",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "réparation grille pain",
+  "documents": [
+    {
+      "id": "A",
+      "text": "réparation grille pain petit électroménager"
+    },
+    {
+      "id": "B",
+      "text": "réemploi mobilier bois"
+    },
+    {
+      "id": "C",
+      "text": "recyclage textile vêtement"
+    },
+    {
+      "id": "D",
+      "text": "collecte verre emballage"
+    }
+  ]
+}

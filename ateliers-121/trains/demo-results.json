@@ -1,0 +1,120 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "regression",
+  "unit": "points de pourcentage",
+  "a": 0.7571428571428572,
+  "b": 1.2142857142857135,
+  "rows": [
+    {
+      "id": 1,
+      "x": 5,
+      "y": 4.5,
+      "split": "apprentissage"
+    },
+    {
+      "id": 2,
+      "x": 6,
+      "y": 7.4,
+      "split": "apprentissage"
+    },
+    {
+      "id": 3,
+      "x": 7,
+      "y": 5.3,
+      "split": "apprentissage"
+    },
+    {
+      "id": 4,
+      "x": 8,
+      "y": 8.2,
+      "split": "apprentissage"
+    },
+    {
+      "id": 5,
+      "x": 9,
+      "y": 6.1,
+      "split": "apprentissage"
+    },
+    {
+      "id": 6,
+      "x": 10,
+      "y": 9.0,
+      "split": "apprentissage"
+    },
+    {
+      "id": 7,
+      "x": 11,
+      "y": 10.9,
+      "split": "apprentissage"
+    },
+    {
+      "id": 8,
+      "x": 12,
+      "y": 9.8,
+      "split": "apprentissage"
+    },
+    {
+      "id": 9,
+      "x": 13,
+      "y": 13.7,
+      "split": "test"
+    },
+    {
+      "id": 10,
+      "x": 14,
+      "y": 10.6,
+      "split": "test"
+    },
+    {
+      "id": 11,
+      "x": 15,
+      "y": 14.5,
+      "split": "test"
+    },
+    {
+      "id": 12,
+      "x": 16,
+      "y": 14.4,
+      "split": "test"
+    }
+  ],
+  "predictions": [
+    {
+      "id": 9,
+      "x": 13,
+      "y": 13.7,
+      "split": "test",
+      "prediction": 11.057142857142857,
+      "baseline": 7.65
+    },
+    {
+      "id": 10,
+      "x": 14,
+      "y": 10.6,
+      "split": "test",
+      "prediction": 11.814285714285715,
+      "baseline": 7.65
+    },
+    {
+      "id": 11,
+      "x": 15,
+      "y": 14.5,
+      "split": "test",
+      "prediction": 12.571428571428571,
+      "baseline": 7.65
+    },
+    {
+      "id": 12,
+      "x": 16,
+      "y": 14.4,
+      "split": "test",
+      "prediction": 13.32857142857143,
+      "baseline": 7.65
+    }
+  ],
+  "baseline_value": 7.65,
+  "mae": 1.7142857142857144,
+  "baseline_mae": 5.6499999999999995,
+  "train_count": 8,
+  "test_count": 4
+}

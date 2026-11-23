@@ -1,0 +1,25 @@
+{
+  "topic": "accessibilite",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "restaurant entrée sans marche",
+  "documents": [
+    {
+      "id": "A",
+      "text": "restaurant entrée sans marche documentée"
+    },
+    {
+      "id": "B",
+      "text": "restaurant entrée information absente"
+    },
+    {
+      "id": "C",
+      "text": "musée rampe ascenseur"
+    },
+    {
+      "id": "D",
+      "text": "café entrée avec marche"
+    }
+  ]
+}

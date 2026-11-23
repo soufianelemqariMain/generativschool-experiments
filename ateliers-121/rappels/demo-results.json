@@ -1,0 +1,63 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "peluche gâteau jouet",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "peluche pâtisserie jouet enfant",
+      "score": 0.5773502691896257
+    },
+    {
+      "id": "B",
+      "text": "biscuit gâteau chocolat alimentation",
+      "score": 0.28867513459481287
+    },
+    {
+      "id": "C",
+      "text": "bateau kayak assistance nautique",
+      "score": 0.0
+    },
+    {
+      "id": "D",
+      "text": "outil perceuse atelier",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "alimentation",
+    "assistance",
+    "atelier",
+    "bateau",
+    "biscuit",
+    "chocolat",
+    "enfant",
+    "gateau",
+    "jouet",
+    "kayak",
+    "nautique",
+    "outil",
+    "patisserie",
+    "peluche",
+    "perceuse"
+  ],
+  "idf": {
+    "alimentation": 1.916290731874155,
+    "assistance": 1.916290731874155,
+    "atelier": 1.916290731874155,
+    "bateau": 1.916290731874155,
+    "biscuit": 1.916290731874155,
+    "chocolat": 1.916290731874155,
+    "enfant": 1.916290731874155,
+    "gateau": 1.916290731874155,
+    "jouet": 1.916290731874155,
+    "kayak": 1.916290731874155,
+    "nautique": 1.916290731874155,
+    "outil": 1.916290731874155,
+    "patisserie": 1.916290731874155,
+    "peluche": 1.916290731874155,
+    "perceuse": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

@@ -1,0 +1,25 @@
+{
+  "topic": "competences-metiers",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "organiser tournées livraison",
+  "documents": [
+    {
+      "id": "A",
+      "text": "logistique organiser livraison tournées"
+    },
+    {
+      "id": "B",
+      "text": "accueil relation clients vente"
+    },
+    {
+      "id": "C",
+      "text": "atelier réparation mécanique"
+    },
+    {
+      "id": "D",
+      "text": "formation enseignement sciences"
+    }
+  ]
+}

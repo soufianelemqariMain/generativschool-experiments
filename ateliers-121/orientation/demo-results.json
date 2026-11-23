@@ -1,0 +1,59 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "sciences laboratoire expérimentation",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "sciences laboratoire expérimentation biologie",
+      "score": 0.8660254037844386
+    },
+    {
+      "id": "B",
+      "text": "design objets création",
+      "score": 0.0
+    },
+    {
+      "id": "C",
+      "text": "gestion comptabilité entreprise",
+      "score": 0.0
+    },
+    {
+      "id": "D",
+      "text": "enseignement histoire langues",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "biologie",
+    "comptabilite",
+    "creation",
+    "design",
+    "enseignement",
+    "entreprise",
+    "experimentation",
+    "gestion",
+    "histoire",
+    "laboratoire",
+    "langues",
+    "objets",
+    "sciences"
+  ],
+  "idf": {
+    "biologie": 1.916290731874155,
+    "comptabilite": 1.916290731874155,
+    "creation": 1.916290731874155,
+    "design": 1.916290731874155,
+    "enseignement": 1.916290731874155,
+    "entreprise": 1.916290731874155,
+    "experimentation": 1.916290731874155,
+    "gestion": 1.916290731874155,
+    "histoire": 1.916290731874155,
+    "laboratoire": 1.916290731874155,
+    "langues": 1.916290731874155,
+    "objets": 1.916290731874155,
+    "sciences": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

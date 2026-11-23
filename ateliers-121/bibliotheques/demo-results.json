@@ -1,0 +1,61 @@
+{
+  "status": "DEMONSTRATION_SUR_DONNEES_FICTIVES",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "query": "voyage aventure mer",
+  "ranked": [
+    {
+      "id": "A",
+      "text": "roman voyage aventure mer",
+      "score": 0.9101454997182634
+    },
+    {
+      "id": "B",
+      "text": "essai histoire sciences",
+      "score": 0.0
+    },
+    {
+      "id": "C",
+      "text": "roman policier enquête sombre",
+      "score": 0.0
+    },
+    {
+      "id": "D",
+      "text": "bande dessinée jardin humour",
+      "score": 0.0
+    }
+  ],
+  "vocabulary": [
+    "aventure",
+    "bande",
+    "dessinee",
+    "enquete",
+    "essai",
+    "histoire",
+    "humour",
+    "jardin",
+    "mer",
+    "policier",
+    "roman",
+    "sciences",
+    "sombre",
+    "voyage"
+  ],
+  "idf": {
+    "aventure": 1.916290731874155,
+    "bande": 1.916290731874155,
+    "dessinee": 1.916290731874155,
+    "enquete": 1.916290731874155,
+    "essai": 1.916290731874155,
+    "histoire": 1.916290731874155,
+    "humour": 1.916290731874155,
+    "jardin": 1.916290731874155,
+    "mer": 1.916290731874155,
+    "policier": 1.916290731874155,
+    "roman": 1.5108256237659907,
+    "sciences": 1.916290731874155,
+    "sombre": 1.916290731874155,
+    "voyage": 1.916290731874155
+  },
+  "algorithm": "TF-IDF lexical, pas un encodeur sémantique"
+}

@@ -1,0 +1,80 @@
+{
+  "topic": "cantines",
+  "family": "regression",
+  "unit": "repas",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "rows": [
+    {
+      "id": 1,
+      "x": 80,
+      "y": 73.6,
+      "split": "apprentissage"
+    },
+    {
+      "id": 2,
+      "x": 92,
+      "y": 90.64,
+      "split": "apprentissage"
+    },
+    {
+      "id": 3,
+      "x": 104,
+      "y": 92.68,
+      "split": "apprentissage"
+    },
+    {
+      "id": 4,
+      "x": 116,
+      "y": 109.72,
+      "split": "apprentissage"
+    },
+    {
+      "id": 5,
+      "x": 128,
+      "y": 111.76,
+      "split": "apprentissage"
+    },
+    {
+      "id": 6,
+      "x": 140,
+      "y": 128.8,
+      "split": "apprentissage"
+    },
+    {
+      "id": 7,
+      "x": 152,
+      "y": 142.84,
+      "split": "apprentissage"
+    },
+    {
+      "id": 8,
+      "x": 164,
+      "y": 147.88,
+      "split": "apprentissage"
+    },
+    {
+      "id": 9,
+      "x": 176,
+      "y": 167.92,
+      "split": "test"
+    },
+    {
+      "id": 10,
+      "x": 188,
+      "y": 166.96,
+      "split": "test"
+    },
+    {
+      "id": 11,
+      "x": 200,
+      "y": 187.0,
+      "split": "test"
+    },
+    {
+      "id": 12,
+      "x": 212,
+      "y": 195.04,
+      "split": "test"
+    }
+  ]
+}

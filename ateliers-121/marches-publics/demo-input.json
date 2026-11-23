@@ -1,0 +1,25 @@
+{
+  "topic": "marches-publics",
+  "family": "retrieval",
+  "unit": "score de similarité",
+  "provenance": "Exemples inventés pour comprendre le calcul ; aucune donnée publique dans ce petit atelier.",
+  "query": "entretien espaces verts",
+  "documents": [
+    {
+      "id": "A",
+      "text": "entretien espaces verts parc jardin"
+    },
+    {
+      "id": "B",
+      "text": "construction bâtiment scolaire"
+    },
+    {
+      "id": "C",
+      "text": "nettoyage locaux administratifs"
+    },
+    {
+      "id": "D",
+      "text": "maintenance informatique réseau"
+    }
+  ]
+}
