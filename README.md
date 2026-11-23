@@ -32,3 +32,5 @@ Chaque dossier fournit le protocole, un extrait figé, les résultats et une com
 Chaque expérience documente les sources, leurs conditions et les transformations. Les données conservent leurs conditions de réutilisation propres ; ce dépôt ne leur attribue pas une licence globale.
 
 Publication indépendante fondée par Soufiane Lemqari. Recherche, code et rédaction assistés par IA ; pas de validation scientifique indépendante.
+
+- [Prévention routière — BAAC](securite-routiere/) : volumes mensuels, dates de publication respectées, test 2025.
