@@ -1,0 +1,77 @@
+[
+  {
+    "year": 2010,
+    "metropolitan_rows": 67288,
+    "departments": 96
+  },
+  {
+    "year": 2011,
+    "metropolitan_rows": 65024,
+    "departments": 96
+  },
+  {
+    "year": 2012,
+    "metropolitan_rows": 60437,
+    "departments": 96
+  },
+  {
+    "year": 2013,
+    "metropolitan_rows": 56812,
+    "departments": 96
+  },
+  {
+    "year": 2014,
+    "metropolitan_rows": 58191,
+    "departments": 96
+  },
+  {
+    "year": 2015,
+    "metropolitan_rows": 56603,
+    "departments": 96
+  },
+  {
+    "year": 2016,
+    "metropolitan_rows": 57522,
+    "departments": 96
+  },
+  {
+    "year": 2017,
+    "metropolitan_rows": 58613,
+    "departments": 96
+  },
+  {
+    "year": 2018,
+    "metropolitan_rows": 55766,
+    "departments": 96
+  },
+  {
+    "year": 2019,
+    "metropolitan_rows": 56016,
+    "departments": 96
+  },
+  {
+    "year": 2020,
+    "metropolitan_rows": 45121,
+    "departments": 96
+  },
+  {
+    "year": 2021,
+    "metropolitan_rows": 53540,
+    "departments": 96
+  },
+  {
+    "year": 2022,
+    "metropolitan_rows": 52380,
+    "departments": 96
+  },
+  {
+    "year": 2023,
+    "metropolitan_rows": 51641,
+    "departments": 96
+  },
+  {
+    "year": 2025,
+    "metropolitan_rows": 51837,
+    "departments": 96
+  }
+]

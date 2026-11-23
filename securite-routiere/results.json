@@ -1,0 +1,104 @@
+{
+  "status": "evaluated_prototype",
+  "train_rows": 11520,
+  "test_rows": 1152,
+  "departments": 96,
+  "train_years": [
+    2014,
+    2023
+  ],
+  "test_year": 2025,
+  "forecast_origin": "2025-01-01",
+  "latest_target_information": "2023-12",
+  "total_observed": 51837,
+  "metrics": {
+    "forest": {
+      "mae_accidents": 8.825946880986269,
+      "total_predicted": 50530.95859553202
+    },
+    "same_month_2y": {
+      "mae_accidents": 9.730902777777779,
+      "total_predicted": 51641.0
+    },
+    "historical_mean": {
+      "mae_accidents": 9.622685185185185,
+      "total_predicted": 52520.333333333336
+    }
+  },
+  "by_quarter": {
+    "1": {
+      "forest": {
+        "mae_accidents": 7.53511540502795,
+        "total_predicted": 10881.172317593813
+      },
+      "same_month_2y": {
+        "mae_accidents": 8.399305555555555,
+        "total_predicted": 10987.0
+      },
+      "historical_mean": {
+        "mae_accidents": 7.730324074074074,
+        "total_predicted": 11075.0
+      }
+    },
+    "2": {
+      "forest": {
+        "mae_accidents": 9.233708728806672,
+        "total_predicted": 13244.873452161519
+      },
+      "same_month_2y": {
+        "mae_accidents": 9.67361111111111,
+        "total_predicted": 13609.0
+      },
+      "historical_mean": {
+        "mae_accidents": 10.440972222222221,
+        "total_predicted": 13910.666666666668
+      }
+    },
+    "3": {
+      "forest": {
+        "mae_accidents": 9.627818713783766,
+        "total_predicted": 13226.9786892353
+      },
+      "same_month_2y": {
+        "mae_accidents": 10.565972222222221,
+        "total_predicted": 13212.0
+      },
+      "historical_mean": {
+        "mae_accidents": 10.32638888888889,
+        "total_predicted": 13839.0
+      }
+    },
+    "4": {
+      "forest": {
+        "mae_accidents": 8.907144676326684,
+        "total_predicted": 13177.934136541386
+      },
+      "same_month_2y": {
+        "mae_accidents": 10.284722222222221,
+        "total_predicted": 13833.0
+      },
+      "historical_mean": {
+        "mae_accidents": 9.993055555555555,
+        "total_predicted": 13695.666666666668
+      }
+    }
+  },
+  "checks": {
+    "no_future_target_leakage": true,
+    "same_test_rows": true,
+    "nonnegative_predictions": true
+  },
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "sklearn": "1.9.1"
+  },
+  "limits": [
+    "Historical revised snapshots, not vintage archives",
+    "Recorded bodily injury accidents, not exposure-adjusted individual risk",
+    "No causal effect of prevention evaluated",
+    "2024 unavailable at forecast origin and excluded",
+    "Metropolitan France only"
+  ]
+}

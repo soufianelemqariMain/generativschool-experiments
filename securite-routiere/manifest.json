@@ -1,0 +1,7 @@
+{
+  "sha256": {
+    "data/extraction-audit.json": "2b0b4aa86bcaed369f82c71adbfe803b8583c552e9201e2d2ee464da138a2bf8",
+    "data/monthly.csv": "79fce17d177f1d09985cccb5ee8ba2f91db25d57a3dbd67147e7f652cc40d300",
+    "data/source.json": "e222ad29cfea2aba6a0f92dc1445eacddb0496f6f411d2bc5f0d945c202bd6c8"
+  }
+}
