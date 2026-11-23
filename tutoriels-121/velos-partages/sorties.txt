@@ -1,0 +1,4 @@
+Stock initial : 2 ; personnes souhaitant partir : 5
+Locations observées : 2 ; stock final : 0
+Demande totale simulée : 5
+Une archive de locations seule ne voit que 2

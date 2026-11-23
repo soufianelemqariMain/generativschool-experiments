@@ -1,0 +1,20 @@
+{
+  "id": "rappels",
+  "title": "Du texte du produit au lot concerné",
+  "width": 400,
+  "height": 350,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"15\" y=\"25\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Score lexical · 0 à 1</text></g>",
+    "<g data-reveal=\"1\"><text x=\"15\" y=\"80\" font-size=\"17\" text-anchor=\"start\" fill=\"#172032\">A</text><rect x=\"15\" y=\"95\" width=\"320\" height=\"20\" rx=\"2\" fill=\"#f5f6fa\" stroke=\"#172032\"/><rect x=\"15\" y=\"95\" width=\"320.0\" height=\"20\" rx=\"2\" fill=\"#c8d4fa\" stroke=\"#172032\"/><text x=\"355\" y=\"112\" font-size=\"16\" text-anchor=\"end\" fill=\"#172032\">0,67</text></g>",
+    "<g data-reveal=\"2\"><text x=\"15\" y=\"165\" font-size=\"17\" text-anchor=\"start\" fill=\"#172032\">B</text><rect x=\"15\" y=\"180\" width=\"320\" height=\"20\" rx=\"2\" fill=\"#f5f6fa\" stroke=\"#172032\"/><rect x=\"15\" y=\"180\" width=\"159.76011994002997\" height=\"20\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"355\" y=\"197\" font-size=\"16\" text-anchor=\"end\" fill=\"#172032\">0,33</text></g>",
+    "<g data-reveal=\"2\"><text x=\"15\" y=\"250\" font-size=\"17\" text-anchor=\"start\" fill=\"#172032\">C</text><rect x=\"15\" y=\"265\" width=\"320\" height=\"20\" rx=\"2\" fill=\"#f5f6fa\" stroke=\"#172032\"/><rect x=\"15\" y=\"265\" width=\"159.76011994002997\" height=\"20\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"355\" y=\"282\" font-size=\"16\" text-anchor=\"end\" fill=\"#172032\">0,33</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Séparer description et identifiants",
+    "Classer sans confondre proximité et preuve",
+    "Contrôler le lot"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

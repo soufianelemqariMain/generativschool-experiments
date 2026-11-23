@@ -1,0 +1,3 @@
+Surface m² ; consommation kWh EP/m²/an : [(45, 220), (55, 210), (65, 195), (90, 170), (110, 160)]
+Trois voisins du logement de 60 m² : [(55, 210), (65, 195), (45, 220)]
+Estimation : 208.3 ; référence : 195.0 kWh EP/m²/an

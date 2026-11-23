@@ -1,0 +1,19 @@
+{
+  "id": "competences-metiers",
+  "title": "Faire apparaître les compétences à confirmer",
+  "width": 400,
+  "height": 355,
+  "layers": [
+    "<g data-reveal=\"0\"><circle cx=\"28\" cy=\"65\" r=\"8\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"55\" y=\"65\" font-size=\"19\" text-anchor=\"start\" fill=\"#172032\">logistique</text><text x=\"55\" y=\"92\" font-size=\"15\" text-anchor=\"start\" fill=\"#172032\">2 points de contact</text></g>",
+    "<g data-reveal=\"1\"><circle cx=\"28\" cy=\"150\" r=\"8\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"55\" y=\"150\" font-size=\"19\" text-anchor=\"start\" fill=\"#172032\">accueil</text><text x=\"55\" y=\"177\" font-size=\"15\" text-anchor=\"start\" fill=\"#172032\">1 points de contact</text></g>",
+    "<g data-reveal=\"2\"><circle cx=\"28\" cy=\"235\" r=\"8\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"55\" y=\"235\" font-size=\"19\" text-anchor=\"start\" fill=\"#172032\">vente</text><text x=\"55\" y=\"262\" font-size=\"15\" text-anchor=\"start\" fill=\"#172032\">0 points de contact</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Décrire ce qui a été fait",
+    "Chercher les recouvrements",
+    "Nommer ce qui reste à vérifier"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

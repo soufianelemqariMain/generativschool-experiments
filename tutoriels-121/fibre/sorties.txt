@@ -1,0 +1,4 @@
+Incidents / lignes : {'A': (10, 100), 'B': (10, 10000)}
+Incidents pour 100 lignes : [('A', 10.0), ('B', 0.1)]
+Rapport des fréquences : 100.0
+Lignes distinctes touchées : non renseignées

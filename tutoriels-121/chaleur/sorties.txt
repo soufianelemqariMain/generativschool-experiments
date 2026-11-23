@@ -1,0 +1,4 @@
+Minutes / fraction au soleil : {'Direct': [(8, 1), (4, 0.5), (3, 1)], 'Ombragé': [(10, 0.2), (6, 0.3), (3, 1)]}
+Minutes équivalentes au soleil : [('Direct', 13.0), ('Ombragé', 6.8)]
+Direct : 15 min de trajet ; 13.0 min équivalentes au soleil
+Ombragé : 19 min de trajet ; 6.8 min équivalentes au soleil

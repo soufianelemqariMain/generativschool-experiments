@@ -1,0 +1,6 @@
+Visites (min) : [60, 60, 60] ; trajets (min) : [20, 20]
+Visite 1 : minute 0 à 60
+Visite 2 : minute 80 à 140
+Visite 3 : minute 160 à 220
+Temps nécessaire : 220 min
+Dépassement : 10 min

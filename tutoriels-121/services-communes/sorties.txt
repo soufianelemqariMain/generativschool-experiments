@@ -1,0 +1,4 @@
+École, pharmacie, bibliothèque : {'A': (1, 1, 0), 'B': (1, 0, 0), 'C': (1, 1, 1), 'D': (0, 0, 1)}
+Différences avec A : [('B', 1), ('C', 1), ('D', 3)]
+Voisines de profil : ['B', 'C']
+Horaires, distances et capacité d’accueil : inconnus

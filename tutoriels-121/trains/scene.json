@@ -1,0 +1,19 @@
+{
+  "id": "trains",
+  "title": "Un taux de retard a un dénominateur",
+  "width": 400,
+  "height": 265,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"15\" y=\"25\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Trains retardés · %</text></g>",
+    "<g data-reveal=\"1\"><text x=\"15\" y=\"80\" font-size=\"17\" text-anchor=\"start\" fill=\"#172032\">Mois A</text><rect x=\"15\" y=\"95\" width=\"320\" height=\"20\" rx=\"2\" fill=\"#f5f6fa\" stroke=\"#172032\"/><rect x=\"15\" y=\"95\" width=\"80.0\" height=\"20\" rx=\"2\" fill=\"#c8d4fa\" stroke=\"#172032\"/><text x=\"355\" y=\"112\" font-size=\"16\" text-anchor=\"end\" fill=\"#172032\">10</text></g>",
+    "<g data-reveal=\"2\"><text x=\"15\" y=\"165\" font-size=\"17\" text-anchor=\"start\" fill=\"#172032\">Mois B</text><rect x=\"15\" y=\"180\" width=\"320\" height=\"20\" rx=\"2\" fill=\"#f5f6fa\" stroke=\"#172032\"/><rect x=\"15\" y=\"180\" width=\"320.0\" height=\"20\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"355\" y=\"197\" font-size=\"16\" text-anchor=\"end\" fill=\"#172032\">40</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Compter les trains concernés",
+    "Calculer les taux mensuels",
+    "Pondérer le bilan"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

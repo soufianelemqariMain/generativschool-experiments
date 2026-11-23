@@ -1,0 +1,3 @@
+Durée : 1.0 s ; échantillons : 128
+Fréquences calculées : 64
+Pics (Hz, amplitude) : [('8 Hz', 1.0), ('20 Hz', 0.5)]

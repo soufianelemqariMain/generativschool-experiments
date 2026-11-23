@@ -1,0 +1,4 @@
+Déclaré : ['accueillir', 'coordonner', 'planifier']
+Compétences communes : [('logistique', 2), ('accueil', 1), ('vente', 0)]
+Piste : logistique
+À confirmer ou acquérir : ['conduire']

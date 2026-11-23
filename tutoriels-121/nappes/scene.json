@@ -1,0 +1,19 @@
+{
+  "id": "nappes",
+  "title": "Passer de la profondeur au niveau, puis au décalage",
+  "width": 400,
+  "height": 420,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"15\" y=\"28\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Altitude de l’eau · m</text><path class=\"ink-path\" d=\"M65 60 V310 H365\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/><text x=\"365\" y=\"362\" font-size=\"16\" text-anchor=\"end\" fill=\"#172032\">Jour</text><text x=\"57\" y=\"315.0\" font-size=\"13\" text-anchor=\"end\" fill=\"#172032\">88</text><path class=\"ink-path\" d=\"M65 310.0 H365\" fill=\"none\" stroke=\"#dde2ef\" stroke-width=\"2\"/><text x=\"57\" y=\"200.0\" font-size=\"13\" text-anchor=\"end\" fill=\"#172032\">90</text><path class=\"ink-path\" d=\"M65 195.0 H365\" fill=\"none\" stroke=\"#dde2ef\" stroke-width=\"2\"/><text x=\"57\" y=\"85.0\" font-size=\"13\" text-anchor=\"end\" fill=\"#172032\">92</text><path class=\"ink-path\" d=\"M65 80.0 H365\" fill=\"none\" stroke=\"#dde2ef\" stroke-width=\"2\"/><text x=\"65.0\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">1</text><text x=\"123.0\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">2</text><text x=\"181.0\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">3</text><text x=\"239.0\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">4</text><text x=\"297.0\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">5</text><text x=\"355.0\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">6</text></g>",
+    "<g data-reveal=\"1\"><circle cx=\"65.0\" cy=\"195.0\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/><circle cx=\"123.0\" cy=\"252.5\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/><circle cx=\"181.0\" cy=\"195.0\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/><circle cx=\"239.0\" cy=\"137.5\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/><circle cx=\"297.0\" cy=\"137.5\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/><circle cx=\"355.0\" cy=\"195.0\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/></g>",
+    "<g data-reveal=\"2\"><path class=\"ink-path\" d=\"M65.0 195.0 L123.0 252.5 L181.0 195.0 L239.0 137.5 L297.0 137.5 L355.0 195.0\" fill=\"none\" stroke=\"#bc563f\" stroke-width=\"2\"/><text x=\"200\" y=\"395\" font-size=\"16\" text-anchor=\"middle\" fill=\"#172032\">Plus profond = altitude plus basse</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Lire ce que mesure le capteur",
+    "Décaler la pluie avant de comparer",
+    "Préparer la cible sans surinterpréter"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

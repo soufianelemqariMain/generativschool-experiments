@@ -1,0 +1,4 @@
+[(0, 70000), (5, 65000), (10, 60000), (15, 55000)]
+Puissance = 70000 + (-1000) × température
+Prévision illustrative : 62000 MW
+Appareil 1 kW pendant 2 h à 0,15 €/kWh : 0.30 €

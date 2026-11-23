@@ -1,0 +1,4 @@
+Heure / remplissage (%) : [(0, 50), (1, 60), (2, 70)]
+Rythme appris : 10.0 points/h
+Saturation depuis le début : 5.0 h
+Temps restant après le dernier relevé : 3.0 h

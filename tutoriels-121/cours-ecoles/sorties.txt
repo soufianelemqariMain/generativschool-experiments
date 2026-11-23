@@ -1,0 +1,3 @@
+Pixels dans la cour : 4
+Pixels végétalisés dans la cour : 1
+Part végétalisée : 25.0 %

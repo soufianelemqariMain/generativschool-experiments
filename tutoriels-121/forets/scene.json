@@ -1,0 +1,22 @@
+{
+  "id": "forets",
+  "title": "Choisir un seuil sans cacher les alertes manquées",
+  "width": 400,
+  "height": 390,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"20\" y=\"25\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Au seuil de 0,5</text></g>",
+    "<g data-reveal=\"1\"><rect x=\"15\" y=\"60\" width=\"175\" height=\"110\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"102\" y=\"115\" font-size=\"34\" text-anchor=\"middle\" fill=\"#172032\">2</text><text x=\"102\" y=\"149\" font-size=\"14\" text-anchor=\"middle\" fill=\"#172032\">Alerte juste</text></g>",
+    "<g data-reveal=\"1\"><rect x=\"207\" y=\"60\" width=\"175\" height=\"110\" rx=\"2\" fill=\"#eee8f6\" stroke=\"#172032\"/><text x=\"294\" y=\"115\" font-size=\"34\" text-anchor=\"middle\" fill=\"#172032\">1</text><text x=\"294\" y=\"149\" font-size=\"14\" text-anchor=\"middle\" fill=\"#172032\">Fausse alerte</text></g>",
+    "<g data-reveal=\"2\"><rect x=\"15\" y=\"187\" width=\"175\" height=\"110\" rx=\"2\" fill=\"#f7d5cb\" stroke=\"#172032\"/><text x=\"102\" y=\"242\" font-size=\"34\" text-anchor=\"middle\" fill=\"#172032\">1</text><text x=\"102\" y=\"276\" font-size=\"14\" text-anchor=\"middle\" fill=\"#172032\">Événement manqué</text></g>",
+    "<g data-reveal=\"2\"><rect x=\"207\" y=\"187\" width=\"175\" height=\"110\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"294\" y=\"242\" font-size=\"34\" text-anchor=\"middle\" fill=\"#172032\">2</text><text x=\"294\" y=\"276\" font-size=\"14\" text-anchor=\"middle\" fill=\"#172032\">Absence juste</text></g>",
+    "<g data-reveal=\"2\"><text x=\"20\" y=\"355\" font-size=\"15\" text-anchor=\"start\" fill=\"#172032\">Seuil 0,3 : aucun des 3 événements manqué</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Garder la vérité terrain pour le test",
+    "Construire les quatre comptes",
+    "Comparer deux politiques"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

@@ -1,0 +1,3 @@
+Objet / fonctionne / réparable : [('grille-pain', True, None), ('grille-pain', False, True), ('grille-pain', False, False)]
+['réemploi à examiner', 'réparation à examiner', 'filière adaptée à vérifier']
+Cas sans diagnostic : diagnostic nécessaire

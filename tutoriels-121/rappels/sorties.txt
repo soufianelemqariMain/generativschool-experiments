@@ -1,0 +1,4 @@
+Demande : ['gateau', 'peluche']
+Scores lexicaux : [('A', 0.667), ('B', 0.333), ('C', 0.333)]
+Fiche candidate : A
+Lot correspondant : False

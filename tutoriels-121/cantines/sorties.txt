@@ -1,0 +1,4 @@
+Réservés / servis : [(200, 180), (180, 171), (210, 189), (190, 180)]
+Taux appris : 92.3% ; attente : 184.6 repas
+Coûts moyens (unités conventionnelles) : [('180 repas', 40.0), ('190 repas', 16.666666666666668), ('200 repas', 10.0)]
+Choix pour ces hypothèses : 200 repas

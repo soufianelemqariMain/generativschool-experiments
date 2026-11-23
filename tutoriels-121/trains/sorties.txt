@@ -1,0 +1,3 @@
+Trains circulés / retardés : [(100, 10), (20, 8)]
+Taux mensuels (%) : [10.0, 40.0]
+Taux global : 15.0 % ; moyenne simple : 25.0 %

@@ -1,0 +1,4 @@
+Corpus : [('2024', 'UA', 'hauteur maximale 9 metres'), ('2026', 'UA', 'hauteur maximale 12 metres'), ('2026', 'UB', 'hauteur maximale 6 metres')]
+Corpus applicable supposé : ['hauteur maximale 12 metres']
+Passage : hauteur maximale 12 metres
+Provenance : zone UA ; version 2026 ; annexes non examinées

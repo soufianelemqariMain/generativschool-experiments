@@ -1,0 +1,4 @@
+Date de recherche : 2026-11-01
+Avis encore ouverts : ['B', 'C']
+Correspondances lexicales : [('B', 1), ('C', 0)]
+Éligibilité de l’entreprise : non vérifiée

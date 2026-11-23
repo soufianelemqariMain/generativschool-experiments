@@ -1,0 +1,3 @@
+Besoin : (8, 18) ; ouverture, fermeture, places : [('A', 7, 19, 0), ('B', 9, 18, 2), ('C', 7, 18, 1)]
+Horaires compatibles : [('A', 0), ('C', 1)]
+Disponibilités positives à confirmer : ['C']

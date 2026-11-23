@@ -1,0 +1,4 @@
+Historique de rendement (%) : [79, 80, 81, 80, 79, 81]
+Centre : 80.0 % ; écart standardisé : -18.37
+Dossier à vérifier : True
+Cause connue : non ; contrôler déclaration, exploitation, puis réseau

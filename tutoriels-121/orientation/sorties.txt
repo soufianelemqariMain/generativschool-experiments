@@ -1,0 +1,5 @@
+Intérêts : ['biologie', 'creer']
+Points de contact : [('Design', 1), ('Biologie', 1), ('Paysage', 2)]
+Design — à découvrir : dessiner
+Biologie — à découvrir : experimenter
+Paysage — à découvrir : terrain

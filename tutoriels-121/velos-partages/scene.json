@@ -1,0 +1,28 @@
+{
+  "id": "velos-partages",
+  "title": "Retrouver la demande que le stock cache",
+  "width": 400,
+  "height": 340,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"20\" y=\"30\" font-size=\"19\" text-anchor=\"start\" fill=\"#172032\">5 personnes souhaitent partir</text></g>",
+    "<g data-reveal=\"1\"><circle cx=\"40\" cy=\"95\" r=\"12\" fill=\"#e4ebfc\" stroke=\"#172032\"/><path class=\"ink-path\" d=\"M40 110 V165 M25 130 H55\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/></g>",
+    "<g data-reveal=\"2\"><text x=\"40\" y=\"207\" font-size=\"26\" text-anchor=\"middle\" fill=\"#2949c7\">✓</text></g>",
+    "<g data-reveal=\"1\"><circle cx=\"112\" cy=\"95\" r=\"12\" fill=\"#e4ebfc\" stroke=\"#172032\"/><path class=\"ink-path\" d=\"M112 110 V165 M97 130 H127\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/></g>",
+    "<g data-reveal=\"2\"><text x=\"112\" y=\"207\" font-size=\"26\" text-anchor=\"middle\" fill=\"#2949c7\">✓</text></g>",
+    "<g data-reveal=\"1\"><circle cx=\"184\" cy=\"95\" r=\"12\" fill=\"#e4ebfc\" stroke=\"#172032\"/><path class=\"ink-path\" d=\"M184 110 V165 M169 130 H199\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/></g>",
+    "<g data-reveal=\"2\"><text x=\"184\" y=\"207\" font-size=\"26\" text-anchor=\"middle\" fill=\"#bc563f\">×</text></g>",
+    "<g data-reveal=\"1\"><circle cx=\"256\" cy=\"95\" r=\"12\" fill=\"#e4ebfc\" stroke=\"#172032\"/><path class=\"ink-path\" d=\"M256 110 V165 M241 130 H271\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/></g>",
+    "<g data-reveal=\"2\"><text x=\"256\" y=\"207\" font-size=\"26\" text-anchor=\"middle\" fill=\"#bc563f\">×</text></g>",
+    "<g data-reveal=\"1\"><circle cx=\"328\" cy=\"95\" r=\"12\" fill=\"#e4ebfc\" stroke=\"#172032\"/><path class=\"ink-path\" d=\"M328 110 V165 M313 130 H343\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/></g>",
+    "<g data-reveal=\"2\"><text x=\"328\" y=\"207\" font-size=\"26\" text-anchor=\"middle\" fill=\"#bc563f\">×</text></g>",
+    "<g data-reveal=\"2\"><text x=\"20\" y=\"270\" font-size=\"18\" text-anchor=\"start\" fill=\"#172032\">2 locations visibles · 3 refus invisibles</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Distinguer intentions et locations",
+    "Faire partir seulement les vélos présents",
+    "Montrer la partie invisible"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

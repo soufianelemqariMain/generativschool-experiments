@@ -1,0 +1,3 @@
+Capacité / passages prévus : {'Plage': [120, 150], 'Sentier': [80, 60], 'Jardin': [100, 70]}
+Marges : {'Plage': -30, 'Sentier': 20, 'Jardin': 30}
+Après redistribution : [('Plage', 120), ('Sentier', 80), ('Jardin', 80)]

@@ -1,0 +1,20 @@
+{
+  "id": "cours-ecoles",
+  "title": "Croiser deux masques avant de compter",
+  "width": 400,
+  "height": 490,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"15\" y=\"27\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Végétation : vert · autre : clair</text></g>",
+    "<g data-reveal=\"0\"><rect x=\"70\" y=\"60\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#b9d9bd\" stroke=\"#172032\"/><rect x=\"135\" y=\"60\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#b9d9bd\" stroke=\"#172032\"/><rect x=\"200\" y=\"60\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"265\" y=\"60\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"70\" y=\"125\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#b9d9bd\" stroke=\"#172032\"/><rect x=\"135\" y=\"125\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"200\" y=\"125\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"265\" y=\"125\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"70\" y=\"190\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"135\" y=\"190\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#b9d9bd\" stroke=\"#172032\"/><rect x=\"200\" y=\"190\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"265\" y=\"190\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"70\" y=\"255\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"135\" y=\"255\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#f4f1ee\" stroke=\"#172032\"/><rect x=\"200\" y=\"255\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#b9d9bd\" stroke=\"#172032\"/><rect x=\"265\" y=\"255\" width=\"60\" height=\"60\" rx=\"2\" fill=\"#b9d9bd\" stroke=\"#172032\"/></g>",
+    "<g data-reveal=\"1\"><rect x=\"135\" y=\"125\" width=\"60\" height=\"60\" fill=\"none\" stroke=\"#2949c7\" stroke-width=\"4\"/><rect x=\"200\" y=\"125\" width=\"60\" height=\"60\" fill=\"none\" stroke=\"#2949c7\" stroke-width=\"4\"/><rect x=\"135\" y=\"190\" width=\"60\" height=\"60\" fill=\"none\" stroke=\"#2949c7\" stroke-width=\"4\"/><rect x=\"200\" y=\"190\" width=\"60\" height=\"60\" fill=\"none\" stroke=\"#2949c7\" stroke-width=\"4\"/><text x=\"15\" y=\"350\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Contour bleu : limite de la cour</text></g>",
+    "<g data-reveal=\"2\"><text x=\"165\" y=\"227\" font-size=\"24\" text-anchor=\"middle\" fill=\"#172032\">✓</text><text x=\"15\" y=\"395\" font-size=\"19\" text-anchor=\"start\" fill=\"#172032\">1 pixel vert / 4 pixels de cour</text><text x=\"15\" y=\"435\" font-size=\"24\" text-anchor=\"start\" fill=\"#172032\">= 25 % de cette grille</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Distinguer végétation et périmètre",
+    "Intersecter les deux masques",
+    "Passer à une proportion"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

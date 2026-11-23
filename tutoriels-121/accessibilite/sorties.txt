@@ -1,0 +1,5 @@
+{'A': {'plain_pied': True, 'porte_large': True}, 'B': {'plain_pied': True, 'porte_large': None}, 'C': {'plain_pied': False, 'porte_large': True}}
+A critères renseignés compatibles
+B information manquante
+C contrainte identifiée
+B — à confirmer : ['porte_large']

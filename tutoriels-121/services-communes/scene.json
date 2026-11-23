@@ -1,0 +1,21 @@
+{
+  "id": "services-communes",
+  "title": "Comparer une présence, pas inventer un accès",
+  "width": 400,
+  "height": 420,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"20\" y=\"25\" font-size=\"17\" text-anchor=\"start\" fill=\"#172032\">École · pharmacie · bibliothèque</text></g>",
+    "<g data-reveal=\"0\"><text x=\"20\" y=\"90\" font-size=\"20\" text-anchor=\"start\" fill=\"#172032\">A</text><rect x=\"95\" y=\"60\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"119\" y=\"91\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">1</text><rect x=\"175\" y=\"60\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"199\" y=\"91\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">1</text><rect x=\"255\" y=\"60\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#fff\" stroke=\"#172032\"/><text x=\"279\" y=\"91\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">0</text></g>",
+    "<g data-reveal=\"1\"><text x=\"20\" y=\"160\" font-size=\"20\" text-anchor=\"start\" fill=\"#172032\">B</text><rect x=\"95\" y=\"130\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"119\" y=\"161\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">1</text><rect x=\"175\" y=\"130\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#fff\" stroke=\"#172032\"/><text x=\"199\" y=\"161\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">0</text><rect x=\"255\" y=\"130\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#fff\" stroke=\"#172032\"/><text x=\"279\" y=\"161\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">0</text></g>",
+    "<g data-reveal=\"2\"><text x=\"20\" y=\"230\" font-size=\"20\" text-anchor=\"start\" fill=\"#172032\">C</text><rect x=\"95\" y=\"200\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"119\" y=\"231\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">1</text><rect x=\"175\" y=\"200\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"199\" y=\"231\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">1</text><rect x=\"255\" y=\"200\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"279\" y=\"231\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">1</text></g>",
+    "<g data-reveal=\"2\"><text x=\"20\" y=\"300\" font-size=\"20\" text-anchor=\"start\" fill=\"#172032\">D</text><rect x=\"95\" y=\"270\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#fff\" stroke=\"#172032\"/><text x=\"119\" y=\"301\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">0</text><rect x=\"175\" y=\"270\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#fff\" stroke=\"#172032\"/><text x=\"199\" y=\"301\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">0</text><rect x=\"255\" y=\"270\" width=\"48\" height=\"48\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"279\" y=\"301\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">1</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Encoder trois équipements",
+    "Compter les différences",
+    "Ouvrir la comparaison"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

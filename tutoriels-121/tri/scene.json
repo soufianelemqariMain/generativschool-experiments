@@ -1,0 +1,20 @@
+{
+  "id": "tri",
+  "title": "Reconnaître l’objet ne décide pas de son avenir",
+  "width": 400,
+  "height": 450,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"200\" y=\"30\" font-size=\"22\" text-anchor=\"middle\" fill=\"#172032\">Un même grille-pain</text><path class=\"ink-path\" d=\"M200 45 V80\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/></g>",
+    "<g data-reveal=\"0\"><path class=\"ink-path\" d=\"M45 80 V120 H70\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/><circle cx=\"45\" cy=\"120\" r=\"5\" fill=\"#bc563f\" stroke=\"#172032\"/><text x=\"80\" y=\"110\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Fonctionne</text><text x=\"80\" y=\"138\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Réemploi à examiner</text></g>",
+    "<g data-reveal=\"1\"><path class=\"ink-path\" d=\"M45 80 V230 H70\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/><circle cx=\"45\" cy=\"230\" r=\"5\" fill=\"#bc563f\" stroke=\"#172032\"/><text x=\"80\" y=\"220\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Ne fonctionne pas, réparable</text><text x=\"80\" y=\"248\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Réparation à examiner</text></g>",
+    "<g data-reveal=\"2\"><path class=\"ink-path\" d=\"M45 80 V340 H70\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/><circle cx=\"45\" cy=\"340\" r=\"5\" fill=\"#bc563f\" stroke=\"#172032\"/><text x=\"80\" y=\"330\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Diagnostic inconnu</text><text x=\"80\" y=\"358\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">Diagnostic avant conseil</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Décrire l’état en plus de l’objet",
+    "Séparer les embranchements",
+    "Conserver le diagnostic manquant"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

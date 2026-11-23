@@ -1,0 +1,3 @@
+{'A': ['aventure', 'espace'], 'B': ['aventure', 'espace', 'robot'], 'C': ['jardin', 'societe'], 'D': ['robot', 'societe']}
+Voisins : [('A', 2), ('B', 2), ('C', 0), ('D', 0)]
+Voisin : A ; détour : C

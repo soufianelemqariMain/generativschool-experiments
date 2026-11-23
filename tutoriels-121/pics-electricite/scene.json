@@ -1,0 +1,19 @@
+{
+  "id": "pics-electricite",
+  "title": "Passer d’une courbe prévue à un créneau",
+  "width": 400,
+  "height": 420,
+  "layers": [
+    "<g data-reveal=\"0\"><text x=\"15\" y=\"28\" font-size=\"16\" text-anchor=\"start\" fill=\"#172032\">MW</text><path class=\"ink-path\" d=\"M65 60 V310 H365\" fill=\"none\" stroke=\"#172032\" stroke-width=\"2\"/><text x=\"365\" y=\"362\" font-size=\"16\" text-anchor=\"end\" fill=\"#172032\">Température · °C</text><text x=\"57\" y=\"315.0\" font-size=\"13\" text-anchor=\"end\" fill=\"#172032\">0</text><path class=\"ink-path\" d=\"M65 310.0 H365\" fill=\"none\" stroke=\"#dde2ef\" stroke-width=\"2\"/><text x=\"57\" y=\"200.0\" font-size=\"13\" text-anchor=\"end\" fill=\"#172032\">38500</text><path class=\"ink-path\" d=\"M65 195.0 H365\" fill=\"none\" stroke=\"#dde2ef\" stroke-width=\"2\"/><text x=\"57\" y=\"85.0\" font-size=\"13\" text-anchor=\"end\" fill=\"#172032\">77000</text><path class=\"ink-path\" d=\"M65 80.0 H365\" fill=\"none\" stroke=\"#dde2ef\" stroke-width=\"2\"/><text x=\"65.0\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">0</text><text x=\"161.66666666666669\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">5</text><text x=\"258.33333333333337\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">10</text><text x=\"355.0\" y=\"335\" font-size=\"13\" text-anchor=\"middle\" fill=\"#172032\">15</text></g>",
+    "<g data-reveal=\"1\"><circle cx=\"65.0\" cy=\"100.9090909090909\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/><circle cx=\"161.66666666666669\" cy=\"115.84415584415584\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/><circle cx=\"258.33333333333337\" cy=\"130.7792207792208\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/><circle cx=\"355.0\" cy=\"145.71428571428572\" r=\"6\" fill=\"#e4ebfc\" stroke=\"#172032\"/></g>",
+    "<g data-reveal=\"2\"><path class=\"ink-path\" d=\"M65.0 100.9090909090909 L355.0 145.71428571428572\" fill=\"none\" stroke=\"#bc563f\" stroke-width=\"2\"/><circle cx=\"219.66666666666666\" cy=\"124.80519480519482\" r=\"8\" fill=\"#bc563f\" stroke=\"#172032\"/><text x=\"200\" y=\"395\" font-size=\"18\" text-anchor=\"middle\" fill=\"#172032\">À 8 °C : 62 000 MW</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Former des couples météo-réseau",
+    "Ajuster la pente",
+    "Distinguer prévision et facture"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

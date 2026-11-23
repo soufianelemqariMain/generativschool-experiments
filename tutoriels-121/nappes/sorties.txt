@@ -1,0 +1,4 @@
+Niveaux d’eau (m) : [90, 89, 90, 91, 91, 90]
+Pluie J / niveau J+1 : [(0, 89), (20, 90), (10, 91), (0, 91), (0, 90)]
+Variations quotidiennes (m) : [-1, 1, 1, 0, -1]
+Nombre de couples : 5 ; insuffisant pour valider une réponse à la pluie

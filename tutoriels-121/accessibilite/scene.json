@@ -1,0 +1,19 @@
+{
+  "id": "accessibilite",
+  "title": "Ne pas faire disparaître ce que l’on ignore",
+  "width": 400,
+  "height": 420,
+  "layers": [
+    "<g data-reveal=\"0\"><rect x=\"18\" y=\"40\" width=\"44\" height=\"44\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"40\" y=\"70\" font-size=\"25\" text-anchor=\"middle\" fill=\"#172032\">•</text><text x=\"80\" y=\"65\" font-size=\"18\" text-anchor=\"start\" fill=\"#172032\">A</text><text x=\"80\" y=\"93\" font-size=\"15\" text-anchor=\"start\" fill=\"#172032\">critères renseignés</text><text x=\"80\" y=\"114\" font-size=\"15\" text-anchor=\"start\" fill=\"#172032\">compatibles</text></g>",
+    "<g data-reveal=\"1\"><rect x=\"18\" y=\"140\" width=\"44\" height=\"44\" rx=\"2\" fill=\"#f6e1ac\" stroke=\"#172032\"/><text x=\"40\" y=\"170\" font-size=\"25\" text-anchor=\"middle\" fill=\"#172032\">?</text><text x=\"80\" y=\"165\" font-size=\"18\" text-anchor=\"start\" fill=\"#172032\">B</text><text x=\"80\" y=\"193\" font-size=\"15\" text-anchor=\"start\" fill=\"#172032\">information manquante</text></g>",
+    "<g data-reveal=\"2\"><rect x=\"18\" y=\"240\" width=\"44\" height=\"44\" rx=\"2\" fill=\"#e4ebfc\" stroke=\"#172032\"/><text x=\"40\" y=\"270\" font-size=\"25\" text-anchor=\"middle\" fill=\"#172032\">•</text><text x=\"80\" y=\"265\" font-size=\"18\" text-anchor=\"start\" fill=\"#172032\">C</text><text x=\"80\" y=\"293\" font-size=\"15\" text-anchor=\"start\" fill=\"#172032\">contrainte identifiée</text></g>"
+  ],
+  "note": "Les nombres viennent du programme ci-dessous, sur ses entrées fictives.",
+  "steps": [
+    "Conserver les valeurs inconnues",
+    "Calculer trois statuts distincts",
+    "Produire une question utile"
+  ],
+  "status": "synthetic_executed",
+  "video": "not_produced"
+}

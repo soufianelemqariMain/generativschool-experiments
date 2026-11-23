@@ -1,0 +1,4 @@
+Ventes A : [1800, 2000, 2100, 2200, 8000] ; ventes B : [2000, 2100, 2200, 2500, 8000]
+Médianes €/m² : [('Mois A', 2100), ('Mois B', 2200)]
+Variation de médiane : 4.76 %
+Variation du même logement : impossible à déduire de ces listes
